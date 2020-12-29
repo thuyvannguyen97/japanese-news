@@ -1,0 +1,10453 @@
+[
+  {
+    "id": "13929",
+    "group": "3",
+    "word": "愛",
+    "phonetic": "あい",
+    "mean": "love"
+  },
+  {
+    "id": "13995",
+    "group": "3",
+    "word": "挨拶",
+    "phonetic": "あいさつ",
+    "mean": "greeting,salutation"
+  },
+  {
+    "id": "13971",
+    "group": "3",
+    "word": "愛情",
+    "phonetic": "あいじょう",
+    "mean": "love,affection"
+  },
+  {
+    "id": "26916",
+    "group": "3",
+    "word": "合図",
+    "phonetic": "あいず",
+    "mean": "sign,signal"
+  },
+  {
+    "id": "13933",
+    "group": "1",
+    "word": "愛する",
+    "phonetic": "あいする",
+    "mean": "to love"
+  },
+  {
+    "id": "38194",
+    "group": "3",
+    "word": "相手",
+    "phonetic": "あいて",
+    "mean": "companion,partner,company"
+  },
+  {
+    "id": "56037",
+    "group": "3",
+    "word": "明かり",
+    "phonetic": "あかり",
+    "mean": "lamplight,light (in general),brightness"
+  },
+  {
+    "id": "58271",
+    "group": "3",
+    "word": "空き",
+    "phonetic": "あき",
+    "mean": "room,time to spare,emptiness"
+  },
+  {
+    "id": "50929",
+    "group": "2",
+    "word": "明らか",
+    "phonetic": "あきらか",
+    "mean": "obvious,evident,clear"
+  },
+  {
+    "id": "41663",
+    "group": "1",
+    "word": "諦める",
+    "phonetic": "あきらめる",
+    "mean": "to give up,to abandon"
+  },
+  {
+    "id": "56041",
+    "group": "1",
+    "word": "飽きる",
+    "phonetic": "あきる",
+    "mean": "to get tired of,to lose interest in,to have enough"
+  },
+  {
+    "id": "14146",
+    "group": "3",
+    "word": "握手",
+    "phonetic": "あくしゅ",
+    "mean": "handshake"
+  },
+  {
+    "id": "14125",
+    "group": "3",
+    "word": "悪魔",
+    "phonetic": "あくま",
+    "mean": "devil,demon,evil spirit"
+  },
+  {
+    "id": "52162",
+    "group": "1",
+    "word": "預ける",
+    "phonetic": "あずける",
+    "mean": "to give into custody,to entrust,to deposit"
+  },
+  {
+    "id": "19963",
+    "group": "3",
+    "word": "汗",
+    "phonetic": "あせ",
+    "mean": "sweat,perspiration"
+  },
+  {
+    "id": "52138",
+    "group": "1",
+    "word": "与える",
+    "phonetic": "あたえる",
+    "mean": "to give,to present,to award"
+  },
+  {
+    "id": "48978",
+    "group": "3",
+    "word": "辺り",
+    "phonetic": "あたり",
+    "mean": "vicinity,nearby"
+  },
+  {
+    "id": "42828",
+    "group": "1",
+    "word": "当たる",
+    "phonetic": "あたる",
+    "mean": "to be hit,to be successful,to be equivalent to"
+  },
+  {
+    "id": "14215",
+    "group": "1",
+    "word": "扱う",
+    "phonetic": "あつかう",
+    "mean": "to handle,to deal with,to treat"
+  },
+  {
+    "id": "58275",
+    "group": "3",
+    "word": "集まり",
+    "phonetic": "あつまり",
+    "mean": "gathering,meeting,assembly,collection"
+  },
+  {
+    "id": "42832",
+    "group": "1",
+    "word": "当てる",
+    "phonetic": "あてる",
+    "mean": "to hit,to apply a patch"
+  },
+  {
+    "id": "36506",
+    "group": "3",
+    "word": "跡",
+    "phonetic": "あと",
+    "mean": "trace,tracks,mark,sign,remains,ruins,scar"
+  },
+  {
+    "id": "23980",
+    "group": "3",
+    "word": "穴",
+    "phonetic": "あな",
+    "mean": "hole"
+  },
+  {
+    "id": "51536",
+    "group": "3",
+    "word": "油",
+    "phonetic": "あぶら",
+    "mean": "oil"
+  },
+  {
+    "id": "25606",
+    "group": "3",
+    "word": "誤り",
+    "phonetic": "あやまり",
+    "mean": "error"
+  },
+  {
+    "id": "56089",
+    "group": "3",
+    "word": "粗",
+    "phonetic": "あら",
+    "mean": "defect,flaw,blemish,weak point"
+  },
+  {
+    "id": "52584",
+    "group": "3",
+    "word": "嵐",
+    "phonetic": "あらし",
+    "mean": "storm,tempest"
+  },
+  {
+    "id": "34373",
+    "group": "2",
+    "word": "新た",
+    "phonetic": "あらた",
+    "mean": "new,fresh,novel"
+  },
+  {
+    "id": "58408",
+    "group": "3",
+    "word": "現れ",
+    "phonetic": "あらわれ",
+    "mean": "embodiment,materialization"
+  },
+  {
+    "id": "24858",
+    "group": "1",
+    "word": "現れる",
+    "phonetic": "あらわれる",
+    "mean": "to appear,to come in sight,to become visible,to express oneself"
+  },
+  {
+    "id": "56098",
+    "group": "4",
+    "word": "或",
+    "phonetic": "ある",
+    "mean": "a certain...,some..."
+  },
+  {
+    "id": "49510",
+    "group": "3",
+    "word": "泡",
+    "phonetic": "あわ",
+    "mean": "bubble,foam,froth,head on beer"
+  },
+  {
+    "id": "26873",
+    "group": "1",
+    "word": "合わせる",
+    "phonetic": "あわせる",
+    "mean": "to join together,to be opposite,to face,to unite"
+  },
+  {
+    "id": "13899",
+    "group": "3",
+    "word": "哀れ",
+    "phonetic": "あわれ",
+    "mean": "helpless,pity,sorrow,grief"
+  },
+  {
+    "id": "14344",
+    "group": "3",
+    "word": "案",
+    "phonetic": "あん",
+    "mean": "plan,suffix meaning draft"
+  },
+  {
+    "id": "56104",
+    "group": "3",
+    "word": "暗記",
+    "phonetic": "あんき",
+    "mean": "memorization,learning by heart"
+  },
+  {
+    "id": "14281",
+    "group": "3",
+    "word": "安定",
+    "phonetic": "あんてい",
+    "mean": "stability,equilibrium"
+  },
+  {
+    "id": "14352",
+    "group": "3",
+    "word": "案内",
+    "phonetic": "あんない",
+    "mean": "information,guidance,leading"
+  },
+  {
+    "id": "14700",
+    "group": "3",
+    "word": "胃",
+    "phonetic": "い",
+    "mean": "stomach"
+  },
+  {
+    "id": "14467",
+    "group": "3",
+    "word": "委員",
+    "phonetic": "いいん",
+    "mean": "committee member"
+  },
+  {
+    "id": "56117",
+    "group": "1",
+    "word": "言う",
+    "phonetic": "ゆう",
+    "mean": "to say"
+  },
+  {
+    "id": "14498",
+    "group": "2",
+    "word": "意外",
+    "phonetic": "いがい",
+    "mean": "unexpected,surprising"
+  },
+  {
+    "id": "55316",
+    "group": "3",
+    "word": "行き",
+    "phonetic": "いき/ゆき",
+    "mean": "going"
+  },
+  {
+    "id": "38522",
+    "group": "3",
+    "word": "息",
+    "phonetic": "いき",
+    "mean": "breath,tone"
+  },
+  {
+    "id": "35673",
+    "group": "3",
+    "word": "勢い",
+    "phonetic": "いきおい",
+    "mean": "force,vigor,energy,spirit"
+  },
+  {
+    "id": "36022",
+    "group": "3",
+    "word": "生き物",
+    "phonetic": "いきもの",
+    "mean": "living thing,animal"
+  },
+  {
+    "id": "20626",
+    "group": "4",
+    "word": "幾つ",
+    "phonetic": "いくつ",
+    "mean": "how many?,how old?"
+  },
+  {
+    "id": "20628",
+    "group": "4",
+    "word": "幾ら",
+    "phonetic": "いくら",
+    "mean": "how much?,how many?"
+  },
+  {
+    "id": "14840",
+    "group": "3",
+    "word": "医師",
+    "phonetic": "いし",
+    "mean": "doctor,physician"
+  },
+  {
+    "id": "14517",
+    "group": "3",
+    "word": "意思",
+    "phonetic": "いし",
+    "mean": "intention,purpose"
+  },
+  {
+    "id": "14512",
+    "group": "3",
+    "word": "意志",
+    "phonetic": "いし",
+    "mean": "will,volition"
+  },
+  {
+    "id": "14695",
+    "group": "3",
+    "word": "維持",
+    "phonetic": "いじ",
+    "mean": "maintenance,preservation"
+  },
+  {
+    "id": "14520",
+    "group": "3",
+    "word": "意識",
+    "phonetic": "いしき",
+    "mean": "consciousness,senses"
+  },
+  {
+    "id": "14626",
+    "group": "3",
+    "word": "異常",
+    "phonetic": "いじょう",
+    "mean": "strangeness,abnormality,disorder"
+  },
+  {
+    "id": "37191",
+    "group": "3",
+    "word": "泉",
+    "phonetic": "いずみ",
+    "mean": "spring,fountain"
+  },
+  {
+    "id": "14380",
+    "group": "4",
+    "word": "以前",
+    "phonetic": "いぜん",
+    "mean": "ago,since,before,previous"
+  },
+  {
+    "id": "45982",
+    "group": "3",
+    "word": "板",
+    "phonetic": "いた",
+    "mean": "board,plank"
+  },
+  {
+    "id": "14451",
+    "group": "3",
+    "word": "偉大",
+    "phonetic": "いだい",
+    "mean": "greatness"
+  },
+  {
+    "id": "55842",
+    "group": "1",
+    "word": "抱く",
+    "phonetic": "いだく",
+    "mean": "to embrace,to hug,to harbour,to entertain"
+  },
+  {
+    "id": "56141",
+    "group": "1",
+    "word": "頂く",
+    "phonetic": "いただく",
+    "mean": "to receive,to take food or drink (hum)"
+  },
+  {
+    "id": "56142",
+    "group": "3",
+    "word": "痛み",
+    "phonetic": "いたみ",
+    "mean": "pain,ache,sore,grief,distress"
+  },
+  {
+    "id": "29531",
+    "group": "1",
+    "word": "至る",
+    "phonetic": "いたる",
+    "mean": "to come,to arrive"
+  },
+  {
+    "id": "56143",
+    "group": "3",
+    "word": "位置",
+    "phonetic": "いち",
+    "mean": "place,situation,position,location"
+  },
+  {
+    "id": "15133",
+    "group": "3",
+    "word": "一時",
+    "phonetic": "いちじ",
+    "mean": "moment,time"
+  },
+  {
+    "id": "58287",
+    "group": "4",
+    "word": "一度に",
+    "phonetic": "いちどに",
+    "mean": "all at once"
+  },
+  {
+    "id": "29182",
+    "group": "3",
+    "word": "市場",
+    "phonetic": "いちば",
+    "mean": "(the) market (as a concept)"
+  },
+  {
+    "id": "55044",
+    "group": "3",
+    "word": "一家",
+    "phonetic": "いっか",
+    "mean": "a house,a home,a family,a household"
+  },
+  {
+    "id": "15156",
+    "group": "3",
+    "word": "一種",
+    "phonetic": "いっしゅ",
+    "mean": "a species,a kind,a variety"
+  },
+  {
+    "id": "15172",
+    "group": "3",
+    "word": "一瞬",
+    "phonetic": "いっしゅん",
+    "mean": "a moment,an instant"
+  },
+  {
+    "id": "55069",
+    "group": "3",
+    "word": "一生",
+    "phonetic": "いっしょう",
+    "mean": "whole life,a lifetime,all through life"
+  },
+  {
+    "id": "15269",
+    "group": "4",
+    "word": "一層",
+    "phonetic": "いっそう",
+    "mean": "much more,still more,all the more"
+  },
+  {
+    "id": "15286",
+    "group": "3",
+    "word": "一体",
+    "phonetic": "いったい",
+    "mean": "one object,one body,what on earth?,really?,generally"
+  },
+  {
+    "id": "15308",
+    "group": "3",
+    "word": "一致",
+    "phonetic": "いっち",
+    "mean": "coincidence,agreement,conformity"
+  },
+  {
+    "id": "15408",
+    "group": "2",
+    "word": "一般",
+    "phonetic": "いっぱん",
+    "mean": "general,liberal,universal,ordinary,average"
+  },
+  {
+    "id": "15478",
+    "group": "4",
+    "word": "一方",
+    "phonetic": "いっぽう",
+    "mean": "on the other hand,meanwhile,only,simple,in turn"
+  },
+  {
+    "id": "14690",
+    "group": "3",
+    "word": "移動",
+    "phonetic": "いどう",
+    "mean": "removal,migration,movement"
+  },
+  {
+    "id": "31823",
+    "group": "3",
+    "word": "従兄弟",
+    "phonetic": "いとこ",
+    "mean": "cousin (male)"
+  },
+  {
+    "id": "15604",
+    "group": "3",
+    "word": "稲",
+    "phonetic": "いね",
+    "mean": "rice-plant"
+  },
+  {
+    "id": "21799",
+    "group": "3",
+    "word": "居眠り",
+    "phonetic": "いねむり",
+    "mean": "dozing,nodding off"
+  },
+  {
+    "id": "50894",
+    "group": "3",
+    "word": "命",
+    "phonetic": "いのち",
+    "mean": "command,decree,life,destiny"
+  },
+  {
+    "id": "14744",
+    "group": "3",
+    "word": "違反",
+    "phonetic": "いはん",
+    "mean": "violation (of law),transgression,infringement,breach"
+  },
+  {
+    "id": "14731",
+    "group": "3",
+    "word": "衣服",
+    "phonetic": "いふく",
+    "mean": "clothes"
+  },
+  {
+    "id": "21782",
+    "group": "3",
+    "word": "居間",
+    "phonetic": "いま",
+    "mean": "living room (western style)"
+  },
+  {
+    "id": "27306",
+    "group": "3",
+    "word": "今に",
+    "phonetic": "いまに",
+    "mean": "before long,even now"
+  },
+  {
+    "id": "27307",
+    "group": "4",
+    "word": "今にも",
+    "phonetic": "いまにも",
+    "mean": "at any time,soon"
+  },
+  {
+    "id": "46126",
+    "group": "3",
+    "word": "否",
+    "phonetic": "いや",
+    "mean": "no,the noes"
+  },
+  {
+    "id": "14386",
+    "group": "4",
+    "word": "以来",
+    "phonetic": "いらい",
+    "mean": "since,henceforth"
+  },
+  {
+    "id": "14431",
+    "group": "3",
+    "word": "依頼",
+    "phonetic": "いらい",
+    "mean": "request,commission,dispatch,dependence,trust"
+  },
+  {
+    "id": "14861",
+    "group": "3",
+    "word": "医療",
+    "phonetic": "いりょう",
+    "mean": "medical care,medical treatment"
+  },
+  {
+    "id": "20372",
+    "group": "3",
+    "word": "岩",
+    "phonetic": "いわ",
+    "mean": "rock,crag"
+  },
+  {
+    "id": "32020",
+    "group": "3",
+    "word": "祝い",
+    "phonetic": "いわい",
+    "mean": "celebration,festival"
+  },
+  {
+    "id": "32022",
+    "group": "1",
+    "word": "祝う",
+    "phonetic": "いわう",
+    "mean": "to congratulate,to celebrate"
+  },
+  {
+    "id": "24942",
+    "group": "4",
+    "word": "言わば",
+    "phonetic": "いわば",
+    "mean": "so to speak"
+  },
+  {
+    "id": "15640",
+    "group": "3",
+    "word": "印刷",
+    "phonetic": "いんさつ",
+    "mean": "printing"
+  },
+  {
+    "id": "15660",
+    "group": "3",
+    "word": "印象",
+    "phonetic": "いんしょう",
+    "mean": "impression"
+  },
+  {
+    "id": "15775",
+    "group": "3",
+    "word": "引退",
+    "phonetic": "いんたい",
+    "mean": "retire"
+  },
+  {
+    "id": "15779",
+    "group": "3",
+    "word": "引用",
+    "phonetic": "いんよう",
+    "mean": "quotation,citation"
+  },
+  {
+    "id": "33453",
+    "group": "3",
+    "word": "上",
+    "phonetic": "うわ",
+    "mean": "upper,outer,surface"
+  },
+  {
+    "id": "55238",
+    "group": "3",
+    "word": "魚",
+    "phonetic": "うお",
+    "mean": "fish"
+  },
+  {
+    "id": "31268",
+    "group": "1",
+    "word": "受け取る",
+    "phonetic": "うけとる",
+    "mean": "to receive,to get,to accept,to take"
+  },
+  {
+    "id": "43056",
+    "group": "1",
+    "word": "動かす",
+    "phonetic": "うごかす",
+    "mean": "to move,to shift"
+  },
+  {
+    "id": "42367",
+    "group": "3",
+    "word": "兎",
+    "phonetic": "うさぎ",
+    "mean": "rabbit,hare,cony"
+  },
+  {
+    "id": "21760",
+    "group": "3",
+    "word": "牛",
+    "phonetic": "うし",
+    "mean": "cattle,cow"
+  },
+  {
+    "id": "30304",
+    "group": "1",
+    "word": "失う",
+    "phonetic": "うしなう",
+    "mean": "to lose,to part with"
+  },
+  {
+    "id": "21174",
+    "group": "1",
+    "word": "疑う",
+    "phonetic": "うたがう",
+    "mean": "to doubt,to distrust,to be suspicious of,to suspect"
+  },
+  {
+    "id": "15939",
+    "group": "3",
+    "word": "宇宙",
+    "phonetic": "うちゅう",
+    "mean": "universe,cosmos,space"
+  },
+  {
+    "id": "23892",
+    "group": "1",
+    "word": "撃つ",
+    "phonetic": "うつ",
+    "mean": "to attack,to defeat,to destroy"
+  },
+  {
+    "id": "14666",
+    "group": "1",
+    "word": "移す",
+    "phonetic": "うつす",
+    "mean": "to remove,to transfer,to infect"
+  },
+  {
+    "id": "37876",
+    "group": "1",
+    "word": "訴える",
+    "phonetic": "うったえる",
+    "mean": "to sue (a person),to resort to,to appeal to"
+  },
+  {
+    "id": "39679",
+    "group": "1",
+    "word": "奪う",
+    "phonetic": "うばう",
+    "mean": "to snatch away"
+  },
+  {
+    "id": "45042",
+    "group": "3",
+    "word": "馬",
+    "phonetic": "うま",
+    "mean": "horse,promoted bishop (shogi)"
+  },
+  {
+    "id": "58298",
+    "group": "3",
+    "word": "生まれ",
+    "phonetic": "うまれ",
+    "mean": "birth,birth-place"
+  },
+  {
+    "id": "45228",
+    "group": "3",
+    "word": "梅",
+    "phonetic": "うめ",
+    "mean": "plum,plum-tree,lowest (of a three-tier ranking system)"
+  },
+  {
+    "id": "52683",
+    "group": "1",
+    "word": "裏切る",
+    "phonetic": "うらぎる",
+    "mean": "to betray,to turn traitor to,to double-cross"
+  },
+  {
+    "id": "45278",
+    "group": "1",
+    "word": "売れる",
+    "phonetic": "うれる",
+    "mean": "to be sold"
+  },
+  {
+    "id": "16063",
+    "group": "3",
+    "word": "噂",
+    "phonetic": "うわさ",
+    "mean": "rumour,report,gossip,common talk"
+  },
+  {
+    "id": "88",
+    "group": "3",
+    "word": "うん",
+    "phonetic": "（感）",
+    "mean": "fortune,luck"
+  },
+  {
+    "id": "16065",
+    "group": "3",
+    "word": "運",
+    "phonetic": "うん",
+    "mean": "fortune,luck"
+  },
+  {
+    "id": "16087",
+    "group": "3",
+    "word": "運転",
+    "phonetic": "うんてん",
+    "mean": "operation,motion,driving"
+  },
+  {
+    "id": "16095",
+    "group": "3",
+    "word": "運動",
+    "phonetic": "うんどう",
+    "mean": "motion,exercise"
+  },
+  {
+    "id": "48614",
+    "group": "3",
+    "word": "柄",
+    "phonetic": "え",
+    "mean": "handle,grip"
+  },
+  {
+    "id": "16167",
+    "group": "3",
+    "word": "影響",
+    "phonetic": "えいきょう",
+    "mean": "influence,effect"
+  },
+  {
+    "id": "16146",
+    "group": "3",
+    "word": "営業",
+    "phonetic": "えいぎょう",
+    "mean": "business,trade,management"
+  },
+  {
+    "id": "16272",
+    "group": "3",
+    "word": "衛星",
+    "phonetic": "えいせい",
+    "mean": "satellite"
+  },
+  {
+    "id": "16199",
+    "group": "3",
+    "word": "栄養",
+    "phonetic": "えいよう",
+    "mean": "nutrition,nourishment"
+  },
+  {
+    "id": "33381",
+    "group": "3",
+    "word": "笑顔",
+    "phonetic": "えがお",
+    "mean": "smiling face"
+  },
+  {
+    "id": "55781",
+    "group": "1",
+    "word": "描く",
+    "phonetic": "えがく",
+    "mean": "to draw,to paint,to sketch,to depict,to describe"
+  },
+  {
+    "id": "16137",
+    "group": "3",
+    "word": "餌",
+    "phonetic": "えさ",
+    "mean": "feed,bait"
+  },
+  {
+    "id": "43384",
+    "group": "1",
+    "word": "得る",
+    "phonetic": "える",
+    "mean": "to get,to gain,to win"
+  },
+  {
+    "id": "43384",
+    "group": "1",
+    "word": "得る",
+    "phonetic": "うる",
+    "mean": "to get,to gain,to win"
+  },
+  {
+    "id": "16350",
+    "group": "3",
+    "word": "円",
+    "phonetic": "えん",
+    "mean": "circle,money"
+  },
+  {
+    "id": "16426",
+    "group": "3",
+    "word": "延期",
+    "phonetic": "えんき",
+    "mean": "postponement,adjournment"
+  },
+  {
+    "id": "16464",
+    "group": "3",
+    "word": "演技",
+    "phonetic": "えんぎ",
+    "mean": "acting,performance"
+  },
+  {
+    "id": "16448",
+    "group": "3",
+    "word": "援助",
+    "phonetic": "えんじょ",
+    "mean": "assistance,aid,support"
+  },
+  {
+    "id": "16478",
+    "group": "3",
+    "word": "演説",
+    "phonetic": "えんぜつ",
+    "mean": "speech,address"
+  },
+  {
+    "id": "58131",
+    "group": "3",
+    "word": "演奏",
+    "phonetic": "えんそう",
+    "mean": "musical performance"
+  },
+  {
+    "id": "16620",
+    "group": "3",
+    "word": "遠慮",
+    "phonetic": "えんりょ",
+    "mean": "diffidence,restraint,reserve"
+  },
+  {
+    "id": "25501",
+    "group": "5",
+    "word": "御",
+    "phonetic": "お",
+    "mean": "honourable"
+  },
+  {
+    "id": "60105",
+    "group": "3",
+    "word": "王",
+    "phonetic": "おう",
+    "mean": "king,ruler,sovereign,monarch"
+  },
+  {
+    "id": "41243",
+    "group": "1",
+    "word": "追う",
+    "phonetic": "おう",
+    "mean": "to chase,to run after"
+  },
+  {
+    "id": "16930",
+    "group": "3",
+    "word": "王様",
+    "phonetic": "おうさま",
+    "mean": "king"
+  },
+  {
+    "id": "16910",
+    "group": "3",
+    "word": "王子",
+    "phonetic": "おうじ",
+    "mean": "prince"
+  },
+  {
+    "id": "16752",
+    "group": "1",
+    "word": "応じる",
+    "phonetic": "おうじる",
+    "mean": "to respond,to satisfy,to accept,to comply with,to apply for"
+  },
+  {
+    "id": "16854",
+    "group": "3",
+    "word": "横断",
+    "phonetic": "おうだん",
+    "mean": "crossing"
+  },
+  {
+    "id": "31577",
+    "group": "1",
+    "word": "終える",
+    "phonetic": "おえる",
+    "mean": "to finish"
+  },
+  {
+    "id": "39354",
+    "group": "4",
+    "word": "大いに",
+    "phonetic": "おおいに",
+    "mean": "very,much,greatly"
+  },
+  {
+    "id": "56290",
+    "group": "1",
+    "word": "覆う",
+    "phonetic": "おおう",
+    "mean": "to cover,to hide,to conceal,to wrap,to disguise"
+  },
+  {
+    "id": "39379",
+    "group": "3",
+    "word": "大家",
+    "phonetic": "おおや",
+    "mean": "rich family,distinguished family"
+  },
+  {
+    "id": "56298",
+    "group": "3",
+    "word": "丘",
+    "phonetic": "おか",
+    "mean": "hill,height,knoll,rising ground"
+  },
+  {
+    "id": "17004",
+    "group": "3",
+    "word": "沖",
+    "phonetic": "おき",
+    "mean": "open sea"
+  },
+  {
+    "id": "16705",
+    "group": "3",
+    "word": "奥",
+    "phonetic": "おく",
+    "mean": "interior,inner part"
+  },
+  {
+    "id": "38447",
+    "group": "1",
+    "word": "贈る",
+    "phonetic": "おくる",
+    "mean": "to send,to give to,to award to,to confer on"
+  },
+  {
+    "id": "20995",
+    "group": "1",
+    "word": "起こる",
+    "phonetic": "おこる",
+    "mean": "to occur,to happen"
+  },
+  {
+    "id": "52172",
+    "group": "2",
+    "word": "幼い",
+    "phonetic": "おさない",
+    "mean": "very young,childish"
+  },
+  {
+    "id": "56315",
+    "group": "1",
+    "word": "収める",
+    "phonetic": "おさめる",
+    "mean": "to obtain,to reap,to pay,to supply,to accept"
+  },
+  {
+    "id": "16678",
+    "group": "3",
+    "word": "汚染",
+    "phonetic": "おせん",
+    "mean": "pollution,contamination"
+  },
+  {
+    "id": "56325",
+    "group": "1",
+    "word": "恐れる",
+    "phonetic": "おそれる",
+    "mean": "to fear,to be afraid of"
+  },
+  {
+    "id": "22257",
+    "group": "2",
+    "word": "恐ろしい",
+    "phonetic": "おそろしい",
+    "mean": "terrible,dreadful"
+  },
+  {
+    "id": "91555",
+    "group": "2",
+    "word": "お互い",
+    "phonetic": "おたがい",
+    "mean": "mutual,reciprocal,each other"
+  },
+  {
+    "id": "17105",
+    "group": "2",
+    "word": "穏やか",
+    "phonetic": "おだやか",
+    "mean": "calm,gentle,quiet"
+  },
+  {
+    "id": "40042",
+    "group": "3",
+    "word": "男の人",
+    "phonetic": "おとこのひと",
+    "mean": "man"
+  },
+  {
+    "id": "53453",
+    "group": "1",
+    "word": "劣る",
+    "phonetic": "おとる",
+    "mean": "to fall behind,to be inferior to"
+  },
+  {
+    "id": "21045",
+    "group": "3",
+    "word": "鬼",
+    "phonetic": "おに",
+    "mean": "ogre,demon,it (i.e. in a game of tag)"
+  },
+  {
+    "id": "39113",
+    "group": "3",
+    "word": "帯",
+    "phonetic": "おび",
+    "mean": "band (e.g. conduction or valence)"
+  },
+  {
+    "id": "62929",
+    "group": "3",
+    "word": "お昼",
+    "phonetic": "おひる",
+    "mean": "lunch,noon"
+  },
+  {
+    "id": "41743",
+    "group": "1",
+    "word": "溺れる",
+    "phonetic": "おぼれる",
+    "mean": "to be drowned,to indulge in"
+  },
+  {
+    "id": "56339",
+    "group": "3",
+    "word": "思い出",
+    "phonetic": "おもいで",
+    "mean": "memories,recollections,reminiscence"
+  },
+  {
+    "id": "30820",
+    "group": "4",
+    "word": "主に",
+    "phonetic": "おもに",
+    "mean": "mainly,primarily"
+  },
+  {
+    "id": "29296",
+    "group": "2",
+    "word": "思わず",
+    "phonetic": "おもわず",
+    "mean": "unintentional,spontaneous"
+  },
+  {
+    "id": "58691",
+    "group": "3",
+    "word": "泳ぎ",
+    "phonetic": "およぎ",
+    "mean": "swimming"
+  },
+  {
+    "id": "21431",
+    "group": "1",
+    "word": "及ぼす",
+    "phonetic": "およぼす",
+    "mean": "to exert,to cause,to exercise"
+  },
+  {
+    "id": "55235",
+    "group": "1",
+    "word": "居る",
+    "phonetic": "おる",
+    "mean": "to be (animate),to be,to exist"
+  },
+  {
+    "id": "17175",
+    "group": "1",
+    "word": "下す",
+    "phonetic": "おろす",
+    "mean": "to lower,to let go down"
+  },
+  {
+    "id": "162215",
+    "group": "3",
+    "word": "終",
+    "phonetic": "おわり",
+    "mean": "the end"
+  },
+  {
+    "id": "17055",
+    "group": "3",
+    "word": "恩",
+    "phonetic": "おん",
+    "mean": "favour,obligation,debt of gratitude"
+  },
+  {
+    "id": "17094",
+    "group": "3",
+    "word": "温暖",
+    "phonetic": "おんだん",
+    "mean": "warmth"
+  },
+  {
+    "id": "17097",
+    "group": "3",
+    "word": "温度",
+    "phonetic": "おんど",
+    "mean": "temperature"
+  },
+  {
+    "id": "17802",
+    "group": "2",
+    "word": "可",
+    "phonetic": "か",
+    "mean": "passable"
+  },
+  {
+    "id": "18284",
+    "group": "6",
+    "word": "課",
+    "phonetic": "か",
+    "mean": "counter for chapters (of a book)"
+  },
+  {
+    "id": "18524",
+    "group": "3",
+    "word": "会",
+    "phonetic": "かい",
+    "mean": "meeting,assembly,party,association,club"
+  },
+  {
+    "id": "18640",
+    "group": "6",
+    "word": "回",
+    "phonetic": "かい",
+    "mean": "counter for occurrences"
+  },
+  {
+    "id": "19126",
+    "group": "3",
+    "word": "害",
+    "phonetic": "がい",
+    "mean": "injury,harm,evil influence,damage"
+  },
+  {
+    "id": "18531",
+    "group": "3",
+    "word": "会員",
+    "phonetic": "かいいん",
+    "mean": "member,the membership"
+  },
+  {
+    "id": "18930",
+    "group": "3",
+    "word": "絵画",
+    "phonetic": "かいが",
+    "mean": "picture"
+  },
+  {
+    "id": "18830",
+    "group": "2",
+    "word": "海外",
+    "phonetic": "かいがい",
+    "mean": "foreign,abroad,overseas"
+  },
+  {
+    "id": "18551",
+    "group": "3",
+    "word": "会計",
+    "phonetic": "かいけい",
+    "mean": "account,finance,accountant"
+  },
+  {
+    "id": "18603",
+    "group": "3",
+    "word": "解決",
+    "phonetic": "かいけつ",
+    "mean": "settlement,solution,resolution"
+  },
+  {
+    "id": "18560",
+    "group": "3",
+    "word": "会合",
+    "phonetic": "かいごう",
+    "mean": "meeting,assembly"
+  },
+  {
+    "id": "19049",
+    "group": "3",
+    "word": "外交",
+    "phonetic": "がいこう",
+    "mean": "diplomacy"
+  },
+  {
+    "id": "18975",
+    "group": "3",
+    "word": "開始",
+    "phonetic": "かいし",
+    "mean": "start,commencement,beginning"
+  },
+  {
+    "id": "18608",
+    "group": "3",
+    "word": "解釈",
+    "phonetic": "かいしゃく",
+    "mean": "explanation,interpretation"
+  },
+  {
+    "id": "19075",
+    "group": "3",
+    "word": "外出",
+    "phonetic": "がいしゅつ",
+    "mean": "outing,going out"
+  },
+  {
+    "id": "18801",
+    "group": "3",
+    "word": "改善",
+    "phonetic": "かいぜん",
+    "mean": "betterment,improvement"
+  },
+  {
+    "id": "18718",
+    "group": "2",
+    "word": "快適",
+    "phonetic": "かいてき",
+    "mean": "pleasant,agreeable,comfortable"
+  },
+  {
+    "id": "18679",
+    "group": "3",
+    "word": "回復",
+    "phonetic": "かいふく",
+    "mean": "recovery (from illness),improvement,rehabilitation,restoration"
+  },
+  {
+    "id": "29639",
+    "group": "1",
+    "word": "飼う",
+    "phonetic": "かう",
+    "mean": "to keep,to raise,to feed"
+  },
+  {
+    "id": "56386",
+    "group": "3",
+    "word": "香り",
+    "phonetic": "かおり",
+    "mean": "aroma,fragrance,scent,smell"
+  },
+  {
+    "id": "18422",
+    "group": "3",
+    "word": "画家",
+    "phonetic": "がか",
+    "mean": "painter,artist"
+  },
+  {
+    "id": "49392",
+    "group": "1",
+    "word": "抱える",
+    "phonetic": "かかえる",
+    "mean": "to hold or carry under or in the arms"
+  },
+  {
+    "id": "17681",
+    "group": "3",
+    "word": "価格",
+    "phonetic": "かかく",
+    "mean": "price,value,cost"
+  },
+  {
+    "id": "17415",
+    "group": "3",
+    "word": "化学",
+    "phonetic": "かがく",
+    "mean": "chemistry"
+  },
+  {
+    "id": "21028",
+    "group": "1",
+    "word": "輝く",
+    "phonetic": "かがやく",
+    "mean": "to shine,to glitter,to sparkle"
+  },
+  {
+    "id": "56388",
+    "group": "3",
+    "word": "係",
+    "phonetic": "かかり",
+    "mean": "official,duty,person in charge"
+  },
+  {
+    "id": "58311",
+    "group": "1",
+    "word": "罹る",
+    "phonetic": "かかる",
+    "mean": "to suffer from"
+  },
+  {
+    "id": "24968",
+    "group": "1",
+    "word": "限る",
+    "phonetic": "かぎる",
+    "mean": "to restrict,to limit,to confine"
+  },
+  {
+    "id": "55781",
+    "group": "1",
+    "word": "描く",
+    "phonetic": "かく",
+    "mean": "to draw,to paint,to sketch,to depict,to describe"
+  },
+  {
+    "id": "17914",
+    "group": "3",
+    "word": "家具",
+    "phonetic": "かぐ",
+    "mean": "furniture"
+  },
+  {
+    "id": "89307",
+    "group": "3",
+    "word": "学",
+    "phonetic": "がく",
+    "mean": "learning,scholarship,erudition,knowledge"
+  },
+  {
+    "id": "19435",
+    "group": "3",
+    "word": "額",
+    "phonetic": "がく",
+    "mean": "forehead,brow"
+  },
+  {
+    "id": "19296",
+    "group": "3",
+    "word": "覚悟",
+    "phonetic": "かくご",
+    "mean": "resolution,resignation,readiness,preparedness"
+  },
+  {
+    "id": "19271",
+    "group": "3",
+    "word": "確実",
+    "phonetic": "かくじつ",
+    "mean": "certainty,reliability,soundness"
+  },
+  {
+    "id": "19365",
+    "group": "3",
+    "word": "学者",
+    "phonetic": "がくしゃ",
+    "mean": "scholar"
+  },
+  {
+    "id": "19367",
+    "group": "3",
+    "word": "学習",
+    "phonetic": "がくしゅう",
+    "mean": "study,learning"
+  },
+  {
+    "id": "15876",
+    "group": "1",
+    "word": "隠す",
+    "phonetic": "かくす",
+    "mean": "to hide,to conceal"
+  },
+  {
+    "id": "19209",
+    "group": "3",
+    "word": "拡大",
+    "phonetic": "かくだい",
+    "mean": "magnification,enlargement"
+  },
+  {
+    "id": "19278",
+    "group": "3",
+    "word": "確認",
+    "phonetic": "かくにん",
+    "mean": "affirmation,confirmation"
+  },
+  {
+    "id": "19398",
+    "group": "3",
+    "word": "学問",
+    "phonetic": "がくもん",
+    "mean": "scholarship,study,learning"
+  },
+  {
+    "id": "15877",
+    "group": "1",
+    "word": "隠れる",
+    "phonetic": "かくれる",
+    "mean": "to hide,to be hidden,to conceal oneself,to disappear"
+  },
+  {
+    "id": "23925",
+    "group": "1",
+    "word": "欠ける",
+    "phonetic": "かける",
+    "mean": "to be lacking"
+  },
+  {
+    "id": "17739",
+    "group": "4",
+    "word": "加減",
+    "phonetic": "かげん",
+    "mean": "addition and subtraction,allowance for"
+  },
+  {
+    "id": "18316",
+    "group": "3",
+    "word": "過去",
+    "phonetic": "かこ",
+    "mean": "the past,bygone days,the previous"
+  },
+  {
+    "id": "56424",
+    "group": "3",
+    "word": "籠",
+    "phonetic": "かご",
+    "mean": "basket,cage"
+  },
+  {
+    "id": "14457",
+    "group": "1",
+    "word": "囲む",
+    "phonetic": "かこむ",
+    "mean": "to surround,to encircle"
+  },
+  {
+    "id": "18110",
+    "group": "3",
+    "word": "火災",
+    "phonetic": "かさい",
+    "mean": "conflagration,fire"
+  },
+  {
+    "id": "39178",
+    "group": "3",
+    "word": "貸し",
+    "phonetic": "かし",
+    "mean": "loan,lending"
+  },
+  {
+    "id": "18280",
+    "group": "3",
+    "word": "菓子",
+    "phonetic": "かし",
+    "mean": "pastry"
+  },
+  {
+    "id": "17925",
+    "group": "3",
+    "word": "家事",
+    "phonetic": "かじ",
+    "mean": "housework,domestic chores"
+  },
+  {
+    "id": "24540",
+    "group": "2",
+    "word": "賢い",
+    "phonetic": "かしこい",
+    "mean": "wise,clever,smart"
+  },
+  {
+    "id": "18055",
+    "group": "3",
+    "word": "歌手",
+    "phonetic": "かしゅ",
+    "mean": "singer"
+  },
+  {
+    "id": "55518",
+    "group": "3",
+    "word": "数",
+    "phonetic": "かず",
+    "mean": "number,figure"
+  },
+  {
+    "id": "18165",
+    "group": "1",
+    "word": "稼ぐ",
+    "phonetic": "かせぐ",
+    "mean": "to earn income,to labor"
+  },
+  {
+    "id": "35467",
+    "group": "1",
+    "word": "数える",
+    "phonetic": "かぞえる",
+    "mean": "to count"
+  },
+  {
+    "id": "23554",
+    "group": "3",
+    "word": "型",
+    "phonetic": "かた",
+    "mean": "mold,model,style,shape,data-type"
+  },
+  {
+    "id": "24413",
+    "group": "3",
+    "word": "肩",
+    "phonetic": "かた",
+    "mean": "shoulder"
+  },
+  {
+    "id": "24236",
+    "group": "2",
+    "word": "硬い",
+    "phonetic": "かたい",
+    "mean": "solid,hard (esp. metal or stone),unpolished writing"
+  },
+  {
+    "id": "55843",
+    "group": "4",
+    "word": "方々",
+    "phonetic": "かたがた",
+    "mean": "persons,this and that,here and there,everywhere"
+  },
+  {
+    "id": "42604",
+    "group": "3",
+    "word": "刀",
+    "phonetic": "かたな",
+    "mean": "sword,saber,knife,engraving tool"
+  },
+  {
+    "id": "25578",
+    "group": "1",
+    "word": "語る",
+    "phonetic": "かたる",
+    "mean": "to talk,to tell,to recite"
+  },
+  {
+    "id": "58316",
+    "group": "3",
+    "word": "勝ち",
+    "phonetic": "かち",
+    "mean": "win,victory"
+  },
+  {
+    "id": "17691",
+    "group": "3",
+    "word": "価値",
+    "phonetic": "かち",
+    "mean": "value,worth,merit"
+  },
+  {
+    "id": "19509",
+    "group": "3",
+    "word": "活気",
+    "phonetic": "かっき",
+    "mean": "energy,liveliness"
+  },
+  {
+    "id": "19350",
+    "group": "3",
+    "word": "学期",
+    "phonetic": "がっき",
+    "mean": "term (school)"
+  },
+  {
+    "id": "56453",
+    "group": "3",
+    "word": "格好",
+    "phonetic": "かっこう",
+    "mean": "shape,form,posture,suitability"
+  },
+  {
+    "id": "19518",
+    "group": "3",
+    "word": "活動",
+    "phonetic": "かつどう",
+    "mean": "action,activity"
+  },
+  {
+    "id": "19528",
+    "group": "3",
+    "word": "活用",
+    "phonetic": "かつよう",
+    "mean": "conjugation,practical use"
+  },
+  {
+    "id": "46158",
+    "group": "1",
+    "word": "悲しむ",
+    "phonetic": "かなしむ",
+    "mean": "to be sad,to mourn for,to regret"
+  },
+  {
+    "id": "46571",
+    "group": "4",
+    "word": "必ずしも",
+    "phonetic": "かならずしも",
+    "mean": "(not) always,(not) necessarily,(not) all,(not) entirely"
+  },
+  {
+    "id": "22831",
+    "group": "3",
+    "word": "金",
+    "phonetic": "かね",
+    "mean": "gold,gold general (shogi) (abbr)"
+  },
+  {
+    "id": "22865",
+    "group": "3",
+    "word": "金持ち",
+    "phonetic": "かねもち",
+    "mean": "rich man"
+  },
+  {
+    "id": "17835",
+    "group": "2",
+    "word": "可能",
+    "phonetic": "かのう",
+    "mean": "possible,practicable,feasible"
+  },
+  {
+    "id": "19574",
+    "group": "3",
+    "word": "株",
+    "phonetic": "かぶ",
+    "mean": "share,stock,stump (of tree)"
+  },
+  {
+    "id": "46269",
+    "group": "1",
+    "word": "被る",
+    "phonetic": "かぶる",
+    "mean": "to suffer"
+  },
+  {
+    "id": "18407",
+    "group": "3",
+    "word": "我慢",
+    "phonetic": "がまん",
+    "mean": "patience,endurance,perseverance"
+  },
+  {
+    "id": "33453",
+    "group": "3",
+    "word": "上",
+    "phonetic": "かみ",
+    "mean": "first volume,superior quality,governmental"
+  },
+  {
+    "id": "34651",
+    "group": "3",
+    "word": "神",
+    "phonetic": "かみ",
+    "mean": "god"
+  },
+  {
+    "id": "55939",
+    "group": "3",
+    "word": "雷",
+    "phonetic": "かみなり",
+    "mean": "thunder"
+  },
+  {
+    "id": "45659",
+    "group": "3",
+    "word": "髪の毛",
+    "phonetic": "かみのけ",
+    "mean": "hair (head)"
+  },
+  {
+    "id": "56466",
+    "group": "3",
+    "word": "科目",
+    "phonetic": "かもく",
+    "mean": "(school) subject,curriculum,course"
+  },
+  {
+    "id": "18148",
+    "group": "3",
+    "word": "火曜",
+    "phonetic": "かよう",
+    "mean": "(abbr) Tuesday"
+  },
+  {
+    "id": "23084",
+    "group": "3",
+    "word": "空",
+    "phonetic": "から",
+    "mean": "emptiness,blank"
+  },
+  {
+    "id": "48614",
+    "group": "3",
+    "word": "柄",
+    "phonetic": "がら",
+    "mean": "hilt (of a sword),haft (of a dagger),handgrip"
+  },
+  {
+    "id": "19636",
+    "group": "1",
+    "word": "刈る",
+    "phonetic": "かる",
+    "mean": "to cut (hair),to mow (grass),to harvest"
+  },
+  {
+    "id": "131556",
+    "group": "3",
+    "word": "彼等",
+    "phonetic": "かれら",
+    "mean": "they (usually male)"
+  },
+  {
+    "id": "46216",
+    "group": "3",
+    "word": "皮",
+    "phonetic": "かわ",
+    "mean": "skin,hide,leather,fur,pelt,bark,shell"
+  },
+  {
+    "id": "46217",
+    "group": "3",
+    "word": "革",
+    "phonetic": "かわ",
+    "mean": "leather"
+  },
+  {
+    "id": "20110",
+    "group": "3",
+    "word": "缶",
+    "phonetic": "かん",
+    "mean": "can,tin"
+  },
+  {
+    "id": "19733",
+    "group": "3",
+    "word": "勘",
+    "phonetic": "かん",
+    "mean": "perception,intuition,the sixth sense"
+  },
+  {
+    "id": "26543",
+    "group": "3",
+    "word": "考え",
+    "phonetic": "かんがえ",
+    "mean": "thinking,thought,ideas,intention"
+  },
+  {
+    "id": "19892",
+    "group": "3",
+    "word": "感覚",
+    "phonetic": "かんかく",
+    "mean": "sense,sensation"
+  },
+  {
+    "id": "20135",
+    "group": "3",
+    "word": "観客",
+    "phonetic": "かんきゃく",
+    "mean": "audience,spectator"
+  },
+  {
+    "id": "19985",
+    "group": "3",
+    "word": "環境",
+    "phonetic": "かんきょう",
+    "mean": "environment,circumstance"
+  },
+  {
+    "id": "19953",
+    "group": "3",
+    "word": "歓迎",
+    "phonetic": "かんげい",
+    "mean": "welcome,reception"
+  },
+  {
+    "id": "20138",
+    "group": "3",
+    "word": "観光",
+    "phonetic": "かんこう",
+    "mean": "sightseeing"
+  },
+  {
+    "id": "20144",
+    "group": "3",
+    "word": "観察",
+    "phonetic": "かんさつ",
+    "mean": "observation,survey"
+  },
+  {
+    "id": "19885",
+    "group": "3",
+    "word": "感じ",
+    "phonetic": "かんじ",
+    "mean": "feeling,sense,impression"
+  },
+  {
+    "id": "19897",
+    "group": "3",
+    "word": "感謝",
+    "phonetic": "かんしゃ",
+    "mean": "thanks,gratitude"
+  },
+  {
+    "id": "19882",
+    "group": "3",
+    "word": "患者",
+    "phonetic": "かんじゃ",
+    "mean": "a patient"
+  },
+  {
+    "id": "19747",
+    "group": "3",
+    "word": "勘定",
+    "phonetic": "かんじょう",
+    "mean": "calculation,counting,consideration"
+  },
+  {
+    "id": "19900",
+    "group": "3",
+    "word": "感情",
+    "phonetic": "かんじょう",
+    "mean": "emotion,feeling,sentiment"
+  },
+  {
+    "id": "19886",
+    "group": "1",
+    "word": "感じる",
+    "phonetic": "かんじる",
+    "mean": "to feel,to sense,to experience"
+  },
+  {
+    "id": "19904",
+    "group": "3",
+    "word": "感心",
+    "phonetic": "かんしん",
+    "mean": "admiration,Well done!"
+  },
+  {
+    "id": "20234",
+    "group": "3",
+    "word": "関心",
+    "phonetic": "かんしん",
+    "mean": "concern,interest"
+  },
+  {
+    "id": "20227",
+    "group": "1",
+    "word": "関する",
+    "phonetic": "かんする",
+    "mean": "to concern,to be related"
+  },
+  {
+    "id": "19815",
+    "group": "3",
+    "word": "完成",
+    "phonetic": "かんせい",
+    "mean": "complete,completion,perfection,accomplishment"
+  },
+  {
+    "id": "19817",
+    "group": "3",
+    "word": "完全",
+    "phonetic": "かんぜん",
+    "mean": "perfection,completeness"
+  },
+  {
+    "id": "19915",
+    "group": "3",
+    "word": "感動",
+    "phonetic": "かんどう",
+    "mean": "being deeply moved,excitement,impression,deep emotion"
+  },
+  {
+    "id": "20028",
+    "group": "3",
+    "word": "監督",
+    "phonetic": "かんとく",
+    "mean": "supervision,control,superintendence"
+  },
+  {
+    "id": "20076",
+    "group": "3",
+    "word": "管理",
+    "phonetic": "かんり",
+    "mean": "control,management (e.g. of a business)"
+  },
+  {
+    "id": "19826",
+    "group": "3",
+    "word": "完了",
+    "phonetic": "かんりょう",
+    "mean": "completion,conclusion"
+  },
+  {
+    "id": "20253",
+    "group": "3",
+    "word": "関連",
+    "phonetic": "かんれん",
+    "mean": "relation,connection,relevance"
+  },
+  {
+    "id": "21222",
+    "group": "3",
+    "word": "議員",
+    "phonetic": "ぎいん",
+    "mean": "member of the Diet or congress or parliament"
+  },
+  {
+    "id": "20941",
+    "group": "3",
+    "word": "記憶",
+    "phonetic": "きおく",
+    "mean": "memory,recollection,remembrance"
+  },
+  {
+    "id": "20822",
+    "group": "3",
+    "word": "気温",
+    "phonetic": "きおん",
+    "mean": "temperature"
+  },
+  {
+    "id": "20709",
+    "group": "3",
+    "word": "機械",
+    "phonetic": "きかい",
+    "mean": "machine,mechanism"
+  },
+  {
+    "id": "21224",
+    "group": "3",
+    "word": "議会",
+    "phonetic": "ぎかい",
+    "mean": "Diet,congress,parliament"
+  },
+  {
+    "id": "20683",
+    "group": "3",
+    "word": "期間",
+    "phonetic": "きかん",
+    "mean": "period,term"
+  },
+  {
+    "id": "20715",
+    "group": "3",
+    "word": "機関",
+    "phonetic": "きかん",
+    "mean": "organ,mechanism,facility,engine"
+  },
+  {
+    "id": "20457",
+    "group": "3",
+    "word": "企業",
+    "phonetic": "きぎょう",
+    "mean": "enterprise,undertaking"
+  },
+  {
+    "id": "56516",
+    "group": "1",
+    "word": "効く",
+    "phonetic": "きく",
+    "mean": "to be effective"
+  },
+  {
+    "id": "20721",
+    "group": "3",
+    "word": "機嫌",
+    "phonetic": "きげん",
+    "mean": "humour,temper,mood"
+  },
+  {
+    "id": "20844",
+    "group": "3",
+    "word": "気候",
+    "phonetic": "きこう",
+    "mean": "climate"
+  },
+  {
+    "id": "20351",
+    "group": "3",
+    "word": "岸",
+    "phonetic": "きし",
+    "mean": "bank,coast,shore"
+  },
+  {
+    "id": "36093",
+    "group": "3",
+    "word": "生地",
+    "phonetic": "きじ",
+    "mean": "birthplace"
+  },
+  {
+    "id": "20950",
+    "group": "3",
+    "word": "記事",
+    "phonetic": "きじ",
+    "mean": "article,news story,report,account"
+  },
+  {
+    "id": "21134",
+    "group": "3",
+    "word": "技師",
+    "phonetic": "ぎし",
+    "mean": "engineer,technician"
+  },
+  {
+    "id": "20951",
+    "group": "3",
+    "word": "記者",
+    "phonetic": "きしゃ",
+    "mean": "reporter"
+  },
+  {
+    "id": "55458",
+    "group": "3",
+    "word": "傷",
+    "phonetic": "きず",
+    "mean": "wound,injury,hurt,cut"
+  },
+  {
+    "id": "20685",
+    "group": "3",
+    "word": "期待",
+    "phonetic": "きたい",
+    "mean": "expectation,anticipation,hope"
+  },
+  {
+    "id": "20771",
+    "group": "3",
+    "word": "帰宅",
+    "phonetic": "きたく",
+    "mean": "returning home"
+  },
+  {
+    "id": "20978",
+    "group": "2",
+    "word": "貴重",
+    "phonetic": "きちょう",
+    "mean": "precious,valuable"
+  },
+  {
+    "id": "21234",
+    "group": "3",
+    "word": "議長",
+    "phonetic": "ぎちょう",
+    "mean": "chairman"
+  },
+  {
+    "id": "56539",
+    "group": "1",
+    "word": "気付く",
+    "phonetic": "きづく",
+    "mean": "to notice,to recognize,to become aware of"
+  },
+  {
+    "id": "20801",
+    "group": "1",
+    "word": "気に入る",
+    "phonetic": "きにいる",
+    "mean": "to be pleased with,to suit"
+  },
+  {
+    "id": "20959",
+    "group": "3",
+    "word": "記入",
+    "phonetic": "きにゅう",
+    "mean": "entry,filling in of forms"
+  },
+  {
+    "id": "20960",
+    "group": "3",
+    "word": "記念",
+    "phonetic": "きねん",
+    "mean": "commemoration,memory"
+  },
+  {
+    "id": "20741",
+    "group": "3",
+    "word": "機能",
+    "phonetic": "きのう",
+    "mean": "function,faculty"
+  },
+  {
+    "id": "20804",
+    "group": "3",
+    "word": "気の毒",
+    "phonetic": "きのどく",
+    "mean": "pitiful,a pity"
+  },
+  {
+    "id": "56546",
+    "group": "3",
+    "word": "寄付",
+    "phonetic": "きふ",
+    "mean": "contribution,donation"
+  },
+  {
+    "id": "20621",
+    "group": "3",
+    "word": "希望",
+    "phonetic": "きぼう",
+    "mean": "hope,wish,aspiration"
+  },
+  {
+    "id": "20551",
+    "group": "3",
+    "word": "基本",
+    "phonetic": "きほん",
+    "mean": "foundation,basis,standard"
+  },
+  {
+    "id": "58325",
+    "group": "3",
+    "word": "決まり",
+    "phonetic": "きまり",
+    "mean": "settlement,conclusion,regulation,rule"
+  },
+  {
+    "id": "20890",
+    "group": "2",
+    "word": "気味",
+    "phonetic": "きみ",
+    "mean": "-like,-looking,-looked"
+  },
+  {
+    "id": "20579",
+    "group": "2",
+    "word": "奇妙",
+    "phonetic": "きみょう",
+    "mean": "strange,queer,curious"
+  },
+  {
+    "id": "21211",
+    "group": "3",
+    "word": "義務",
+    "phonetic": "ぎむ",
+    "mean": "duty,obligation,responsibility"
+  },
+  {
+    "id": "21186",
+    "group": "3",
+    "word": "疑問",
+    "phonetic": "ぎもん",
+    "mean": "question,problem,doubt,guess"
+  },
+  {
+    "id": "21311",
+    "group": "3",
+    "word": "逆",
+    "phonetic": "ぎゃく",
+    "mean": "reverse,opposite"
+  },
+  {
+    "id": "21650",
+    "group": "3",
+    "word": "旧",
+    "phonetic": "きゅう",
+    "mean": "ex-"
+  },
+  {
+    "id": "86017",
+    "group": "3",
+    "word": "級",
+    "phonetic": "きゅう",
+    "mean": "class,grade,rank,school class,grade"
+  },
+  {
+    "id": "21602",
+    "group": "3",
+    "word": "球",
+    "phonetic": "きゅう",
+    "mean": "globe,sphere,ball"
+  },
+  {
+    "id": "21375",
+    "group": "3",
+    "word": "休暇",
+    "phonetic": "きゅうか",
+    "mean": "holiday,day off,furlough"
+  },
+  {
+    "id": "21386",
+    "group": "3",
+    "word": "休憩",
+    "phonetic": "きゅうけい",
+    "mean": "rest,break,recess,intermission"
+  },
+  {
+    "id": "21481",
+    "group": "2",
+    "word": "急激",
+    "phonetic": "きゅうげき",
+    "mean": "sudden,precipitous,radical"
+  },
+  {
+    "id": "21446",
+    "group": "3",
+    "word": "吸収",
+    "phonetic": "きゅうしゅう",
+    "mean": "absorption,suction,attraction"
+  },
+  {
+    "id": "21533",
+    "group": "3",
+    "word": "救助",
+    "phonetic": "きゅうじょ",
+    "mean": "relief,aid,rescue"
+  },
+  {
+    "id": "21502",
+    "group": "2",
+    "word": "急速",
+    "phonetic": "きゅうそく",
+    "mean": "rapid (e.g. progress)"
+  },
+  {
+    "id": "119312",
+    "group": "4",
+    "word": "急に",
+    "phonetic": "きゅうに",
+    "mean": "swiftly,rapidly"
+  },
+  {
+    "id": "21648",
+    "group": "3",
+    "word": "給料",
+    "phonetic": "きゅうりょう",
+    "mean": "salary,wages"
+  },
+  {
+    "id": "20529",
+    "group": "2",
+    "word": "器用",
+    "phonetic": "きよう",
+    "mean": "skillful,handy"
+  },
+  {
+    "id": "22290",
+    "group": "3",
+    "word": "教科書",
+    "phonetic": "きょうかしょ",
+    "mean": "text book"
+  },
+  {
+    "id": "22005",
+    "group": "3",
+    "word": "競技",
+    "phonetic": "きょうぎ",
+    "mean": "game,match,contest"
+  },
+  {
+    "id": "26626",
+    "group": "3",
+    "word": "行儀",
+    "phonetic": "ぎょうぎ",
+    "mean": "manners"
+  },
+  {
+    "id": "21962",
+    "group": "3",
+    "word": "供給",
+    "phonetic": "きょうきゅう",
+    "mean": "supply,provision"
+  },
+  {
+    "id": "22301",
+    "group": "3",
+    "word": "教師",
+    "phonetic": "きょうし",
+    "mean": "teacher (classroom)"
+  },
+  {
+    "id": "22304",
+    "group": "3",
+    "word": "教授",
+    "phonetic": "きょうじゅ",
+    "mean": "teaching,instruction,professor"
+  },
+  {
+    "id": "22236",
+    "group": "3",
+    "word": "強調",
+    "phonetic": "きょうちょう",
+    "mean": "emphasis,stress,stressed point"
+  },
+  {
+    "id": "22066",
+    "group": "3",
+    "word": "共通",
+    "phonetic": "きょうつう",
+    "mean": "commonness,community"
+  },
+  {
+    "id": "56571",
+    "group": "3",
+    "word": "共同",
+    "phonetic": "きょうどう",
+    "mean": "cooperation,association,collaboration,joint"
+  },
+  {
+    "id": "22263",
+    "group": "1",
+    "word": "恐怖",
+    "phonetic": "きょうふ",
+    "mean": "be afraid,dread,dismay,terror"
+  },
+  {
+    "id": "56577",
+    "group": "3",
+    "word": "協力",
+    "phonetic": "きょうりょく",
+    "mean": "cooperation,collaboration"
+  },
+  {
+    "id": "22248",
+    "group": "3",
+    "word": "強力",
+    "phonetic": "きょうりょく",
+    "mean": "herculean strength,mountain carrier-guide"
+  },
+  {
+    "id": "21894",
+    "group": "3",
+    "word": "許可",
+    "phonetic": "きょか",
+    "mean": "permission,approval"
+  },
+  {
+    "id": "22535",
+    "group": "3",
+    "word": "局",
+    "phonetic": "きょく",
+    "mean": "court lady,lady in waiting"
+  },
+  {
+    "id": "21828",
+    "group": "2",
+    "word": "巨大",
+    "phonetic": "きょだい",
+    "mean": "huge,gigantic,enormous"
+  },
+  {
+    "id": "24250",
+    "group": "1",
+    "word": "嫌う",
+    "phonetic": "きらう",
+    "mean": "to hate,to dislike,to loathe"
+  },
+  {
+    "id": "50816",
+    "group": "3",
+    "word": "霧",
+    "phonetic": "きり",
+    "mean": "fog,mist"
+  },
+  {
+    "id": "36616",
+    "group": "3",
+    "word": "切れ",
+    "phonetic": "きれ",
+    "mean": "cloth,piece,cut,chop"
+  },
+  {
+    "id": "36618",
+    "group": "1",
+    "word": "切れる",
+    "phonetic": "きれる",
+    "mean": "to cut well,to be sharp,to break (off)"
+  },
+  {
+    "id": "20970",
+    "group": "3",
+    "word": "記録",
+    "phonetic": "きろく",
+    "mean": "record,minutes,document"
+  },
+  {
+    "id": "21236",
+    "group": "3",
+    "word": "議論",
+    "phonetic": "ぎろん",
+    "mean": "argument,discussion,dispute"
+  },
+  {
+    "id": "22831",
+    "group": "3",
+    "word": "金",
+    "phonetic": "きん",
+    "mean": "gold,gold general (shogi) (abbr)"
+  },
+  {
+    "id": "56910",
+    "group": "3",
+    "word": "銀",
+    "phonetic": "ぎん",
+    "mean": "silver,silver coin,silver paint"
+  },
+  {
+    "id": "22722",
+    "group": "5",
+    "word": "禁煙",
+    "phonetic": "きんえん",
+    "mean": "No Smoking!"
+  },
+  {
+    "id": "22840",
+    "group": "3",
+    "word": "金額",
+    "phonetic": "きんがく",
+    "mean": "amount of money"
+  },
+  {
+    "id": "22854",
+    "group": "3",
+    "word": "金庫",
+    "phonetic": "きんこ",
+    "mean": "safe,vault,treasury,provider of funds"
+  },
+  {
+    "id": "22728",
+    "group": "3",
+    "word": "禁止",
+    "phonetic": "きんし",
+    "mean": "prohibition,ban"
+  },
+  {
+    "id": "22870",
+    "group": "3",
+    "word": "金銭",
+    "phonetic": "きんせん",
+    "mean": "money,cash"
+  },
+  {
+    "id": "22872",
+    "group": "3",
+    "word": "金属",
+    "phonetic": "きんぞく",
+    "mean": "metal"
+  },
+  {
+    "id": "22814",
+    "group": "3",
+    "word": "近代",
+    "phonetic": "きんだい",
+    "mean": "present day"
+  },
+  {
+    "id": "22760",
+    "group": "3",
+    "word": "緊張",
+    "phonetic": "きんちょう",
+    "mean": "tension,mental strain,nervousness"
+  },
+  {
+    "id": "22753",
+    "group": "3",
+    "word": "筋肉",
+    "phonetic": "きんにく",
+    "mean": "muscle,sinew"
+  },
+  {
+    "id": "22895",
+    "group": "3",
+    "word": "金融",
+    "phonetic": "きんゆう",
+    "mean": "monetary circulation,credit situation"
+  },
+  {
+    "id": "22897",
+    "group": "3",
+    "word": "金曜",
+    "phonetic": "きんよう",
+    "mean": "(abbr) Friday"
+  },
+  {
+    "id": "22958",
+    "group": "3",
+    "word": "句",
+    "phonetic": "く",
+    "mean": "sentence"
+  },
+  {
+    "id": "56614",
+    "group": "1",
+    "word": "食う",
+    "phonetic": "くう",
+    "mean": "(male) (vulg) to eat"
+  },
+  {
+    "id": "23179",
+    "group": "4",
+    "word": "偶然",
+    "phonetic": "ぐうぜん",
+    "mean": "(by) chance,unexpectedly,suddenly"
+  },
+  {
+    "id": "31616",
+    "group": "3",
+    "word": "臭い",
+    "phonetic": "くさい",
+    "mean": "odour,scent,smell,stench"
+  },
+  {
+    "id": "27574",
+    "group": "3",
+    "word": "鎖",
+    "phonetic": "くさり",
+    "mean": "chain"
+  },
+  {
+    "id": "47588",
+    "group": "1",
+    "word": "腐る",
+    "phonetic": "くさる",
+    "mean": "to rot,to go bad"
+  },
+  {
+    "id": "48716",
+    "group": "3",
+    "word": "癖",
+    "phonetic": "くせ",
+    "mean": "a habit (often a bad habit),peculiarity"
+  },
+  {
+    "id": "55204",
+    "group": "3",
+    "word": "管",
+    "phonetic": "くだ",
+    "mean": "pipe,tube"
+  },
+  {
+    "id": "23060",
+    "group": "2",
+    "word": "具体",
+    "phonetic": "ぐたい",
+    "mean": "concrete,tangible,material"
+  },
+  {
+    "id": "17180",
+    "group": "3",
+    "word": "下り",
+    "phonetic": "くだり",
+    "mean": "down-train (going away from Tokyo)"
+  },
+  {
+    "id": "23016",
+    "group": "3",
+    "word": "苦痛",
+    "phonetic": "くつう",
+    "mean": "pain,agony"
+  },
+  {
+    "id": "22987",
+    "group": "3",
+    "word": "区別",
+    "phonetic": "くべつ",
+    "mean": "distinction,differentiation,classification"
+  },
+  {
+    "id": "37850",
+    "group": "3",
+    "word": "組",
+    "phonetic": "くみ",
+    "mean": "class,group,team,set"
+  },
+  {
+    "id": "37867",
+    "group": "3",
+    "word": "組合",
+    "phonetic": "くみあい",
+    "mean": "association,union"
+  },
+  {
+    "id": "37864",
+    "group": "1",
+    "word": "組む",
+    "phonetic": "くむ",
+    "mean": "to put together"
+  },
+  {
+    "id": "14402",
+    "group": "3",
+    "word": "位",
+    "phonetic": "くらい",
+    "mean": "grade,rank,about"
+  },
+  {
+    "id": "49258",
+    "group": "3",
+    "word": "暮らし",
+    "phonetic": "くらし",
+    "mean": "living,livelihood,subsistence,circumstances"
+  },
+  {
+    "id": "49259",
+    "group": "1",
+    "word": "暮らす",
+    "phonetic": "くらす",
+    "mean": "to live,to get along"
+  },
+  {
+    "id": "23254",
+    "group": "1",
+    "word": "繰り返す",
+    "phonetic": "くりかえす",
+    "mean": "to repeat,to do something over again"
+  },
+  {
+    "id": "22339",
+    "group": "1",
+    "word": "狂う",
+    "phonetic": "くるう",
+    "mean": "to go mad,to get out of order"
+  },
+  {
+    "id": "22993",
+    "group": "2",
+    "word": "苦しい",
+    "phonetic": "くるしい",
+    "mean": "painful,difficult"
+  },
+  {
+    "id": "22996",
+    "group": "1",
+    "word": "苦しむ",
+    "phonetic": "くるしむ",
+    "mean": "to suffer,to groan,to be worried"
+  },
+  {
+    "id": "49260",
+    "group": "3",
+    "word": "暮れ",
+    "phonetic": "くれ",
+    "mean": "year end,sunset,nightfall,end"
+  },
+  {
+    "id": "23027",
+    "group": "3",
+    "word": "苦労",
+    "phonetic": "くろう",
+    "mean": "troubles,hardships"
+  },
+  {
+    "id": "17727",
+    "group": "1",
+    "word": "加える",
+    "phonetic": "くわえる",
+    "mean": "to append,to sum up,to add (up)"
+  },
+  {
+    "id": "33414",
+    "group": "2",
+    "word": "詳しい",
+    "phonetic": "くわしい",
+    "mean": "knowing very well,detailed,full,accurate"
+  },
+  {
+    "id": "17729",
+    "group": "1",
+    "word": "加わる",
+    "phonetic": "くわわる",
+    "mean": "to join in,to accede to,to increase,to gain in (influence)"
+  },
+  {
+    "id": "89329",
+    "group": "3",
+    "word": "訓",
+    "phonetic": "くん",
+    "mean": "native Japanese reading of a Chinese character"
+  },
+  {
+    "id": "23314",
+    "group": "3",
+    "word": "軍",
+    "phonetic": "ぐん",
+    "mean": "army,force,troops"
+  },
+  {
+    "id": "23418",
+    "group": "3",
+    "word": "軍隊",
+    "phonetic": "ぐんたい",
+    "mean": "army,troops"
+  },
+  {
+    "id": "23295",
+    "group": "3",
+    "word": "訓練",
+    "phonetic": "くんれん",
+    "mean": "practice,training"
+  },
+  {
+    "id": "17157",
+    "group": "3",
+    "word": "下",
+    "phonetic": "げ",
+    "mean": "under,below,beneath"
+  },
+  {
+    "id": "23744",
+    "group": "3",
+    "word": "計",
+    "phonetic": "けい",
+    "mean": "plan"
+  },
+  {
+    "id": "23614",
+    "group": "3",
+    "word": "敬意",
+    "phonetic": "けいい",
+    "mean": "respect,honour"
+  },
+  {
+    "id": "23655",
+    "group": "3",
+    "word": "経営",
+    "phonetic": "けいえい",
+    "mean": "management,administration"
+  },
+  {
+    "id": "23748",
+    "group": "3",
+    "word": "計画",
+    "phonetic": "けいかく",
+    "mean": "plan,project,schedule,scheme,program"
+  },
+  {
+    "id": "23625",
+    "group": "3",
+    "word": "景気",
+    "phonetic": "けいき",
+    "mean": "condition,state,business (condition)"
+  },
+  {
+    "id": "23669",
+    "group": "3",
+    "word": "経験",
+    "phonetic": "けいけん",
+    "mean": "experience"
+  },
+  {
+    "id": "23493",
+    "group": "3",
+    "word": "傾向",
+    "phonetic": "けいこう",
+    "mean": "tendency,trend,inclination"
+  },
+  {
+    "id": "23775",
+    "group": "3",
+    "word": "警告",
+    "phonetic": "けいこく",
+    "mean": "warning,advice"
+  },
+  {
+    "id": "23753",
+    "group": "3",
+    "word": "計算",
+    "phonetic": "けいさん",
+    "mean": "calculation,reckoning"
+  },
+  {
+    "id": "23604",
+    "group": "3",
+    "word": "掲示",
+    "phonetic": "けいじ",
+    "mean": "notice,bulletin"
+  },
+  {
+    "id": "23512",
+    "group": "3",
+    "word": "刑事",
+    "phonetic": "けいじ",
+    "mean": "criminal case,(police) detective"
+  },
+  {
+    "id": "23844",
+    "group": "3",
+    "word": "芸術",
+    "phonetic": "げいじゅつ",
+    "mean": "(fine) art,the arts"
+  },
+  {
+    "id": "23564",
+    "group": "3",
+    "word": "契約",
+    "phonetic": "けいやく",
+    "mean": "contract,compact,agreement"
+  },
+  {
+    "id": "23708",
+    "group": "4",
+    "word": "経由",
+    "phonetic": "けいゆ",
+    "mean": "go by the way,via"
+  },
+  {
+    "id": "18728",
+    "group": "3",
+    "word": "怪我",
+    "phonetic": "けが",
+    "mean": "injury (to animate object),hurt"
+  },
+  {
+    "id": "23869",
+    "group": "3",
+    "word": "劇",
+    "phonetic": "げき",
+    "mean": "drama,play"
+  },
+  {
+    "id": "23879",
+    "group": "3",
+    "word": "劇場",
+    "phonetic": "げきじょう",
+    "mean": "theatre,playhouse"
+  },
+  {
+    "id": "55147",
+    "group": "3",
+    "word": "化粧",
+    "phonetic": "けしょう",
+    "mean": "make-up (cosmetic)"
+  },
+  {
+    "id": "24001",
+    "group": "3",
+    "word": "結果",
+    "phonetic": "けっか",
+    "mean": "result,consequence"
+  },
+  {
+    "id": "23928",
+    "group": "3",
+    "word": "欠陥",
+    "phonetic": "けっかん",
+    "mean": "defect,fault,deficiency"
+  },
+  {
+    "id": "24005",
+    "group": "4",
+    "word": "結局",
+    "phonetic": "けっきょく",
+    "mean": "after all,eventually"
+  },
+  {
+    "id": "23967",
+    "group": "3",
+    "word": "決心",
+    "phonetic": "けっしん",
+    "mean": "determination,resolution"
+  },
+  {
+    "id": "23935",
+    "group": "3",
+    "word": "欠席",
+    "phonetic": "けっせき",
+    "mean": "absence,non-attendance"
+  },
+  {
+    "id": "23971",
+    "group": "3",
+    "word": "決定",
+    "phonetic": "けってい",
+    "mean": "decision,determination"
+  },
+  {
+    "id": "23938",
+    "group": "3",
+    "word": "欠点",
+    "phonetic": "けってん",
+    "mean": "faults,defect,weakness"
+  },
+  {
+    "id": "24119",
+    "group": "3",
+    "word": "月曜",
+    "phonetic": "げつよう",
+    "mean": "Monday (abbr)"
+  },
+  {
+    "id": "24034",
+    "group": "3",
+    "word": "結論",
+    "phonetic": "けつろん",
+    "mean": "conclusion"
+  },
+  {
+    "id": "16499",
+    "group": "3",
+    "word": "煙",
+    "phonetic": "けむり",
+    "mean": "smoke,fumes"
+  },
+  {
+    "id": "24202",
+    "group": "3",
+    "word": "券",
+    "phonetic": "けん",
+    "mean": "ticket,coupon,bond,certificate"
+  },
+  {
+    "id": "24399",
+    "group": "3",
+    "word": "県",
+    "phonetic": "けん",
+    "mean": "prefecture"
+  },
+  {
+    "id": "24547",
+    "group": "3",
+    "word": "軒",
+    "phonetic": "けん",
+    "mean": "eaves"
+  },
+  {
+    "id": "24229",
+    "group": "3",
+    "word": "喧嘩",
+    "phonetic": "けんか",
+    "mean": "quarrel,(drunken) brawl,failure"
+  },
+  {
+    "id": "24454",
+    "group": "3",
+    "word": "見解",
+    "phonetic": "けんかい",
+    "mean": "opinion,point of view"
+  },
+  {
+    "id": "24969",
+    "group": "3",
+    "word": "限界",
+    "phonetic": "げんかい",
+    "mean": "limit,bound"
+  },
+  {
+    "id": "24862",
+    "group": "3",
+    "word": "現金",
+    "phonetic": "げんきん",
+    "mean": "cash,ready money,mercenary,self-interested"
+  },
+  {
+    "id": "24946",
+    "group": "3",
+    "word": "言語",
+    "phonetic": "げんご",
+    "mean": "language"
+  },
+  {
+    "id": "24147",
+    "group": "3",
+    "word": "健康",
+    "phonetic": "けんこう",
+    "mean": "health,sound,wholesome"
+  },
+  {
+    "id": "24310",
+    "group": "3",
+    "word": "検査",
+    "phonetic": "けんさ",
+    "mean": "inspection (e.g. customs or factory),examination"
+  },
+  {
+    "id": "24872",
+    "group": "4",
+    "word": "現在",
+    "phonetic": "げんざい",
+    "mean": "present,up to now,nowadays,modern times,current"
+  },
+  {
+    "id": "24878",
+    "group": "3",
+    "word": "現実",
+    "phonetic": "げんじつ",
+    "mean": "reality"
+  },
+  {
+    "id": "24882",
+    "group": "3",
+    "word": "現象",
+    "phonetic": "げんしょう",
+    "mean": "phenomenon"
+  },
+  {
+    "id": "24884",
+    "group": "3",
+    "word": "現状",
+    "phonetic": "げんじょう",
+    "mean": "present condition,existing state,status quo"
+  },
+  {
+    "id": "24266",
+    "group": "3",
+    "word": "建設",
+    "phonetic": "けんせつ",
+    "mean": "construction,establishment"
+  },
+  {
+    "id": "24888",
+    "group": "3",
+    "word": "現代",
+    "phonetic": "げんだい",
+    "mean": "nowadays,modern times,present-day"
+  },
+  {
+    "id": "24274",
+    "group": "3",
+    "word": "建築",
+    "phonetic": "けんちく",
+    "mean": "construction,architecture"
+  },
+  {
+    "id": "24508",
+    "group": "1",
+    "word": "見当",
+    "phonetic": "けんとう",
+    "mean": "be found,aim,estimate,guess,approx"
+  },
+  {
+    "id": "24320",
+    "group": "3",
+    "word": "検討",
+    "phonetic": "けんとう",
+    "mean": "consideration,examination,investigation,study,scrutiny"
+  },
+  {
+    "id": "24883",
+    "group": "3",
+    "word": "現場",
+    "phonetic": "げんば",
+    "mean": "actual spot,scene,scene of the crime"
+  },
+  {
+    "id": "24283",
+    "group": "3",
+    "word": "憲法",
+    "phonetic": "けんぽう",
+    "mean": "constitution"
+  },
+  {
+    "id": "24340",
+    "group": "3",
+    "word": "権利",
+    "phonetic": "けんり",
+    "mean": "right,privilege"
+  },
+  {
+    "id": "25570",
+    "group": "3",
+    "word": "語",
+    "phonetic": "ご",
+    "mean": "language,word"
+  },
+  {
+    "id": "53478",
+    "group": "3",
+    "word": "恋",
+    "phonetic": "こい",
+    "mean": "love,tender passion"
+  },
+  {
+    "id": "44876",
+    "group": "2",
+    "word": "濃い",
+    "phonetic": "こい",
+    "mean": "thick (as of color or liquid),dense,strong"
+  },
+  {
+    "id": "53502",
+    "group": "3",
+    "word": "恋人",
+    "phonetic": "こいびと",
+    "mean": "lover,sweetheart"
+  },
+  {
+    "id": "56694",
+    "group": "3",
+    "word": "幸運",
+    "phonetic": "こううん",
+    "mean": "good luck,fortune"
+  },
+  {
+    "id": "26660",
+    "group": "3",
+    "word": "講演",
+    "phonetic": "こうえん",
+    "mean": "lecture,address"
+  },
+  {
+    "id": "25979",
+    "group": "3",
+    "word": "効果",
+    "phonetic": "こうか",
+    "mean": "effect,effectiveness,efficacy,result"
+  },
+  {
+    "id": "26496",
+    "group": "3",
+    "word": "硬貨",
+    "phonetic": "こうか",
+    "mean": "coin"
+  },
+  {
+    "id": "26763",
+    "group": "3",
+    "word": "高価",
+    "phonetic": "こうか",
+    "mean": "high price"
+  },
+  {
+    "id": "26971",
+    "group": "2",
+    "word": "豪華",
+    "phonetic": "ごうか",
+    "mean": "wonderful,gorgeous,splendor,pomp,extravagance"
+  },
+  {
+    "id": "26885",
+    "group": "3",
+    "word": "合格",
+    "phonetic": "ごうかく",
+    "mean": "success,passing (e.g. exam),eligibility"
+  },
+  {
+    "id": "25651",
+    "group": "3",
+    "word": "交換",
+    "phonetic": "こうかん",
+    "mean": "exchange,interchange,reciprocity"
+  },
+  {
+    "id": "26569",
+    "group": "3",
+    "word": "航空",
+    "phonetic": "こうくう",
+    "mean": "aviation,flying"
+  },
+  {
+    "id": "25766",
+    "group": "3",
+    "word": "光景",
+    "phonetic": "こうけい",
+    "mean": "scene,spectacle"
+  },
+  {
+    "id": "26897",
+    "group": "3",
+    "word": "合計",
+    "phonetic": "ごうけい",
+    "mean": "sum total,total amount"
+  },
+  {
+    "id": "26362",
+    "group": "3",
+    "word": "攻撃",
+    "phonetic": "こうげき",
+    "mean": "attack,strike,offensive,criticism,censure"
+  },
+  {
+    "id": "26675",
+    "group": "3",
+    "word": "貢献",
+    "phonetic": "こうけん",
+    "mean": "contribution,services"
+  },
+  {
+    "id": "26298",
+    "group": "3",
+    "word": "広告",
+    "phonetic": "こうこく",
+    "mean": "advertisement"
+  },
+  {
+    "id": "25674",
+    "group": "3",
+    "word": "交際",
+    "phonetic": "こうさい",
+    "mean": "company,friendship,association,society,acquaintance"
+  },
+  {
+    "id": "25455",
+    "group": "3",
+    "word": "後者",
+    "phonetic": "こうしゃ",
+    "mean": "the latter"
+  },
+  {
+    "id": "26417",
+    "group": "3",
+    "word": "構成",
+    "phonetic": "こうせい",
+    "mean": "organization,composition"
+  },
+  {
+    "id": "26803",
+    "group": "3",
+    "word": "高速",
+    "phonetic": "こうそく",
+    "mean": "high speed,high gear"
+  },
+  {
+    "id": "26647",
+    "group": "3",
+    "word": "行動",
+    "phonetic": "こうどう",
+    "mean": "action,conduct,behaviour,mobilization"
+  },
+  {
+    "id": "22239",
+    "group": "3",
+    "word": "強盗",
+    "phonetic": "ごうとう",
+    "mean": "robbery,burglary"
+  },
+  {
+    "id": "26287",
+    "group": "3",
+    "word": "幸福",
+    "phonetic": "こうふく",
+    "mean": "happiness,blessedness"
+  },
+  {
+    "id": "25930",
+    "group": "3",
+    "word": "公平",
+    "phonetic": "こうへい",
+    "mean": "fairness,impartial,justice"
+  },
+  {
+    "id": "25745",
+    "group": "3",
+    "word": "候補",
+    "phonetic": "こうほ",
+    "mean": "candidacy"
+  },
+  {
+    "id": "26560",
+    "group": "3",
+    "word": "考慮",
+    "phonetic": "こうりょ",
+    "mean": "consideration,taking into account"
+  },
+  {
+    "id": "56706",
+    "group": "1",
+    "word": "越える",
+    "phonetic": "こえる",
+    "mean": "to exceed,to cross over,to cross"
+  },
+  {
+    "id": "46710",
+    "group": "3",
+    "word": "氷",
+    "phonetic": "こおり",
+    "mean": "ice,hail"
+  },
+  {
+    "id": "56709",
+    "group": "1",
+    "word": "凍る",
+    "phonetic": "こおる",
+    "mean": "to freeze,to be frozen over,to congeal"
+  },
+  {
+    "id": "25608",
+    "group": "3",
+    "word": "誤解",
+    "phonetic": "ごかい",
+    "mean": "misunderstanding"
+  },
+  {
+    "id": "25580",
+    "group": "3",
+    "word": "語学",
+    "phonetic": "ごがく",
+    "mean": "language study"
+  },
+  {
+    "id": "25143",
+    "group": "3",
+    "word": "呼吸",
+    "phonetic": "こきゅう",
+    "mean": "breath,respiration"
+  },
+  {
+    "id": "57696",
+    "group": "3",
+    "word": "故郷",
+    "phonetic": "こきょう",
+    "mean": "home town,birthplace,old village,historic village"
+  },
+  {
+    "id": "22596",
+    "group": "4",
+    "word": "極",
+    "phonetic": "ごく",
+    "mean": "quite,very"
+  },
+  {
+    "id": "27052",
+    "group": "3",
+    "word": "国語",
+    "phonetic": "こくご",
+    "mean": "national language"
+  },
+  {
+    "id": "27221",
+    "group": "3",
+    "word": "黒板",
+    "phonetic": "こくばん",
+    "mean": "blackboard"
+  },
+  {
+    "id": "26998",
+    "group": "3",
+    "word": "克服",
+    "phonetic": "こくふく",
+    "mean": "subjugation,conquest"
+  },
+  {
+    "id": "27121",
+    "group": "3",
+    "word": "国民",
+    "phonetic": "こくみん",
+    "mean": "national,people,citizen"
+  },
+  {
+    "id": "27142",
+    "group": "3",
+    "word": "穀物",
+    "phonetic": "こくもつ",
+    "mean": "grain,cereal,corn"
+  },
+  {
+    "id": "27247",
+    "group": "3",
+    "word": "腰",
+    "phonetic": "こし",
+    "mean": "hip"
+  },
+  {
+    "id": "25211",
+    "group": "3",
+    "word": "故障",
+    "phonetic": "こしょう",
+    "mean": "break-down,failure,accident,out of order"
+  },
+  {
+    "id": "24978",
+    "group": "3",
+    "word": "個人",
+    "phonetic": "こじん",
+    "mean": "individual,private person,personal,private"
+  },
+  {
+    "id": "16326",
+    "group": "1",
+    "word": "越す",
+    "phonetic": "こす",
+    "mean": "to go over (e.g. with audience)"
+  },
+  {
+    "id": "27034",
+    "group": "3",
+    "word": "国家",
+    "phonetic": "こっか",
+    "mean": "state,country,nation"
+  },
+  {
+    "id": "27040",
+    "group": "3",
+    "word": "国会",
+    "phonetic": "こっかい",
+    "mean": "National Diet,parliament,congress"
+  },
+  {
+    "id": "27047",
+    "group": "3",
+    "word": "国境",
+    "phonetic": "こっきょう",
+    "mean": "national or state border"
+  },
+  {
+    "id": "27278",
+    "group": "3",
+    "word": "骨折",
+    "phonetic": "こっせつ",
+    "mean": "bone fracture"
+  },
+  {
+    "id": "56727",
+    "group": "3",
+    "word": "小包",
+    "phonetic": "こづつみ",
+    "mean": "parcel,package"
+  },
+  {
+    "id": "29697",
+    "group": "3",
+    "word": "事",
+    "phonetic": "こと",
+    "mean": "thing,matter,fact,circumstances"
+  },
+  {
+    "id": "14603",
+    "group": "1",
+    "word": "異なる",
+    "phonetic": "ことなる",
+    "mean": "to differ,to vary,to disagree"
+  },
+  {
+    "id": "24964",
+    "group": "3",
+    "word": "諺",
+    "phonetic": "ことわざ",
+    "mean": "proverb,maxim"
+  },
+  {
+    "id": "39998",
+    "group": "1",
+    "word": "断る",
+    "phonetic": "ことわる",
+    "mean": "to refuse,to decline,to dismiss"
+  },
+  {
+    "id": "48272",
+    "group": "3",
+    "word": "粉",
+    "phonetic": "こな",
+    "mean": "flour,meal,powder"
+  },
+  {
+    "id": "26199",
+    "group": "3",
+    "word": "好み",
+    "phonetic": "このみ",
+    "mean": "liking,taste,choice"
+  },
+  {
+    "id": "26201",
+    "group": "1",
+    "word": "好む",
+    "phonetic": "このむ",
+    "mean": "to like,to prefer"
+  },
+  {
+    "id": "35175",
+    "group": "3",
+    "word": "塵",
+    "phonetic": "ごみ",
+    "mean": "dust,dirt"
+  },
+  {
+    "id": "33115",
+    "group": "3",
+    "word": "小麦",
+    "phonetic": "こむぎ",
+    "mean": "wheat"
+  },
+  {
+    "id": "33040",
+    "group": "3",
+    "word": "小屋",
+    "phonetic": "こや",
+    "mean": "hut,cabin,shed,(animal) pen"
+  },
+  {
+    "id": "55345",
+    "group": "3",
+    "word": "頃",
+    "phonetic": "ころ",
+    "mean": "time,about,toward,approximately (time)"
+  },
+  {
+    "id": "28287",
+    "group": "1",
+    "word": "殺す",
+    "phonetic": "ころす",
+    "mean": "to kill"
+  },
+  {
+    "id": "55651",
+    "group": "1",
+    "word": "転ぶ",
+    "phonetic": "ころぶ",
+    "mean": "to fall down,to fall over"
+  },
+  {
+    "id": "27317",
+    "group": "4",
+    "word": "今回",
+    "phonetic": "こんかい",
+    "mean": "now,this time,lately"
+  },
+  {
+    "id": "27324",
+    "group": "4",
+    "word": "今後",
+    "phonetic": "こんご",
+    "mean": "from now on,hereafter"
+  },
+  {
+    "id": "27446",
+    "group": "3",
+    "word": "混雑",
+    "phonetic": "こんざつ",
+    "mean": "confusion,congestion"
+  },
+  {
+    "id": "27372",
+    "group": "3",
+    "word": "困難",
+    "phonetic": "こんなん",
+    "mean": "difficulty,distress"
+  },
+  {
+    "id": "55348",
+    "group": "3",
+    "word": "今日",
+    "phonetic": "こんにち",
+    "mean": "today,this day"
+  },
+  {
+    "id": "27381",
+    "group": "3",
+    "word": "婚約",
+    "phonetic": "こんやく",
+    "mean": "engagement,betrothal"
+  },
+  {
+    "id": "27463",
+    "group": "3",
+    "word": "混乱",
+    "phonetic": "こんらん",
+    "mean": "disorder,chaos,confusion,mayhem"
+  },
+  {
+    "id": "27509",
+    "group": "3",
+    "word": "差",
+    "phonetic": "さ",
+    "mean": "difference,variation"
+  },
+  {
+    "id": "28019",
+    "group": "4",
+    "word": "際",
+    "phonetic": "さい",
+    "mean": "on the occasion of,circumstances"
+  },
+  {
+    "id": "27783",
+    "group": "3",
+    "word": "最高",
+    "phonetic": "さいこう",
+    "mean": "highest,supreme,the most"
+  },
+  {
+    "id": "28072",
+    "group": "3",
+    "word": "財産",
+    "phonetic": "ざいさん",
+    "mean": "property,fortune,assets"
+  },
+  {
+    "id": "27792",
+    "group": "2",
+    "word": "最終",
+    "phonetic": "さいしゅう",
+    "mean": "last,final,closing"
+  },
+  {
+    "id": "55357",
+    "group": "4",
+    "word": "最中",
+    "phonetic": "さいちゅう",
+    "mean": "in the middle of"
+  },
+  {
+    "id": "27819",
+    "group": "2",
+    "word": "最低",
+    "phonetic": "さいてい",
+    "mean": "least,lowest,worst"
+  },
+  {
+    "id": "27859",
+    "group": "3",
+    "word": "才能",
+    "phonetic": "さいのう",
+    "mean": "talent,ability"
+  },
+  {
+    "id": "28003",
+    "group": "3",
+    "word": "裁判",
+    "phonetic": "さいばん",
+    "mean": "trial,judgement"
+  },
+  {
+    "id": "28057",
+    "group": "3",
+    "word": "材料",
+    "phonetic": "ざいりょう",
+    "mean": "ingredients,material"
+  },
+  {
+    "id": "26285",
+    "group": "3",
+    "word": "幸い",
+    "phonetic": "さいわい",
+    "mean": "happiness,blessedness"
+  },
+  {
+    "id": "22186",
+    "group": "3",
+    "word": "境",
+    "phonetic": "さかい",
+    "mean": "border,boundary,mental state"
+  },
+  {
+    "id": "21314",
+    "group": "1",
+    "word": "逆らう",
+    "phonetic": "さからう",
+    "mean": "to go against,to oppose,to disobey,to defy"
+  },
+  {
+    "id": "36123",
+    "group": "3",
+    "word": "盛り",
+    "phonetic": "さかり",
+    "mean": "helping,serving"
+  },
+  {
+    "id": "28143",
+    "group": "3",
+    "word": "作業",
+    "phonetic": "さぎょう",
+    "mean": "work,operation,manufacturing,fatigue duty"
+  },
+  {
+    "id": "28208",
+    "group": "3",
+    "word": "昨",
+    "phonetic": "さく",
+    "mean": "last (year),yesterday"
+  },
+  {
+    "id": "28179",
+    "group": "3",
+    "word": "作品",
+    "phonetic": "さくひん",
+    "mean": "work,opus,performance,production"
+  },
+  {
+    "id": "28182",
+    "group": "3",
+    "word": "作物",
+    "phonetic": "さくもつ",
+    "mean": "produce (e.g. agricultural),crops"
+  },
+  {
+    "id": "56771",
+    "group": "3",
+    "word": "桜",
+    "phonetic": "さくら",
+    "mean": "cherry blossom,cherry tree"
+  },
+  {
+    "id": "31206",
+    "group": "3",
+    "word": "酒",
+    "phonetic": "さけ",
+    "mean": "alcohol,sake"
+  },
+  {
+    "id": "22182",
+    "group": "1",
+    "word": "叫ぶ",
+    "phonetic": "さけぶ",
+    "mean": "to shout,to cry"
+  },
+  {
+    "id": "55762",
+    "group": "1",
+    "word": "避ける",
+    "phonetic": "さける",
+    "mean": "to avoid (physical contact),to ward off,to avert"
+  },
+  {
+    "id": "29359",
+    "group": "1",
+    "word": "支える",
+    "phonetic": "ささえる",
+    "mean": "to support,to prop up"
+  },
+  {
+    "id": "29317",
+    "group": "1",
+    "word": "指す",
+    "phonetic": "さす",
+    "mean": "to point,to put up umbrella,to play"
+  },
+  {
+    "id": "27589",
+    "group": "3",
+    "word": "座席",
+    "phonetic": "ざせき",
+    "mean": "seat"
+  },
+  {
+    "id": "51862",
+    "group": "1",
+    "word": "誘う",
+    "phonetic": "さそう",
+    "mean": "to invite,to ask,to tempt,to lure,to induce"
+  },
+  {
+    "id": "28281",
+    "group": "3",
+    "word": "札",
+    "phonetic": "さつ",
+    "mean": "token,label,ticket,charm"
+  },
+  {
+    "id": "28140",
+    "group": "3",
+    "word": "作家",
+    "phonetic": "さっか",
+    "mean": "author,writer,novelist,artist"
+  },
+  {
+    "id": "28154",
+    "group": "3",
+    "word": "作曲",
+    "phonetic": "さっきょく",
+    "mean": "composition,setting (of music)"
+  },
+  {
+    "id": "56780",
+    "group": "3",
+    "word": "砂漠",
+    "phonetic": "さばく",
+    "mean": "desert"
+  },
+  {
+    "id": "27542",
+    "group": "3",
+    "word": "差別",
+    "phonetic": "さべつ",
+    "mean": "discrimination,distinction,differentiation"
+  },
+  {
+    "id": "28186",
+    "group": "3",
+    "word": "作法",
+    "phonetic": "さほう",
+    "mean": "manners,etiquette,propriety"
+  },
+  {
+    "id": "56783",
+    "group": "2",
+    "word": "様々",
+    "phonetic": "さまざま",
+    "mean": "varied,various"
+  },
+  {
+    "id": "19294",
+    "group": "1",
+    "word": "覚ます",
+    "phonetic": "さます",
+    "mean": "to awaken"
+  },
+  {
+    "id": "19295",
+    "group": "1",
+    "word": "覚める",
+    "phonetic": "さめる",
+    "mean": "to wake,to wake up"
+  },
+  {
+    "id": "27483",
+    "group": "3",
+    "word": "左右",
+    "phonetic": "さゆう",
+    "mean": "left and right,influence,control,domination"
+  },
+  {
+    "id": "28348",
+    "group": "3",
+    "word": "皿",
+    "phonetic": "さら",
+    "mean": "plate,dish"
+  },
+  {
+    "id": "26376",
+    "group": "4",
+    "word": "更に",
+    "phonetic": "さらに",
+    "mean": "furthermore,again,after all,more and more,moreover"
+  },
+  {
+    "id": "21775",
+    "group": "1",
+    "word": "去る",
+    "phonetic": "さる",
+    "mean": "to leave,to go away"
+  },
+  {
+    "id": "16520",
+    "group": "3",
+    "word": "猿",
+    "phonetic": "さる",
+    "mean": "monkey"
+  },
+  {
+    "id": "38394",
+    "group": "3",
+    "word": "騒ぎ",
+    "phonetic": "さわぎ",
+    "mean": "uproar,disturbance"
+  },
+  {
+    "id": "28577",
+    "group": "3",
+    "word": "参加",
+    "phonetic": "さんか",
+    "mean": "participation"
+  },
+  {
+    "id": "28595",
+    "group": "3",
+    "word": "参考",
+    "phonetic": "さんこう",
+    "mean": "reference,consultation"
+  },
+  {
+    "id": "28784",
+    "group": "3",
+    "word": "賛成",
+    "phonetic": "さんせい",
+    "mean": "approval,agreement,support,favour"
+  },
+  {
+    "id": "28798",
+    "group": "3",
+    "word": "酸素",
+    "phonetic": "さんそ",
+    "mean": "oxygen"
+  },
+  {
+    "id": "28728",
+    "group": "3",
+    "word": "散歩",
+    "phonetic": "さんぽ",
+    "mean": "walk,stroll"
+  },
+  {
+    "id": "29448",
+    "group": "3",
+    "word": "氏",
+    "phonetic": "し",
+    "mean": "family name,lineage,birth"
+  },
+  {
+    "id": "86990",
+    "group": "3",
+    "word": "詩",
+    "phonetic": "し",
+    "mean": "poem,verse of poetry"
+  },
+  {
+    "id": "56807",
+    "group": "3",
+    "word": "幸せ",
+    "phonetic": "しあわせ",
+    "mean": "happiness,good fortune,luck,blessing"
+  },
+  {
+    "id": "5932",
+    "group": "3",
+    "word": "ジェット機",
+    "phonetic": "ジェットき",
+    "mean": "jet aeroplane"
+  },
+  {
+    "id": "41077",
+    "group": "4",
+    "word": "直に",
+    "phonetic": "じかに",
+    "mean": "immediately,readily,directly"
+  },
+  {
+    "id": "30287",
+    "group": "1",
+    "word": "叱る",
+    "phonetic": "しかる",
+    "mean": "to scold"
+  },
+  {
+    "id": "30237",
+    "group": "3",
+    "word": "式",
+    "phonetic": "しき",
+    "mean": "equation,formula,ceremony"
+  },
+  {
+    "id": "41066",
+    "group": "4",
+    "word": "直",
+    "phonetic": "じき",
+    "mean": "earnestly,immediately,exactly"
+  },
+  {
+    "id": "29941",
+    "group": "3",
+    "word": "時期",
+    "phonetic": "じき",
+    "mean": "time,season,period"
+  },
+  {
+    "id": "29363",
+    "group": "3",
+    "word": "支給",
+    "phonetic": "しきゅう",
+    "mean": "payment,allowance"
+  },
+  {
+    "id": "56820",
+    "group": "3",
+    "word": "刺激",
+    "phonetic": "しげき",
+    "mean": "stimulus,impetus,incentive"
+  },
+  {
+    "id": "29615",
+    "group": "3",
+    "word": "資源",
+    "phonetic": "しげん",
+    "mean": "resources"
+  },
+  {
+    "id": "29722",
+    "group": "3",
+    "word": "事件",
+    "phonetic": "じけん",
+    "mean": "event,affair,incident"
+  },
+  {
+    "id": "29958",
+    "group": "3",
+    "word": "時刻",
+    "phonetic": "じこく",
+    "mean": "instant,time,moment"
+  },
+  {
+    "id": "30113",
+    "group": "3",
+    "word": "自殺",
+    "phonetic": "じさつ",
+    "mean": "suicide"
+  },
+  {
+    "id": "29735",
+    "group": "3",
+    "word": "事実",
+    "phonetic": "じじつ",
+    "mean": "fact,truth,reality"
+  },
+  {
+    "id": "29368",
+    "group": "3",
+    "word": "支出",
+    "phonetic": "ししゅつ",
+    "mean": "expenditure,expenses"
+  },
+  {
+    "id": "29740",
+    "group": "3",
+    "word": "事情",
+    "phonetic": "じじょう",
+    "mean": "circumstances,consideration,conditions,situation,reasons"
+  },
+  {
+    "id": "29566",
+    "group": "3",
+    "word": "詩人",
+    "phonetic": "しじん",
+    "mean": "poet"
+  },
+  {
+    "id": "30135",
+    "group": "4",
+    "word": "自身",
+    "phonetic": "じしん",
+    "mean": "by oneself,personally"
+  },
+  {
+    "id": "41171",
+    "group": "1",
+    "word": "沈む",
+    "phonetic": "しずむ",
+    "mean": "to sink,to feel depressed"
+  },
+  {
+    "id": "30144",
+    "group": "3",
+    "word": "自然",
+    "phonetic": "しぜん",
+    "mean": "nature,spontaneous"
+  },
+  {
+    "id": "29306",
+    "group": "3",
+    "word": "思想",
+    "phonetic": "しそう",
+    "mean": "thought,idea"
+  },
+  {
+    "id": "36828",
+    "group": "3",
+    "word": "舌",
+    "phonetic": "した",
+    "mean": "tongue"
+  },
+  {
+    "id": "30004",
+    "group": "3",
+    "word": "次第",
+    "phonetic": "しだい",
+    "mean": "order,precedence,circumstances,immediate(ly)"
+  },
+  {
+    "id": "56926",
+    "group": "3",
+    "word": "事態",
+    "phonetic": "じたい",
+    "mean": "situation,present state of affairs"
+  },
+  {
+    "id": "31815",
+    "group": "1",
+    "word": "従う",
+    "phonetic": "したがう",
+    "mean": "to abide (by the rules),to obey,to follow,to accompany"
+  },
+  {
+    "id": "29376",
+    "group": "3",
+    "word": "支度",
+    "phonetic": "したく",
+    "mean": "preparation"
+  },
+  {
+    "id": "34710",
+    "group": "2",
+    "word": "親しい",
+    "phonetic": "したしい",
+    "mean": "intimate,close (e.g. friend)"
+  },
+  {
+    "id": "30392",
+    "group": "3",
+    "word": "質",
+    "phonetic": "しつ",
+    "mean": "quality,nature (of person)"
+  },
+  {
+    "id": "30315",
+    "group": "3",
+    "word": "失業",
+    "phonetic": "しつぎょう",
+    "mean": "unemployment"
+  },
+  {
+    "id": "30425",
+    "group": "3",
+    "word": "実験",
+    "phonetic": "じっけん",
+    "mean": "experiment"
+  },
+  {
+    "id": "30430",
+    "group": "3",
+    "word": "実現",
+    "phonetic": "じつげん",
+    "mean": "implementation,materialization,realization"
+  },
+  {
+    "id": "30432",
+    "group": "3",
+    "word": "実行",
+    "phonetic": "じっこう",
+    "mean": "practice,performance,execution (e.g. program),realization"
+  },
+  {
+    "id": "30439",
+    "group": "3",
+    "word": "実際",
+    "phonetic": "じっさい",
+    "mean": "practical,actual condition,status quo"
+  },
+  {
+    "id": "30442",
+    "group": "3",
+    "word": "実施",
+    "phonetic": "じっし",
+    "mean": "enforcement,enact,put into practice,carry out,operation"
+  },
+  {
+    "id": "171627",
+    "group": "4",
+    "word": "実に",
+    "phonetic": "じつに",
+    "mean": "indeed,truly,surely"
+  },
+  {
+    "id": "30411",
+    "group": "4",
+    "word": "実は",
+    "phonetic": "じつは",
+    "mean": "as a matter of fact,by the way"
+  },
+  {
+    "id": "30346",
+    "group": "3",
+    "word": "失望",
+    "phonetic": "しつぼう",
+    "mean": "disappointment,despair"
+  },
+  {
+    "id": "29373",
+    "group": "3",
+    "word": "支店",
+    "phonetic": "してん",
+    "mean": "branch store (office)"
+  },
+  {
+    "id": "29345",
+    "group": "3",
+    "word": "指導",
+    "phonetic": "しどう",
+    "mean": "leadership,guidance,coaching"
+  },
+  {
+    "id": "30168",
+    "group": "2",
+    "word": "自動",
+    "phonetic": "じどう",
+    "mean": "automatic,self-motion"
+  },
+  {
+    "id": "55782",
+    "group": "3",
+    "word": "品",
+    "phonetic": "しな",
+    "mean": "thing,article,goods,dignity,article (goods),counter for meal courses"
+  },
+  {
+    "id": "29377",
+    "group": "3",
+    "word": "支配",
+    "phonetic": "しはい",
+    "mean": "rule,control,direction"
+  },
+  {
+    "id": "30491",
+    "group": "3",
+    "word": "芝居",
+    "phonetic": "しばい",
+    "mean": "play,drama"
+  },
+  {
+    "id": "30493",
+    "group": "3",
+    "word": "芝生",
+    "phonetic": "しばふ",
+    "mean": "lawn"
+  },
+  {
+    "id": "29380",
+    "group": "1",
+    "word": "支払う",
+    "phonetic": "しはらう",
+    "mean": "to pay"
+  },
+  {
+    "id": "29442",
+    "group": "3",
+    "word": "死亡",
+    "phonetic": "しぼう",
+    "mean": "death,mortality"
+  },
+  {
+    "id": "29621",
+    "group": "3",
+    "word": "資本",
+    "phonetic": "しほん",
+    "mean": "funds,capital"
+  },
+  {
+    "id": "55384",
+    "group": "3",
+    "word": "姉妹",
+    "phonetic": "しまい",
+    "mean": "sisters"
+  },
+  {
+    "id": "56364",
+    "group": "1",
+    "word": "終わる",
+    "phonetic": "おわる",
+    "mean": "to finish,to close,to do something completely"
+  },
+  {
+    "id": "30201",
+    "group": "3",
+    "word": "自慢",
+    "phonetic": "じまん",
+    "mean": "pride,boast"
+  },
+  {
+    "id": "29766",
+    "group": "3",
+    "word": "事務",
+    "phonetic": "じむ",
+    "mean": "business,office work"
+  },
+  {
+    "id": "30047",
+    "group": "1",
+    "word": "示す",
+    "phonetic": "しめす",
+    "mean": "to denote,to show,to point out,to indicate"
+  },
+  {
+    "id": "37063",
+    "group": "1",
+    "word": "占める",
+    "phonetic": "しめる",
+    "mean": "to comprise,to account for,to make up (of),to hold,to occupy"
+  },
+  {
+    "id": "17157",
+    "group": "3",
+    "word": "下",
+    "phonetic": "しも",
+    "mean": "under,below,beneath"
+  },
+  {
+    "id": "38385",
+    "group": "3",
+    "word": "霜",
+    "phonetic": "しも",
+    "mean": "frost"
+  },
+  {
+    "id": "30718",
+    "group": "3",
+    "word": "借金",
+    "phonetic": "しゃっきん",
+    "mean": "debt,loan,liabilities"
+  },
+  {
+    "id": "31645",
+    "group": "3",
+    "word": "週",
+    "phonetic": "しゅう",
+    "mean": "week"
+  },
+  {
+    "id": "31487",
+    "group": "3",
+    "word": "州",
+    "phonetic": "しゅう",
+    "mean": "sandbank"
+  },
+  {
+    "id": "31986",
+    "group": "3",
+    "word": "銃",
+    "phonetic": "じゅう",
+    "mean": "gun"
+  },
+  {
+    "id": "31406",
+    "group": "3",
+    "word": "周囲",
+    "phonetic": "しゅうい",
+    "mean": "surroundings,circumference,environs"
+  },
+  {
+    "id": "31354",
+    "group": "3",
+    "word": "収穫",
+    "phonetic": "しゅうかく",
+    "mean": "harvest,crop,ingathering"
+  },
+  {
+    "id": "31650",
+    "group": "3",
+    "word": "週間",
+    "phonetic": "しゅうかん",
+    "mean": "week,weekly"
+  },
+  {
+    "id": "31443",
+    "group": "3",
+    "word": "宗教",
+    "phonetic": "しゅうきょう",
+    "mean": "religion"
+  },
+  {
+    "id": "31916",
+    "group": "3",
+    "word": "重視",
+    "phonetic": "じゅうし",
+    "mean": "importance,stress,serious consideration"
+  },
+  {
+    "id": "31470",
+    "group": "3",
+    "word": "就職",
+    "phonetic": "しゅうしょく",
+    "mean": "finding employment,inauguration"
+  },
+  {
+    "id": "31516",
+    "group": "3",
+    "word": "修正",
+    "phonetic": "しゅうせい",
+    "mean": "amendment,correction,revision,modification"
+  },
+  {
+    "id": "31851",
+    "group": "3",
+    "word": "渋滞",
+    "phonetic": "じゅうたい",
+    "mean": "congestion (e.g. traffic),delay,stagnation"
+  },
+  {
+    "id": "31939",
+    "group": "2",
+    "word": "重大",
+    "phonetic": "じゅうだい",
+    "mean": "serious,important,grave,weighty"
+  },
+  {
+    "id": "31714",
+    "group": "3",
+    "word": "住宅",
+    "phonetic": "じゅうたく",
+    "mean": "resident,housing"
+  },
+  {
+    "id": "31672",
+    "group": "3",
+    "word": "集団",
+    "phonetic": "しゅうだん",
+    "mean": "group,mass"
+  },
+  {
+    "id": "31674",
+    "group": "3",
+    "word": "集中",
+    "phonetic": "しゅうちゅう",
+    "mean": "concentration,focusing the mind"
+  },
+  {
+    "id": "31382",
+    "group": "3",
+    "word": "収入",
+    "phonetic": "しゅうにゅう",
+    "mean": "income,receipts,revenue"
+  },
+  {
+    "id": "31720",
+    "group": "3",
+    "word": "住民",
+    "phonetic": "じゅうみん",
+    "mean": "citizens,inhabitants,residents,population"
+  },
+  {
+    "id": "31969",
+    "group": "3",
+    "word": "重要",
+    "phonetic": "じゅうよう",
+    "mean": "important,momentous,essential,principal,major"
+  },
+  {
+    "id": "31543",
+    "group": "3",
+    "word": "修理",
+    "phonetic": "しゅうり",
+    "mean": "repairing,mending"
+  },
+  {
+    "id": "30847",
+    "group": "3",
+    "word": "主義",
+    "phonetic": "しゅぎ",
+    "mean": "doctrine,rule,principle"
+  },
+  {
+    "id": "32013",
+    "group": "3",
+    "word": "宿泊",
+    "phonetic": "しゅくはく",
+    "mean": "lodging"
+  },
+  {
+    "id": "31089",
+    "group": "3",
+    "word": "手術",
+    "phonetic": "しゅじゅつ",
+    "mean": "surgical operation"
+  },
+  {
+    "id": "31234",
+    "group": "3",
+    "word": "首相",
+    "phonetic": "しゅしょう",
+    "mean": "Prime Minister"
+  },
+  {
+    "id": "31119",
+    "group": "3",
+    "word": "手段",
+    "phonetic": "しゅだん",
+    "mean": "means,way,measure"
+  },
+  {
+    "id": "30911",
+    "group": "3",
+    "word": "主張",
+    "phonetic": "しゅちょう",
+    "mean": "claim,request,insistence,assertion"
+  },
+  {
+    "id": "32204",
+    "group": "3",
+    "word": "出身",
+    "phonetic": "しゅっしん",
+    "mean": "graduate from,come from"
+  },
+  {
+    "id": "32224",
+    "group": "3",
+    "word": "出席",
+    "phonetic": "しゅっせき",
+    "mean": "attendance,presence"
+  },
+  {
+    "id": "32277",
+    "group": "3",
+    "word": "出発",
+    "phonetic": "しゅっぱつ",
+    "mean": "departure"
+  },
+  {
+    "id": "32280",
+    "group": "3",
+    "word": "出版",
+    "phonetic": "しゅっぱん",
+    "mean": "publication"
+  },
+  {
+    "id": "31238",
+    "group": "3",
+    "word": "首都",
+    "phonetic": "しゅと",
+    "mean": "capital city"
+  },
+  {
+    "id": "30934",
+    "group": "3",
+    "word": "主婦",
+    "phonetic": "しゅふ",
+    "mean": "housewife,mistress"
+  },
+  {
+    "id": "30948",
+    "group": "3",
+    "word": "主要",
+    "phonetic": "しゅよう",
+    "mean": "chief,main,principal,major"
+  },
+  {
+    "id": "31348",
+    "group": "3",
+    "word": "需要",
+    "phonetic": "じゅよう",
+    "mean": "demand,request"
+  },
+  {
+    "id": "31194",
+    "group": "3",
+    "word": "種類",
+    "phonetic": "しゅるい",
+    "mean": "variety,kind,type"
+  },
+  {
+    "id": "32495",
+    "group": "3",
+    "word": "順",
+    "phonetic": "じゅん",
+    "mean": "order,turn"
+  },
+  {
+    "id": "32396",
+    "group": "3",
+    "word": "瞬間",
+    "phonetic": "しゅんかん",
+    "mean": "moment,second,instant"
+  },
+  {
+    "id": "32510",
+    "group": "2",
+    "word": "順調",
+    "phonetic": "じゅんちょう",
+    "mean": "favourable,doing well,O.K.,all right"
+  },
+  {
+    "id": "32511",
+    "group": "3",
+    "word": "順番",
+    "phonetic": "じゅんばん",
+    "mean": "turn (in line),order of things"
+  },
+  {
+    "id": "32440",
+    "group": "3",
+    "word": "準備",
+    "phonetic": "じゅんび",
+    "mean": "preparation,arrangements,provision,reserve"
+  },
+  {
+    "id": "28980",
+    "group": "3",
+    "word": "使用",
+    "phonetic": "しよう",
+    "mean": "use,application,employment,utilization"
+  },
+  {
+    "id": "33368",
+    "group": "3",
+    "word": "章",
+    "phonetic": "しょう",
+    "mean": "chapter,section,medal"
+  },
+  {
+    "id": "33431",
+    "group": "3",
+    "word": "賞",
+    "phonetic": "しょう",
+    "mean": "prize,award"
+  },
+  {
+    "id": "33453",
+    "group": "3",
+    "word": "上",
+    "phonetic": "じょう",
+    "mean": "first volume,superior quality,governmental"
+  },
+  {
+    "id": "33446",
+    "group": "3",
+    "word": "障害",
+    "phonetic": "しょうがい",
+    "mean": "obstacle,impediment (fault),damage"
+  },
+  {
+    "id": "33011",
+    "group": "3",
+    "word": "奨学金",
+    "phonetic": "しょうがくきん",
+    "mean": "scholarship"
+  },
+  {
+    "id": "55483",
+    "group": "3",
+    "word": "乗客",
+    "phonetic": "じょうきゃく",
+    "mean": "passenger"
+  },
+  {
+    "id": "33535",
+    "group": "3",
+    "word": "上京",
+    "phonetic": "じょうきょう",
+    "mean": "proceeding to the capital (Tokyo)"
+  },
+  {
+    "id": "33898",
+    "group": "3",
+    "word": "状況",
+    "phonetic": "じょうきょう",
+    "mean": "state of affairs,situation,circumstances"
+  },
+  {
+    "id": "33879",
+    "group": "3",
+    "word": "条件",
+    "phonetic": "じょうけん",
+    "mean": "conditions,terms"
+  },
+  {
+    "id": "35873",
+    "group": "3",
+    "word": "正午",
+    "phonetic": "しょうご",
+    "mean": "noon,mid-day"
+  },
+  {
+    "id": "35923",
+    "group": "3",
+    "word": "正直",
+    "phonetic": "しょうじき",
+    "mean": "honesty,integrity,frankness"
+  },
+  {
+    "id": "33828",
+    "group": "3",
+    "word": "常識",
+    "phonetic": "じょうしき",
+    "mean": "common sense"
+  },
+  {
+    "id": "55461",
+    "group": "3",
+    "word": "少女",
+    "phonetic": "しょうじょ",
+    "mean": "daughter,young lady,virgin,maiden,little girl"
+  },
+  {
+    "id": "56892",
+    "group": "3",
+    "word": "少々",
+    "phonetic": "しょうしょう",
+    "mean": "just a minute,small quantity"
+  },
+  {
+    "id": "33346",
+    "group": "3",
+    "word": "症状",
+    "phonetic": "しょうじょう",
+    "mean": "symptoms,condition"
+  },
+  {
+    "id": "36028",
+    "group": "1",
+    "word": "生じる",
+    "phonetic": "しょうじる",
+    "mean": "to produce,to yield,to result from,to arise,to be generated"
+  },
+  {
+    "id": "33205",
+    "group": "3",
+    "word": "招待",
+    "phonetic": "しょうたい",
+    "mean": "invitation"
+  },
+  {
+    "id": "33901",
+    "group": "3",
+    "word": "状態",
+    "phonetic": "じょうたい",
+    "mean": "condition,situation,circumstances,state"
+  },
+  {
+    "id": "33620",
+    "group": "3",
+    "word": "上達",
+    "phonetic": "じょうたつ",
+    "mean": "improvement,advance,progress"
+  },
+  {
+    "id": "33785",
+    "group": "3",
+    "word": "冗談",
+    "phonetic": "じょうだん",
+    "mean": "jest,joke"
+  },
+  {
+    "id": "33192",
+    "group": "3",
+    "word": "承知",
+    "phonetic": "しょうち",
+    "mean": "consent,acceptance,assent,admitting"
+  },
+  {
+    "id": "33637",
+    "group": "3",
+    "word": "上等",
+    "phonetic": "じょうとう",
+    "mean": "superiority,first class,very good"
+  },
+  {
+    "id": "33397",
+    "group": "3",
+    "word": "衝突",
+    "phonetic": "しょうとつ",
+    "mean": "collision,conflict"
+  },
+  {
+    "id": "55459",
+    "group": "3",
+    "word": "商人",
+    "phonetic": "しょうにん",
+    "mean": "trader,shopkeeper,merchant"
+  },
+  {
+    "id": "33196",
+    "group": "3",
+    "word": "承認",
+    "phonetic": "しょうにん",
+    "mean": "recognition,acknowledgement,approval,consent,agreement"
+  },
+  {
+    "id": "33164",
+    "group": "3",
+    "word": "少年",
+    "phonetic": "しょうねん",
+    "mean": "boys,juveniles"
+  },
+  {
+    "id": "32979",
+    "group": "3",
+    "word": "商売",
+    "phonetic": "しょうばい",
+    "mean": "trade,business,commerce,transaction,occupation"
+  },
+  {
+    "id": "33272",
+    "group": "3",
+    "word": "消費",
+    "phonetic": "しょうひ",
+    "mean": "consumption,expenditure"
+  },
+  {
+    "id": "32990",
+    "group": "3",
+    "word": "商品",
+    "phonetic": "しょうひん",
+    "mean": "commodity,article of commerce,goods,stock,merchandise"
+  },
+  {
+    "id": "33277",
+    "group": "3",
+    "word": "消防",
+    "phonetic": "しょうぼう",
+    "mean": "fire fighting,fire department"
+  },
+  {
+    "id": "33865",
+    "group": "3",
+    "word": "情報",
+    "phonetic": "じょうほう",
+    "mean": "information,(military) intelligence"
+  },
+  {
+    "id": "33409",
+    "group": "3",
+    "word": "証明",
+    "phonetic": "しょうめい",
+    "mean": "proof,verification"
+  },
+  {
+    "id": "32768",
+    "group": "3",
+    "word": "女王",
+    "phonetic": "じょおう",
+    "mean": "queen"
+  },
+  {
+    "id": "33975",
+    "group": "3",
+    "word": "職",
+    "phonetic": "しょく",
+    "mean": "employment"
+  },
+  {
+    "id": "33978",
+    "group": "3",
+    "word": "職業",
+    "phonetic": "しょくぎょう",
+    "mean": "occupation,business"
+  },
+  {
+    "id": "34076",
+    "group": "3",
+    "word": "食事",
+    "phonetic": "しょくじ",
+    "mean": "meal"
+  },
+  {
+    "id": "34080",
+    "group": "3",
+    "word": "食卓",
+    "phonetic": "しょくたく",
+    "mean": "dining table"
+  },
+  {
+    "id": "34087",
+    "group": "3",
+    "word": "食品",
+    "phonetic": "しょくひん",
+    "mean": "commodity,foodstuff"
+  },
+  {
+    "id": "33957",
+    "group": "3",
+    "word": "植物",
+    "phonetic": "しょくぶつ",
+    "mean": "plant,vegetation"
+  },
+  {
+    "id": "34089",
+    "group": "3",
+    "word": "食物",
+    "phonetic": "しょくもつ",
+    "mean": "food,foodstuff"
+  },
+  {
+    "id": "34092",
+    "group": "3",
+    "word": "食欲",
+    "phonetic": "しょくよく",
+    "mean": "appetite (for food)"
+  },
+  {
+    "id": "34093",
+    "group": "3",
+    "word": "食料",
+    "phonetic": "しょくりょう",
+    "mean": "food"
+  },
+  {
+    "id": "34095",
+    "group": "3",
+    "word": "食糧",
+    "phonetic": "しょくりょう",
+    "mean": "provisions,rations"
+  },
+  {
+    "id": "32672",
+    "group": "3",
+    "word": "書斎",
+    "phonetic": "しょさい",
+    "mean": "study"
+  },
+  {
+    "id": "32780",
+    "group": "3",
+    "word": "女子",
+    "phonetic": "じょし",
+    "mean": "woman,girl"
+  },
+  {
+    "id": "32733",
+    "group": "3",
+    "word": "助手",
+    "phonetic": "じょしゅ",
+    "mean": "helper,helpmeet,assistant,tutor"
+  },
+  {
+    "id": "32634",
+    "group": "3",
+    "word": "署名",
+    "phonetic": "しょめい",
+    "mean": "signature"
+  },
+  {
+    "id": "32684",
+    "group": "3",
+    "word": "書物",
+    "phonetic": "しょもつ",
+    "mean": "books"
+  },
+  {
+    "id": "32809",
+    "group": "3",
+    "word": "女優",
+    "phonetic": "じょゆう",
+    "mean": "actress"
+  },
+  {
+    "id": "32523",
+    "group": "3",
+    "word": "処理",
+    "phonetic": "しょり",
+    "mean": "processing,dealing with,treatment,disposition,disposal"
+  },
+  {
+    "id": "32689",
+    "group": "3",
+    "word": "書類",
+    "phonetic": "しょるい",
+    "mean": "documents,official papers"
+  },
+  {
+    "id": "40078",
+    "group": "3",
+    "word": "知らせ",
+    "phonetic": "しらせ",
+    "mean": "notice"
+  },
+  {
+    "id": "34101",
+    "group": "3",
+    "word": "尻",
+    "phonetic": "しり",
+    "mean": "buttocks,bottom"
+  },
+  {
+    "id": "15626",
+    "group": "3",
+    "word": "印",
+    "phonetic": "しるし",
+    "mean": "mark,symbol,evidence"
+  },
+  {
+    "id": "33801",
+    "group": "3",
+    "word": "城",
+    "phonetic": "しろ",
+    "mean": "castle"
+  },
+  {
+    "id": "34804",
+    "group": "3",
+    "word": "進学",
+    "phonetic": "しんがく",
+    "mean": "going on to university"
+  },
+  {
+    "id": "34659",
+    "group": "3",
+    "word": "神経",
+    "phonetic": "しんけい",
+    "mean": "nerve,sensitivity"
+  },
+  {
+    "id": "34574",
+    "group": "3",
+    "word": "真剣",
+    "phonetic": "しんけん",
+    "mean": "seriousness,earnestness"
+  },
+  {
+    "id": "34140",
+    "group": "3",
+    "word": "信仰",
+    "phonetic": "しんこう",
+    "mean": "(religious) faith,belief,creed"
+  },
+  {
+    "id": "34149",
+    "group": "3",
+    "word": "信号",
+    "phonetic": "しんごう",
+    "mean": "traffic lights,signal,semaphore"
+  },
+  {
+    "id": "34933",
+    "group": "2",
+    "word": "人工",
+    "phonetic": "じんこう",
+    "mean": "artificial,manmade,human work,human skill,artificiality"
+  },
+  {
+    "id": "34489",
+    "group": "2",
+    "word": "深刻",
+    "phonetic": "しんこく",
+    "mean": "serious"
+  },
+  {
+    "id": "34751",
+    "group": "3",
+    "word": "診察",
+    "phonetic": "しんさつ",
+    "mean": "medical examination"
+  },
+  {
+    "id": "34994",
+    "group": "3",
+    "word": "人種",
+    "phonetic": "じんしゅ",
+    "mean": "race (of people)"
+  },
+  {
+    "id": "34129",
+    "group": "1",
+    "word": "信じる",
+    "phonetic": "しんじる",
+    "mean": "to believe,to place trust in"
+  },
+  {
+    "id": "35028",
+    "group": "3",
+    "word": "人生",
+    "phonetic": "じんせい",
+    "mean": "(human) life (i.e. conception to death)"
+  },
+  {
+    "id": "34728",
+    "group": "3",
+    "word": "親戚",
+    "phonetic": "しんせき",
+    "mean": "relative"
+  },
+  {
+    "id": "34429",
+    "group": "2",
+    "word": "新鮮",
+    "phonetic": "しんせん",
+    "mean": "fresh"
+  },
+  {
+    "id": "34300",
+    "group": "3",
+    "word": "心臓",
+    "phonetic": "しんぞう",
+    "mean": "heart"
+  },
+  {
+    "id": "34781",
+    "group": "3",
+    "word": "身長",
+    "phonetic": "しんちょう",
+    "mean": "height (of body),stature"
+  },
+  {
+    "id": "34334",
+    "group": "3",
+    "word": "慎重",
+    "phonetic": "しんちょう",
+    "mean": "discretion,prudence"
+  },
+  {
+    "id": "34316",
+    "group": "3",
+    "word": "心配",
+    "phonetic": "しんぱい",
+    "mean": "worry,concern,anxiety,care"
+  },
+  {
+    "id": "34266",
+    "group": "3",
+    "word": "審判",
+    "phonetic": "しんぱん",
+    "mean": "refereeing,trial,judgement,umpire,referee"
+  },
+  {
+    "id": "35097",
+    "group": "3",
+    "word": "人物",
+    "phonetic": "じんぶつ",
+    "mean": "character,personality,person,man,personage,talented man"
+  },
+  {
+    "id": "34822",
+    "group": "3",
+    "word": "進歩",
+    "phonetic": "しんぽ",
+    "mean": "progress,development"
+  },
+  {
+    "id": "34746",
+    "group": "3",
+    "word": "親友",
+    "phonetic": "しんゆう",
+    "mean": "close friend,buddy"
+  },
+  {
+    "id": "34187",
+    "group": "3",
+    "word": "信用",
+    "phonetic": "しんよう",
+    "mean": "confidence,dependence,credit,faith"
+  },
+  {
+    "id": "34198",
+    "group": "3",
+    "word": "信頼",
+    "phonetic": "しんらい",
+    "mean": "reliance,trust,confidence"
+  },
+  {
+    "id": "34323",
+    "group": "3",
+    "word": "心理",
+    "phonetic": "しんり",
+    "mean": "mentality"
+  },
+  {
+    "id": "35142",
+    "group": "3",
+    "word": "人類",
+    "phonetic": "じんるい",
+    "mean": "mankind,humanity"
+  },
+  {
+    "id": "38133",
+    "group": "3",
+    "word": "巣",
+    "phonetic": "す",
+    "mean": "nest,rookery,breeding place,beehive,cobweb"
+  },
+  {
+    "id": "35214",
+    "group": "3",
+    "word": "図",
+    "phonetic": "ず",
+    "mean": "figure (e.g. Fig 1),drawing,picture,illustration"
+  },
+  {
+    "id": "35343",
+    "group": "3",
+    "word": "水準",
+    "phonetic": "すいじゅん",
+    "mean": "water level,level,standard"
+  },
+  {
+    "id": "35298",
+    "group": "3",
+    "word": "推薦",
+    "phonetic": "すいせん",
+    "mean": "recommendation"
+  },
+  {
+    "id": "35416",
+    "group": "3",
+    "word": "睡眠",
+    "phonetic": "すいみん",
+    "mean": "sleep"
+  },
+  {
+    "id": "55518",
+    "group": "3",
+    "word": "数",
+    "phonetic": "すう",
+    "mean": "number,figure"
+  },
+  {
+    "id": "35483",
+    "group": "3",
+    "word": "数字",
+    "phonetic": "すうじ",
+    "mean": "numeral,figure"
+  },
+  {
+    "id": "50248",
+    "group": "3",
+    "word": "末",
+    "phonetic": "すえ",
+    "mean": "the end of,powder"
+  },
+  {
+    "id": "29124",
+    "group": "3",
+    "word": "姿",
+    "phonetic": "すがた",
+    "mean": "figure,shape,appearance"
+  },
+  {
+    "id": "56043",
+    "group": "1",
+    "word": "空く",
+    "phonetic": "すく",
+    "mean": "to open,to become empty,to be less crowded"
+  },
+  {
+    "id": "21519",
+    "group": "1",
+    "word": "救う",
+    "phonetic": "すくう",
+    "mean": "to rescue from,to help out of"
+  },
+  {
+    "id": "51585",
+    "group": "1",
+    "word": "優れる",
+    "phonetic": "すぐれる",
+    "mean": "to surpass,to outstrip,to excel"
+  },
+  {
+    "id": "33141",
+    "group": "4",
+    "word": "少しも",
+    "phonetic": "すこしも",
+    "mean": "anything of,not one bit"
+  },
+  {
+    "id": "18313",
+    "group": "1",
+    "word": "過ごす",
+    "phonetic": "すごす",
+    "mean": "to pass,to spend,to go through,to tide over"
+  },
+  {
+    "id": "22747",
+    "group": "3",
+    "word": "筋",
+    "phonetic": "すじ",
+    "mean": "muscle,string,line"
+  },
+  {
+    "id": "34802",
+    "group": "1",
+    "word": "進める",
+    "phonetic": "すすめる",
+    "mean": "to advance,to promote,to hasten"
+  },
+  {
+    "id": "56968",
+    "group": "1",
+    "word": "勧める",
+    "phonetic": "すすめる",
+    "mean": "to recommend,to advise,to encourage,to offer (wine)"
+  },
+  {
+    "id": "43029",
+    "group": "3",
+    "word": "頭痛",
+    "phonetic": "ずつう",
+    "mean": "headache"
+  },
+  {
+    "id": "20659",
+    "group": "4",
+    "word": "既に",
+    "phonetic": "すでに",
+    "mean": "already,too late"
+  },
+  {
+    "id": "56973",
+    "group": "4",
+    "word": "全て",
+    "phonetic": "すべて",
+    "mean": "all,the whole,entirely,in general,wholly"
+  },
+  {
+    "id": "27899",
+    "group": "1",
+    "word": "済ませる",
+    "phonetic": "すませる",
+    "mean": "to be finished"
+  },
+  {
+    "id": "19298",
+    "group": "3",
+    "word": "角",
+    "phonetic": "すみ",
+    "mean": "horn"
+  },
+  {
+    "id": "14571",
+    "group": "1",
+    "word": "為る",
+    "phonetic": "する",
+    "mean": "to change,to be of use,to reach to"
+  },
+  {
+    "id": "16285",
+    "group": "2",
+    "word": "鋭い",
+    "phonetic": "するどい",
+    "mean": "pointed,sharp"
+  },
+  {
+    "id": "45146",
+    "group": "3",
+    "word": "背",
+    "phonetic": "せい",
+    "mean": "height,stature"
+  },
+  {
+    "id": "35825",
+    "group": "3",
+    "word": "正",
+    "phonetic": "せい",
+    "mean": "(logical) true,regular"
+  },
+  {
+    "id": "36007",
+    "group": "2",
+    "word": "生",
+    "phonetic": "せい",
+    "mean": "draft (beer),raw,unprocessed"
+  },
+  {
+    "id": "35694",
+    "group": "3",
+    "word": "性",
+    "phonetic": "せい",
+    "mean": "sex,gender"
+  },
+  {
+    "id": "32586",
+    "group": "3",
+    "word": "所為",
+    "phonetic": "せい",
+    "mean": "cause,reason,fault"
+  },
+  {
+    "id": "35698",
+    "group": "3",
+    "word": "性格",
+    "phonetic": "せいかく",
+    "mean": "character,personality"
+  },
+  {
+    "id": "35842",
+    "group": "3",
+    "word": "正確",
+    "phonetic": "せいかく",
+    "mean": "accurate,punctuality,exactness,authenticity,veracity"
+  },
+  {
+    "id": "35572",
+    "group": "3",
+    "word": "世紀",
+    "phonetic": "せいき",
+    "mean": "century,era"
+  },
+  {
+    "id": "36284",
+    "group": "3",
+    "word": "請求",
+    "phonetic": "せいきゅう",
+    "mean": "claim,demand,application,request"
+  },
+  {
+    "id": "36358",
+    "group": "3",
+    "word": "税金",
+    "phonetic": "ぜいきん",
+    "mean": "tax,duty"
+  },
+  {
+    "id": "35984",
+    "group": "2",
+    "word": "清潔",
+    "phonetic": "せいけつ",
+    "mean": "clean"
+  },
+  {
+    "id": "35640",
+    "group": "3",
+    "word": "制限",
+    "phonetic": "せいげん",
+    "mean": "restriction,restraint,limitation"
+  },
+  {
+    "id": "35737",
+    "group": "3",
+    "word": "成功",
+    "phonetic": "せいこう",
+    "mean": "success,hit"
+  },
+  {
+    "id": "36059",
+    "group": "3",
+    "word": "生産",
+    "phonetic": "せいさん",
+    "mean": "production,manufacture"
+  },
+  {
+    "id": "35894",
+    "group": "3",
+    "word": "正式",
+    "phonetic": "せいしき",
+    "mean": "due form,official,formality"
+  },
+  {
+    "id": "36153",
+    "group": "3",
+    "word": "精神",
+    "phonetic": "せいしん",
+    "mean": "mind,soul,heart,spirit,intention"
+  },
+  {
+    "id": "35741",
+    "group": "3",
+    "word": "成人",
+    "phonetic": "せいじん",
+    "mean": "adult"
+  },
+  {
+    "id": "56999",
+    "group": "4",
+    "word": "精々",
+    "phonetic": "せいぜい",
+    "mean": "at the most,at best,to the utmost,as much (far) as possible"
+  },
+  {
+    "id": "35743",
+    "group": "3",
+    "word": "成績",
+    "phonetic": "せいせき",
+    "mean": "results,record"
+  },
+  {
+    "id": "36226",
+    "group": "3",
+    "word": "製造",
+    "phonetic": "せいぞう",
+    "mean": "manufacture,production"
+  },
+  {
+    "id": "54796",
+    "group": "3",
+    "word": "贅沢",
+    "phonetic": "ぜいたく",
+    "mean": "luxury,extravagance"
+  },
+  {
+    "id": "35746",
+    "group": "3",
+    "word": "成長",
+    "phonetic": "せいちょう",
+    "mean": "growth,grow to adulthood"
+  },
+  {
+    "id": "35658",
+    "group": "3",
+    "word": "制度",
+    "phonetic": "せいど",
+    "mean": "system,institution,organization"
+  },
+  {
+    "id": "36323",
+    "group": "3",
+    "word": "青年",
+    "phonetic": "せいねん",
+    "mean": "youth,young man"
+  },
+  {
+    "id": "36233",
+    "group": "3",
+    "word": "製品",
+    "phonetic": "せいひん",
+    "mean": "manufactured goods,finished goods"
+  },
+  {
+    "id": "35774",
+    "group": "3",
+    "word": "政府",
+    "phonetic": "せいふ",
+    "mean": "government,administration"
+  },
+  {
+    "id": "36102",
+    "group": "3",
+    "word": "生物",
+    "phonetic": "せいぶつ",
+    "mean": "raw food"
+  },
+  {
+    "id": "36112",
+    "group": "3",
+    "word": "生命",
+    "phonetic": "せいめい",
+    "mean": "life,existence"
+  },
+  {
+    "id": "35791",
+    "group": "3",
+    "word": "整理",
+    "phonetic": "せいり",
+    "mean": "sorting,arrangement,adjustment,regulation"
+  },
+  {
+    "id": "19123",
+    "group": "3",
+    "word": "咳",
+    "phonetic": "せき",
+    "mean": "cough"
+  },
+  {
+    "id": "36411",
+    "group": "3",
+    "word": "石炭",
+    "phonetic": "せきたん",
+    "mean": "coal"
+  },
+  {
+    "id": "36459",
+    "group": "3",
+    "word": "責任",
+    "phonetic": "せきにん",
+    "mean": "duty,responsibility"
+  },
+  {
+    "id": "36424",
+    "group": "3",
+    "word": "石油",
+    "phonetic": "せきゆ",
+    "mean": "oil,petroleum,kerosene"
+  },
+  {
+    "id": "35570",
+    "group": "3",
+    "word": "世間",
+    "phonetic": "せけん",
+    "mean": "world,society"
+  },
+  {
+    "id": "36765",
+    "group": "3",
+    "word": "説",
+    "phonetic": "せつ",
+    "mean": "theory"
+  },
+  {
+    "id": "36444",
+    "group": "2",
+    "word": "積極的",
+    "phonetic": "せっきょくてき",
+    "mean": "positive,active,proactive"
+  },
+  {
+    "id": "36730",
+    "group": "3",
+    "word": "設計",
+    "phonetic": "せっけい",
+    "mean": "plan,design"
+  },
+  {
+    "id": "36811",
+    "group": "2",
+    "word": "絶対",
+    "phonetic": "ぜったい",
+    "mean": "absolute,unconditional,absoluteness"
+  },
+  {
+    "id": "36735",
+    "group": "3",
+    "word": "設備",
+    "phonetic": "せつび",
+    "mean": "equipment,device,facilities,installation"
+  },
+  {
+    "id": "36826",
+    "group": "3",
+    "word": "絶滅",
+    "phonetic": "ぜつめつ",
+    "mean": "destruction,extinction"
+  },
+  {
+    "id": "36763",
+    "group": "3",
+    "word": "節約",
+    "phonetic": "せつやく",
+    "mean": "economising,saving"
+  },
+  {
+    "id": "36457",
+    "group": "1",
+    "word": "責める",
+    "phonetic": "せめる",
+    "mean": "to condemn,to blame,to criticize"
+  },
+  {
+    "id": "35602",
+    "group": "3",
+    "word": "世話",
+    "phonetic": "せわ",
+    "mean": "looking after,help,aid,assistance"
+  },
+  {
+    "id": "37532",
+    "group": "3",
+    "word": "善",
+    "phonetic": "ぜん",
+    "mean": "good,goodness,right,virtue"
+  },
+  {
+    "id": "37584",
+    "group": "2",
+    "word": "全",
+    "phonetic": "ぜん",
+    "mean": "all,whole,entire,complete,overall,pan"
+  },
+  {
+    "id": "37591",
+    "group": "3",
+    "word": "全員",
+    "phonetic": "ぜんいん",
+    "mean": "all members (unanimity),all hands,the whole crew"
+  },
+  {
+    "id": "37095",
+    "group": "3",
+    "word": "専攻",
+    "phonetic": "せんこう",
+    "mean": "major subject,special study"
+  },
+  {
+    "id": "55554",
+    "group": "2",
+    "word": "全国",
+    "phonetic": "ぜんこく",
+    "mean": "country-wide,nation-wide,whole country,national"
+  },
+  {
+    "id": "36955",
+    "group": "4",
+    "word": "先日",
+    "phonetic": "せんじつ",
+    "mean": "the other day,a few days ago"
+  },
+  {
+    "id": "37417",
+    "group": "3",
+    "word": "前者",
+    "phonetic": "ぜんしゃ",
+    "mean": "the former"
+  },
+  {
+    "id": "37335",
+    "group": "3",
+    "word": "選手",
+    "phonetic": "せんしゅ",
+    "mean": "player (in game),team"
+  },
+  {
+    "id": "37443",
+    "group": "3",
+    "word": "前進",
+    "phonetic": "ぜんしん",
+    "mean": "advance,drive,progress"
+  },
+  {
+    "id": "37669",
+    "group": "4",
+    "word": "全然",
+    "phonetic": "ぜんぜん",
+    "mean": "wholly,entirely,completely,not at all (with neg. verb)"
+  },
+  {
+    "id": "37673",
+    "group": "3",
+    "word": "全体",
+    "phonetic": "ぜんたい",
+    "mean": "whole,entirety,whatever (is the matter)"
+  },
+  {
+    "id": "37339",
+    "group": "3",
+    "word": "選択",
+    "phonetic": "せんたく",
+    "mean": "selection,choice"
+  },
+  {
+    "id": "33422",
+    "group": "3",
+    "word": "象",
+    "phonetic": "ぞう",
+    "mean": "elephant"
+  },
+  {
+    "id": "38398",
+    "group": "3",
+    "word": "騒音",
+    "phonetic": "そうおん",
+    "mean": "noise"
+  },
+  {
+    "id": "38408",
+    "group": "3",
+    "word": "増加",
+    "phonetic": "ぞうか",
+    "mean": "increase,addition"
+  },
+  {
+    "id": "38100",
+    "group": "3",
+    "word": "操作",
+    "phonetic": "そうさ",
+    "mean": "operation,management,processing"
+  },
+  {
+    "id": "38074",
+    "group": "3",
+    "word": "掃除",
+    "phonetic": "そうじ",
+    "mean": "cleaning,sweeping"
+  },
+  {
+    "id": "38056",
+    "group": "3",
+    "word": "想像",
+    "phonetic": "そうぞう",
+    "mean": "imagination,guess"
+  },
+  {
+    "id": "38203",
+    "group": "3",
+    "word": "相続",
+    "phonetic": "そうぞく",
+    "mean": "succession,inheritance"
+  },
+  {
+    "id": "38215",
+    "group": "3",
+    "word": "相談",
+    "phonetic": "そうだん",
+    "mean": "consultation,discussion"
+  },
+  {
+    "id": "38329",
+    "group": "3",
+    "word": "装置",
+    "phonetic": "そうち",
+    "mean": "equipment,installation,apparatus"
+  },
+  {
+    "id": "38218",
+    "group": "2",
+    "word": "相当",
+    "phonetic": "そうとう",
+    "mean": "suitable,fair,tolerable,proper"
+  },
+  {
+    "id": "38594",
+    "group": "3",
+    "word": "速度",
+    "phonetic": "そくど",
+    "mean": "speed,velocity,rate"
+  },
+  {
+    "id": "41596",
+    "group": "3",
+    "word": "底",
+    "phonetic": "そこ",
+    "mean": "bottom,sole"
+  },
+  {
+    "id": "37868",
+    "group": "3",
+    "word": "組織",
+    "phonetic": "そしき",
+    "mean": "organization,structure,construction,tissue,system"
+  },
+  {
+    "id": "55609",
+    "group": "1",
+    "word": "注ぐ",
+    "phonetic": "そそぐ",
+    "mean": "to pour (into),to irrigate,to pay,to fill,to feed (e.g. a fire)"
+  },
+  {
+    "id": "14900",
+    "group": "1",
+    "word": "育つ",
+    "phonetic": "そだつ",
+    "mean": "to raise (child),to be brought up,to grow (up)"
+  },
+  {
+    "id": "38688",
+    "group": "3",
+    "word": "袖",
+    "phonetic": "そで",
+    "mean": "sleeve"
+  },
+  {
+    "id": "23054",
+    "group": "1",
+    "word": "備える",
+    "phonetic": "そなえる",
+    "mean": "to furnish,to provide for,to equip,to install"
+  },
+  {
+    "id": "38474",
+    "group": "3",
+    "word": "側",
+    "phonetic": "そば",
+    "mean": "side,edge,third person"
+  },
+  {
+    "id": "37815",
+    "group": "2",
+    "word": "粗末",
+    "phonetic": "そまつ",
+    "mean": "crude,rough,plain,humble"
+  },
+  {
+    "id": "38752",
+    "group": "3",
+    "word": "損",
+    "phonetic": "そん",
+    "mean": "loss,disadvantage"
+  },
+  {
+    "id": "38757",
+    "group": "3",
+    "word": "損害",
+    "phonetic": "そんがい",
+    "mean": "damage,injury,loss"
+  },
+  {
+    "id": "38726",
+    "group": "3",
+    "word": "尊敬",
+    "phonetic": "そんけい",
+    "mean": "respect,esteem,reverence,honour"
+  },
+  {
+    "id": "38702",
+    "group": "3",
+    "word": "存在",
+    "phonetic": "そんざい",
+    "mean": "existence,being"
+  },
+  {
+    "id": "38732",
+    "group": "3",
+    "word": "尊重",
+    "phonetic": "そんちょう",
+    "mean": "respect,esteem,regard"
+  },
+  {
+    "id": "42249",
+    "group": "3",
+    "word": "田",
+    "phonetic": "た",
+    "mean": "rice field"
+  },
+  {
+    "id": "39055",
+    "group": "3",
+    "word": "対",
+    "phonetic": "たい",
+    "mean": "pair,couple,set"
+  },
+  {
+    "id": "39322",
+    "group": "3",
+    "word": "台",
+    "phonetic": "だい",
+    "mean": "stand,rack,table,support"
+  },
+  {
+    "id": "39597",
+    "group": "3",
+    "word": "題",
+    "phonetic": "だい",
+    "mean": "title,subject,theme,topic"
+  },
+  {
+    "id": "38996",
+    "group": "3",
+    "word": "体育",
+    "phonetic": "たいいく",
+    "mean": "physical education,gymnastics,athletics"
+  },
+  {
+    "id": "39001",
+    "group": "3",
+    "word": "体温",
+    "phonetic": "たいおん",
+    "mean": "temperature (body)"
+  },
+  {
+    "id": "39382",
+    "group": "3",
+    "word": "大会",
+    "phonetic": "たいかい",
+    "mean": "convention,tournament,mass meeting,rally"
+  },
+  {
+    "id": "39397",
+    "group": "3",
+    "word": "大気",
+    "phonetic": "たいき",
+    "mean": "atmosphere"
+  },
+  {
+    "id": "39245",
+    "group": "3",
+    "word": "代金",
+    "phonetic": "だいきん",
+    "mean": "price,payment,cost,charge"
+  },
+  {
+    "id": "57070",
+    "group": "3",
+    "word": "退屈",
+    "phonetic": "たいくつ",
+    "mean": "tedium,boredom"
+  },
+  {
+    "id": "39161",
+    "group": "3",
+    "word": "滞在",
+    "phonetic": "たいざい",
+    "mean": "stay,sojourn"
+  },
+  {
+    "id": "39446",
+    "group": "3",
+    "word": "大使",
+    "phonetic": "たいし",
+    "mean": "ambassador"
+  },
+  {
+    "id": "39361",
+    "group": "2",
+    "word": "大した",
+    "phonetic": "たいした",
+    "mean": "considerable,great,important,significant,a big deal"
+  },
+  {
+    "id": "39086",
+    "group": "3",
+    "word": "対象",
+    "phonetic": "たいしょう",
+    "mean": "target,object (of e.g. worship or study),subject (of e.g. taxation)"
+  },
+  {
+    "id": "39473",
+    "group": "3",
+    "word": "大臣",
+    "phonetic": "だいじん",
+    "mean": "cabinet minister"
+  },
+  {
+    "id": "58373",
+    "group": "1",
+    "word": "対する",
+    "phonetic": "たいする",
+    "mean": "to face,to confront,to oppose"
+  },
+  {
+    "id": "39493",
+    "group": "3",
+    "word": "大戦",
+    "phonetic": "たいせん",
+    "mean": "great war,great battle"
+  },
+  {
+    "id": "39149",
+    "group": "3",
+    "word": "態度",
+    "phonetic": "たいど",
+    "mean": "attitude,manner"
+  },
+  {
+    "id": "39521",
+    "group": "3",
+    "word": "大統領",
+    "phonetic": "だいとうりょう",
+    "mean": "president,chief executive"
+  },
+  {
+    "id": "39534",
+    "group": "3",
+    "word": "大半",
+    "phonetic": "たいはん",
+    "mean": "majority,mostly,generally"
+  },
+  {
+    "id": "39283",
+    "group": "3",
+    "word": "代表",
+    "phonetic": "だいひょう",
+    "mean": "representative,representation,delegation,type,example,model"
+  },
+  {
+    "id": "39538",
+    "group": "3",
+    "word": "大部分",
+    "phonetic": "だいぶぶん",
+    "mean": "most part,greater part,majority"
+  },
+  {
+    "id": "39550",
+    "group": "3",
+    "word": "大変",
+    "phonetic": "たいへん",
+    "mean": "awful,dreadful,terrible,very"
+  },
+  {
+    "id": "39214",
+    "group": "3",
+    "word": "逮捕",
+    "phonetic": "たいほ",
+    "mean": "arrest,apprehension,capture"
+  },
+  {
+    "id": "38918",
+    "group": "3",
+    "word": "太陽",
+    "phonetic": "たいよう",
+    "mean": "sun,solar"
+  },
+  {
+    "id": "48480",
+    "group": "3",
+    "word": "平ら",
+    "phonetic": "たいら",
+    "mean": "flatness,level,smooth,calm,plain"
+  },
+  {
+    "id": "39306",
+    "group": "3",
+    "word": "代理",
+    "phonetic": "だいり",
+    "mean": "representation,agency,proxy,deputy,agent"
+  },
+  {
+    "id": "39565",
+    "group": "3",
+    "word": "大陸",
+    "phonetic": "たいりく",
+    "mean": "continent"
+  },
+  {
+    "id": "42540",
+    "group": "1",
+    "word": "倒す",
+    "phonetic": "たおす",
+    "mean": "to throw down,to beat,to bring down,to blow down"
+  },
+  {
+    "id": "98692",
+    "group": "5",
+    "word": "だが",
+    "phonetic": "だが",
+    "mean": "but,however,(and) yet,nevertheless,still"
+  },
+  {
+    "id": "25367",
+    "group": "2",
+    "word": "互い",
+    "phonetic": "たがい",
+    "mean": "mutual,reciprocal"
+  },
+  {
+    "id": "49378",
+    "group": "3",
+    "word": "宝",
+    "phonetic": "たから",
+    "mean": "treasure"
+  },
+  {
+    "id": "39624",
+    "group": "3",
+    "word": "宅",
+    "phonetic": "たく",
+    "mean": "house,home,husband"
+  },
+  {
+    "id": "19267",
+    "group": "1",
+    "word": "確かめる",
+    "phonetic": "たしかめる",
+    "mean": "to ascertain"
+  },
+  {
+    "id": "38865",
+    "group": "4",
+    "word": "多少",
+    "phonetic": "たしょう",
+    "mean": "more or less,somewhat,a little,some"
+  },
+  {
+    "id": "32710",
+    "group": "1",
+    "word": "助ける",
+    "phonetic": "たすける",
+    "mean": "to help,to save,to rescue"
+  },
+  {
+    "id": "57091",
+    "group": "3",
+    "word": "戦い",
+    "phonetic": "たたかい",
+    "mean": "battle,fight,struggle,conflict"
+  },
+  {
+    "id": "57092",
+    "group": "1",
+    "word": "戦う",
+    "phonetic": "たたかう",
+    "mean": "to fight,to battle,to combat"
+  },
+  {
+    "id": "39664",
+    "group": "1",
+    "word": "叩く",
+    "phonetic": "たたく",
+    "mean": "to strike,to clap,to dust,to beat"
+  },
+  {
+    "id": "41075",
+    "group": "4",
+    "word": "直ちに",
+    "phonetic": "ただちに",
+    "mean": "at once,immediately,directly,in person"
+  },
+  {
+    "id": "52779",
+    "group": "1",
+    "word": "立ち上がる",
+    "phonetic": "たちあがる",
+    "mean": "to stand up"
+  },
+  {
+    "id": "52811",
+    "group": "3",
+    "word": "立場",
+    "phonetic": "たちば",
+    "mean": "standpoint,position,situation"
+  },
+  {
+    "id": "23652",
+    "group": "1",
+    "word": "経つ",
+    "phonetic": "たつ",
+    "mean": "to pass,to lapse"
+  },
+  {
+    "id": "39668",
+    "group": "1",
+    "word": "達する",
+    "phonetic": "たっする",
+    "mean": "to reach,to get to"
+  },
+  {
+    "id": "31857",
+    "group": "3",
+    "word": "縦",
+    "phonetic": "たて",
+    "mean": "length,height"
+  },
+  {
+    "id": "55594",
+    "group": "3",
+    "word": "谷",
+    "phonetic": "たに",
+    "mean": "valley"
+  },
+  {
+    "id": "55577",
+    "group": "3",
+    "word": "他人",
+    "phonetic": "たにん",
+    "mean": "another person,unrelated person,outsider,stranger"
+  },
+  {
+    "id": "31186",
+    "group": "3",
+    "word": "種",
+    "phonetic": "たね",
+    "mean": "seed,material,cause,source"
+  },
+  {
+    "id": "38534",
+    "group": "3",
+    "word": "束",
+    "phonetic": "たば",
+    "mean": "handbreadth,bundle"
+  },
+  {
+    "id": "42479",
+    "group": "6",
+    "word": "度",
+    "phonetic": "たび/ど",
+    "mean": "counter for occurrences"
+  },
+  {
+    "id": "52946",
+    "group": "3",
+    "word": "旅",
+    "phonetic": "たび",
+    "mean": "travel,trip,journey"
+  },
+  {
+    "id": "22630",
+    "group": "3",
+    "word": "玉",
+    "phonetic": "たま",
+    "mean": "ball,sphere,coin"
+  },
+  {
+    "id": "21602",
+    "group": "3",
+    "word": "球",
+    "phonetic": "たま",
+    "mean": "globe,sphere,ball"
+  },
+  {
+    "id": "110513",
+    "group": "3",
+    "word": "弾",
+    "phonetic": "たま",
+    "mean": "bullet,shot,shell"
+  },
+  {
+    "id": "99954",
+    "group": "3",
+    "word": "偶",
+    "phonetic": "たま",
+    "mean": "even number,couple,man and wife,friend"
+  },
+  {
+    "id": "57116",
+    "group": "4",
+    "word": "偶々",
+    "phonetic": "たまたま",
+    "mean": "casually,unexpectedly,accidentally,by chance"
+  },
+  {
+    "id": "51179",
+    "group": "1",
+    "word": "黙る",
+    "phonetic": "だまる",
+    "mean": "to be silent"
+  },
+  {
+    "id": "38989",
+    "group": "2",
+    "word": "駄目",
+    "phonetic": "だめ",
+    "mean": "useless,no good,hopeless"
+  },
+  {
+    "id": "29569",
+    "group": "3",
+    "word": "試し",
+    "phonetic": "ためし",
+    "mean": "trial,test"
+  },
+  {
+    "id": "29570",
+    "group": "1",
+    "word": "試す",
+    "phonetic": "ためす",
+    "mean": "to attempt,to test"
+  },
+  {
+    "id": "49009",
+    "group": "3",
+    "word": "便り",
+    "phonetic": "たより",
+    "mean": "news,tidings,information,correspondence,letter"
+  },
+  {
+    "id": "57118",
+    "group": "1",
+    "word": "頼る",
+    "phonetic": "たよる",
+    "mean": "to rely on,to have recourse to,to depend on"
+  },
+  {
+    "id": "39727",
+    "group": "3",
+    "word": "誰か",
+    "phonetic": "だれか",
+    "mean": "someone,somebody"
+  },
+  {
+    "id": "60516",
+    "group": "3",
+    "word": "段",
+    "phonetic": "だん",
+    "mean": "step,stair,flight of steps,grade,rank,level"
+  },
+  {
+    "id": "39747",
+    "group": "3",
+    "word": "単位",
+    "phonetic": "たんい",
+    "mean": "unit,denomination,credit (in school)"
+  },
+  {
+    "id": "39776",
+    "group": "3",
+    "word": "単語",
+    "phonetic": "たんご",
+    "mean": "word,vocabulary,(usually) single-character word"
+  },
+  {
+    "id": "40046",
+    "group": "3",
+    "word": "男子",
+    "phonetic": "だんし",
+    "mean": "youth,young man"
+  },
+  {
+    "id": "39798",
+    "group": "3",
+    "word": "単純",
+    "phonetic": "たんじゅん",
+    "mean": "simplicity"
+  },
+  {
+    "id": "39951",
+    "group": "3",
+    "word": "誕生",
+    "phonetic": "たんじょう",
+    "mean": "birth"
+  },
+  {
+    "id": "39969",
+    "group": "3",
+    "word": "団体",
+    "phonetic": "だんたい",
+    "mean": "organization,association"
+  },
+  {
+    "id": "39859",
+    "group": "3",
+    "word": "担当",
+    "phonetic": "たんとう",
+    "mean": "(in) charge"
+  },
+  {
+    "id": "39745",
+    "group": "2",
+    "word": "単なる",
+    "phonetic": "たんなる",
+    "mean": "mere,simple,sheer"
+  },
+  {
+    "id": "39746",
+    "group": "4",
+    "word": "単に",
+    "phonetic": "たんに",
+    "mean": "simply,merely,only,solely"
+  },
+  {
+    "id": "40111",
+    "group": "3",
+    "word": "地",
+    "phonetic": "ち",
+    "mean": "earth"
+  },
+  {
+    "id": "40115",
+    "group": "3",
+    "word": "地位",
+    "phonetic": "ちい",
+    "mean": "(social) position,status"
+  },
+  {
+    "id": "40117",
+    "group": "3",
+    "word": "地域",
+    "phonetic": "ちいき",
+    "mean": "area,region"
+  },
+  {
+    "id": "40091",
+    "group": "3",
+    "word": "知恵",
+    "phonetic": "ちえ",
+    "mean": "wisdom,wit,sagacity,sense,intelligence,advice"
+  },
+  {
+    "id": "40121",
+    "group": "3",
+    "word": "地下",
+    "phonetic": "ちか",
+    "mean": "basement,underground"
+  },
+  {
+    "id": "14736",
+    "group": "3",
+    "word": "違い",
+    "phonetic": "ちがい",
+    "mean": "difference,discrepancy"
+  },
+  {
+    "id": "58428",
+    "group": "3",
+    "word": "違いない",
+    "phonetic": "ちがいない",
+    "mean": "(phrase) sure,no mistaking it,for certain"
+  },
+  {
+    "id": "22802",
+    "group": "4",
+    "word": "近頃",
+    "phonetic": "ちかごろ",
+    "mean": "lately,recently,nowadays"
+  },
+  {
+    "id": "40134",
+    "group": "3",
+    "word": "地球",
+    "phonetic": "ちきゅう",
+    "mean": "the earth"
+  },
+  {
+    "id": "40139",
+    "group": "3",
+    "word": "地区",
+    "phonetic": "ちく",
+    "mean": "district,section,sector"
+  },
+  {
+    "id": "40239",
+    "group": "3",
+    "word": "遅刻",
+    "phonetic": "ちこく",
+    "mean": "lateness,late coming"
+  },
+  {
+    "id": "40096",
+    "group": "3",
+    "word": "知事",
+    "phonetic": "ちじ",
+    "mean": "prefectural governor"
+  },
+  {
+    "id": "40097",
+    "group": "3",
+    "word": "知識",
+    "phonetic": "ちしき",
+    "mean": "knowledge,information"
+  },
+  {
+    "id": "47576",
+    "group": "3",
+    "word": "父親",
+    "phonetic": "ちちおや",
+    "mean": "father"
+  },
+  {
+    "id": "40106",
+    "group": "3",
+    "word": "知能",
+    "phonetic": "ちのう",
+    "mean": "intelligence,brains"
+  },
+  {
+    "id": "40181",
+    "group": "3",
+    "word": "地平線",
+    "phonetic": "ちへいせん",
+    "mean": "horizon"
+  },
+  {
+    "id": "40182",
+    "group": "3",
+    "word": "地方",
+    "phonetic": "ちほう",
+    "mean": "area,locality,district,region,the coast"
+  },
+  {
+    "id": "40290",
+    "group": "3",
+    "word": "茶",
+    "phonetic": "ちゃ",
+    "mean": "tea"
+  },
+  {
+    "id": "40360",
+    "group": "3",
+    "word": "中",
+    "phonetic": "ちゅう",
+    "mean": "inside,middle,among"
+  },
+  {
+    "id": "40666",
+    "group": "3",
+    "word": "注",
+    "phonetic": "ちゅう",
+    "mean": "annotation,explanatory note"
+  },
+  {
+    "id": "40372",
+    "group": "3",
+    "word": "中央",
+    "phonetic": "ちゅうおう",
+    "mean": "centre,central,center,middle"
+  },
+  {
+    "id": "40393",
+    "group": "3",
+    "word": "中学",
+    "phonetic": "ちゅうがく",
+    "mean": "middle school,junior high school"
+  },
+  {
+    "id": "40441",
+    "group": "2",
+    "word": "中古",
+    "phonetic": "ちゅうこ",
+    "mean": "used,second-hand,old"
+  },
+  {
+    "id": "40465",
+    "group": "3",
+    "word": "中止",
+    "phonetic": "ちゅうし",
+    "mean": "suspension,stoppage,discontinuance,interruption"
+  },
+  {
+    "id": "40705",
+    "group": "3",
+    "word": "駐車",
+    "phonetic": "ちゅうしゃ",
+    "mean": "parking (e.g. car)"
+  },
+  {
+    "id": "57624",
+    "group": "3",
+    "word": "昼食",
+    "phonetic": "ちゅうしょく",
+    "mean": "lunch,midday meal"
+  },
+  {
+    "id": "40479",
+    "group": "3",
+    "word": "中心",
+    "phonetic": "ちゅうしん",
+    "mean": "center,core,heart,pivot,emphasis,balance"
+  },
+  {
+    "id": "40681",
+    "group": "3",
+    "word": "注目",
+    "phonetic": "ちゅうもく",
+    "mean": "notice,attention,observation"
+  },
+  {
+    "id": "40679",
+    "group": "3",
+    "word": "注文",
+    "phonetic": "ちゅうもん",
+    "mean": "order,request"
+  },
+  {
+    "id": "40993",
+    "group": "3",
+    "word": "長期",
+    "phonetic": "ちょうき",
+    "mean": "long time period"
+  },
+  {
+    "id": "40922",
+    "group": "3",
+    "word": "調査",
+    "phonetic": "ちょうさ",
+    "mean": "investigation,examination,inquiry,survey"
+  },
+  {
+    "id": "40927",
+    "group": "3",
+    "word": "調子",
+    "phonetic": "ちょうし",
+    "mean": "tune,tone,key"
+  },
+  {
+    "id": "41030",
+    "group": "3",
+    "word": "頂上",
+    "phonetic": "ちょうじょう",
+    "mean": "top,summit,peak"
+  },
+  {
+    "id": "40731",
+    "group": "3",
+    "word": "貯金",
+    "phonetic": "ちょきん",
+    "mean": "(bank) savings"
+  },
+  {
+    "id": "41116",
+    "group": "2",
+    "word": "直接",
+    "phonetic": "ちょくせつ",
+    "mean": "direct,immediate,personal,firsthand"
+  },
+  {
+    "id": "40725",
+    "group": "3",
+    "word": "著者",
+    "phonetic": "ちょしゃ",
+    "mean": "author,writer"
+  },
+  {
+    "id": "35441",
+    "group": "4",
+    "word": "遂に",
+    "phonetic": "ついに",
+    "mean": "finally,at last"
+  },
+  {
+    "id": "41308",
+    "group": "3",
+    "word": "通過",
+    "phonetic": "つうか",
+    "mean": "passage through,passing"
+  },
+  {
+    "id": "41310",
+    "group": "3",
+    "word": "通学",
+    "phonetic": "つうがく",
+    "mean": "commuting to school"
+  },
+  {
+    "id": "41319",
+    "group": "3",
+    "word": "通行",
+    "phonetic": "つうこう",
+    "mean": "passage,passing"
+  },
+  {
+    "id": "41290",
+    "group": "1",
+    "word": "通じる",
+    "phonetic": "つうじる",
+    "mean": "to run to,to lead to,to communicate,to understand"
+  },
+  {
+    "id": "41333",
+    "group": "3",
+    "word": "通信",
+    "phonetic": "つうしん",
+    "mean": "correspondence,communication,news,signal"
+  },
+  {
+    "id": "49178",
+    "group": "1",
+    "word": "捕まる",
+    "phonetic": "つかまる",
+    "mean": "to be caught,to be arrested"
+  },
+  {
+    "id": "41365",
+    "group": "1",
+    "word": "掴む",
+    "phonetic": "つかむ",
+    "mean": "to seize,to catch,to grasp"
+  },
+  {
+    "id": "46209",
+    "group": "3",
+    "word": "疲れ",
+    "phonetic": "つかれ",
+    "mean": "tiredness,fatigue"
+  },
+  {
+    "id": "47375",
+    "group": "3",
+    "word": "付き合い",
+    "phonetic": "つきあい",
+    "mean": "association,socializing,fellowship"
+  },
+  {
+    "id": "57182",
+    "group": "4",
+    "word": "次々",
+    "phonetic": "つぎつぎ",
+    "mean": "in succession,one by one"
+  },
+  {
+    "id": "31456",
+    "group": "1",
+    "word": "就く",
+    "phonetic": "つく",
+    "mean": "to settle in (place),to take (seat or position),to study (under teacher)"
+  },
+  {
+    "id": "55609",
+    "group": "1",
+    "word": "注ぐ",
+    "phonetic": "つぐ",
+    "mean": "to pour (into),to irrigate,to pay"
+  },
+  {
+    "id": "47388",
+    "group": "1",
+    "word": "付ける",
+    "phonetic": "つける",
+    "mean": "to attach,to join,to add,to append"
+  },
+  {
+    "id": "42492",
+    "group": "3",
+    "word": "土",
+    "phonetic": "つち",
+    "mean": "earth,soil"
+  },
+  {
+    "id": "84058",
+    "group": "3",
+    "word": "続き",
+    "phonetic": "つづき",
+    "mean": "sequel,continuation"
+  },
+  {
+    "id": "49298",
+    "group": "3",
+    "word": "包み",
+    "phonetic": "つつみ",
+    "mean": "bundle,package,parcel,bale"
+  },
+  {
+    "id": "23731",
+    "group": "1",
+    "word": "繋ぐ",
+    "phonetic": "つなぐ",
+    "mean": "to tie,to fasten,to connect,to transfer (phone call)"
+  },
+  {
+    "id": "33825",
+    "group": "4",
+    "word": "常に",
+    "phonetic": "つねに",
+    "mean": "always,constantly"
+  },
+  {
+    "id": "52405",
+    "group": "3",
+    "word": "翼",
+    "phonetic": "つばさ",
+    "mean": "wings"
+  },
+  {
+    "id": "28058",
+    "group": "3",
+    "word": "罪",
+    "phonetic": "つみ",
+    "mean": "crime,fault,indiscretion"
+  },
+  {
+    "id": "21269",
+    "group": "1",
+    "word": "詰める",
+    "phonetic": "つめる",
+    "mean": "to pack,to shorten,to work out (details)"
+  },
+  {
+    "id": "36440",
+    "group": "1",
+    "word": "積もる",
+    "phonetic": "つもる",
+    "mean": "to pile up"
+  },
+  {
+    "id": "34788",
+    "group": "2",
+    "word": "辛い",
+    "phonetic": "つらい",
+    "mean": "painful,heart-breaking"
+  },
+  {
+    "id": "53533",
+    "group": "3",
+    "word": "連れ",
+    "phonetic": "つれ",
+    "mean": "companion,company"
+  },
+  {
+    "id": "32119",
+    "group": "3",
+    "word": "出会い",
+    "phonetic": "であい",
+    "mean": "meeting,rendezvous,encounter"
+  },
+  {
+    "id": "57250",
+    "group": "1",
+    "word": "出会う",
+    "phonetic": "であう",
+    "mean": "to meet by chance,to come across,to happen to encounter"
+  },
+  {
+    "id": "41623",
+    "group": "3",
+    "word": "提案",
+    "phonetic": "ていあん",
+    "mean": "proposal,proposition,suggestion"
+  },
+  {
+    "id": "41540",
+    "group": "3",
+    "word": "定期",
+    "phonetic": "ていき",
+    "mean": "fixed term"
+  },
+  {
+    "id": "41617",
+    "group": "3",
+    "word": "抵抗",
+    "phonetic": "ていこう",
+    "mean": "electrical resistance,resistance,opposition"
+  },
+  {
+    "id": "41632",
+    "group": "3",
+    "word": "提出",
+    "phonetic": "ていしゅつ",
+    "mean": "presentation,submission,filing"
+  },
+  {
+    "id": "41645",
+    "group": "3",
+    "word": "程度",
+    "phonetic": "ていど",
+    "mean": "degree,amount,grade,standard,of the order of (following a number)"
+  },
+  {
+    "id": "41501",
+    "group": "3",
+    "word": "停留所",
+    "phonetic": "ていりゅうじょ",
+    "mean": "bus or tram stop"
+  },
+  {
+    "id": "55228",
+    "group": "3",
+    "word": "敵",
+    "phonetic": "てき",
+    "mean": "enemy,rival"
+  },
+  {
+    "id": "32333",
+    "group": "3",
+    "word": "出来事",
+    "phonetic": "できごと",
+    "mean": "incident,affair,happening,event"
+  },
+  {
+    "id": "41721",
+    "group": "1",
+    "word": "適する",
+    "phonetic": "てきする",
+    "mean": "to fit,to suit"
+  },
+  {
+    "id": "41730",
+    "group": "2",
+    "word": "適切",
+    "phonetic": "てきせつ",
+    "mean": "pertinent,appropriate,adequate,relevance"
+  },
+  {
+    "id": "41731",
+    "group": "2",
+    "word": "適度",
+    "phonetic": "てきど",
+    "mean": "moderate"
+  },
+  {
+    "id": "41737",
+    "group": "3",
+    "word": "適用",
+    "phonetic": "てきよう",
+    "mean": "applying"
+  },
+  {
+    "id": "32323",
+    "group": "4",
+    "word": "出来るだけ",
+    "phonetic": "できるだけ",
+    "mean": "if at all possible"
+  },
+  {
+    "id": "31138",
+    "group": "3",
+    "word": "手品",
+    "phonetic": "てじな",
+    "mean": "sleight of hand,conjuring trick,magic,juggling"
+  },
+  {
+    "id": "41765",
+    "group": "3",
+    "word": "鉄",
+    "phonetic": "てつ",
+    "mean": "iron"
+  },
+  {
+    "id": "41748",
+    "group": "3",
+    "word": "哲学",
+    "phonetic": "てつがく",
+    "mean": "philosophy"
+  },
+  {
+    "id": "31125",
+    "group": "3",
+    "word": "手伝い",
+    "phonetic": "てつだい",
+    "mean": "help,helper,assistant"
+  },
+  {
+    "id": "41754",
+    "group": "3",
+    "word": "徹底",
+    "phonetic": "てってい",
+    "mean": "thoroughness,completeness"
+  },
+  {
+    "id": "41783",
+    "group": "3",
+    "word": "鉄道",
+    "phonetic": "てつどう",
+    "mean": "railroad"
+  },
+  {
+    "id": "41757",
+    "group": "4",
+    "word": "徹夜",
+    "phonetic": "てつや",
+    "mean": "all night,all night vigil,sleepless night"
+  },
+  {
+    "id": "31052",
+    "group": "3",
+    "word": "手間",
+    "phonetic": "てま",
+    "mean": "time,labour"
+  },
+  {
+    "id": "41795",
+    "group": "3",
+    "word": "典型",
+    "phonetic": "てんけい",
+    "mean": "type,pattern,archetypal"
+  },
+  {
+    "id": "41885",
+    "group": "3",
+    "word": "天候",
+    "phonetic": "てんこう",
+    "mean": "weather"
+  },
+  {
+    "id": "42305",
+    "group": "3",
+    "word": "電子",
+    "phonetic": "でんし",
+    "mean": "electron"
+  },
+  {
+    "id": "42202",
+    "group": "3",
+    "word": "伝統",
+    "phonetic": "でんとう",
+    "mean": "tradition,convention"
+  },
+  {
+    "id": "41944",
+    "group": "3",
+    "word": "天然",
+    "phonetic": "てんねん",
+    "mean": "nature,spontaneity"
+  },
+  {
+    "id": "51275",
+    "group": "3",
+    "word": "問い",
+    "phonetic": "とい",
+    "mean": "question,query"
+  },
+  {
+    "id": "42560",
+    "group": "3",
+    "word": "党",
+    "phonetic": "とう",
+    "mean": "party (political)"
+  },
+  {
+    "id": "42634",
+    "group": "3",
+    "word": "塔",
+    "phonetic": "とう",
+    "mean": "tower,pagoda"
+  },
+  {
+    "id": "117964",
+    "group": "3",
+    "word": "どう",
+    "phonetic": "（接。副）",
+    "mean": "child,servant,foolishness"
+  },
+  {
+    "id": "42900",
+    "group": "3",
+    "word": "答案",
+    "phonetic": "とうあん",
+    "mean": "examination paper,examination script"
+  },
+  {
+    "id": "43127",
+    "group": "3",
+    "word": "同一",
+    "phonetic": "どういつ",
+    "mean": "identity,sameness,similarity"
+  },
+  {
+    "id": "42855",
+    "group": "4",
+    "word": "当時",
+    "phonetic": "とうじ",
+    "mean": "at that time,in those days"
+  },
+  {
+    "id": "43076",
+    "group": "3",
+    "word": "動詞",
+    "phonetic": "どうし",
+    "mean": "verb"
+  },
+  {
+    "id": "43187",
+    "group": "4",
+    "word": "同時",
+    "phonetic": "どうじ",
+    "mean": "simultaneous(ly),concurrent,same time,synchronous"
+  },
+  {
+    "id": "42929",
+    "group": "3",
+    "word": "到着",
+    "phonetic": "とうちゃく",
+    "mean": "arrival"
+  },
+  {
+    "id": "43358",
+    "group": "3",
+    "word": "道徳",
+    "phonetic": "どうとく",
+    "mean": "morals"
+  },
+  {
+    "id": "42691",
+    "group": "3",
+    "word": "投票",
+    "phonetic": "とうひょう",
+    "mean": "voting,poll"
+  },
+  {
+    "id": "43291",
+    "group": "2",
+    "word": "同様",
+    "phonetic": "どうよう",
+    "mean": "identical,equal to,same (kind),like"
+  },
+  {
+    "id": "43294",
+    "group": "3",
+    "word": "同僚",
+    "phonetic": "どうりょう",
+    "mean": "coworker,colleague,associate"
+  },
+  {
+    "id": "43363",
+    "group": "3",
+    "word": "道路",
+    "phonetic": "どうろ",
+    "mean": "road,highway"
+  },
+  {
+    "id": "41292",
+    "group": "1",
+    "word": "通す",
+    "phonetic": "とおす",
+    "mean": "to let pass,to overlook,to continue"
+  },
+  {
+    "id": "41294",
+    "group": "3",
+    "word": "通り",
+    "phonetic": "とおり",
+    "mean": "in accordance with,following,~ Street,~ Avenue"
+  },
+  {
+    "id": "41300",
+    "group": "1",
+    "word": "通り過ぎる",
+    "phonetic": "とおりすぎる",
+    "mean": "to pass,to pass through"
+  },
+  {
+    "id": "42462",
+    "group": "3",
+    "word": "都会",
+    "phonetic": "とかい",
+    "mean": "city"
+  },
+  {
+    "id": "29921",
+    "group": "3",
+    "word": "時",
+    "phonetic": "とき",
+    "mean": "time,hour,occasion,moment"
+  },
+  {
+    "id": "18596",
+    "group": "1",
+    "word": "解く",
+    "phonetic": "とく",
+    "mean": "to unfasten"
+  },
+  {
+    "id": "43481",
+    "group": "3",
+    "word": "毒",
+    "phonetic": "どく",
+    "mean": "poison,toxicant"
+  },
+  {
+    "id": "43385",
+    "group": "3",
+    "word": "得意",
+    "phonetic": "とくい",
+    "mean": "pride,triumph,prosperity"
+  },
+  {
+    "id": "43567",
+    "group": "3",
+    "word": "読書",
+    "phonetic": "どくしょ",
+    "mean": "reading"
+  },
+  {
+    "id": "43514",
+    "group": "3",
+    "word": "独身",
+    "phonetic": "どくしん",
+    "mean": "bachelorhood,single,unmarried,celibate"
+  },
+  {
+    "id": "43450",
+    "group": "3",
+    "word": "特徴",
+    "phonetic": "とくちょう",
+    "mean": "feature,characteristic"
+  },
+  {
+    "id": "43529",
+    "group": "3",
+    "word": "独特",
+    "phonetic": "どくとく",
+    "mean": "peculiarity,uniqueness,characteristic"
+  },
+  {
+    "id": "43532",
+    "group": "3",
+    "word": "独立",
+    "phonetic": "どくりつ",
+    "mean": "independence (e.g. Ind. Day),self-support"
+  },
+  {
+    "id": "18598",
+    "group": "1",
+    "word": "解ける",
+    "phonetic": "とける",
+    "mean": "to come untied,to come apart"
+  },
+  {
+    "id": "42443",
+    "group": "3",
+    "word": "登山",
+    "phonetic": "とざん",
+    "mean": "mountain-climbing"
+  },
+  {
+    "id": "42464",
+    "group": "3",
+    "word": "都市",
+    "phonetic": "とし",
+    "mean": "town,city,municipal,urban"
+  },
+  {
+    "id": "35223",
+    "group": "3",
+    "word": "図書",
+    "phonetic": "としょ",
+    "mean": "books"
+  },
+  {
+    "id": "48638",
+    "group": "1",
+    "word": "閉じる",
+    "phonetic": "とじる",
+    "mean": "to close (e.g. book or eyes),to shut"
+  },
+  {
+    "id": "58439",
+    "group": "4",
+    "word": "途端",
+    "phonetic": "とたん",
+    "mean": "just (now)"
+  },
+  {
+    "id": "42512",
+    "group": "3",
+    "word": "土地",
+    "phonetic": "とち",
+    "mean": "plot of land,lot,soil"
+  },
+  {
+    "id": "43627",
+    "group": "4",
+    "word": "突然",
+    "phonetic": "とつぜん",
+    "mean": "abruptly,suddenly,unexpectedly,all at once"
+  },
+  {
+    "id": "43642",
+    "group": "1",
+    "word": "届く",
+    "phonetic": "とどく",
+    "mean": "to reach"
+  },
+  {
+    "id": "46359",
+    "group": "1",
+    "word": "飛ばす",
+    "phonetic": "とばす",
+    "mean": "to skip over,to omit"
+  },
+  {
+    "id": "46371",
+    "group": "1",
+    "word": "飛び出す",
+    "phonetic": "とびだす",
+    "mean": "to jump out,to rush out,to fly out"
+  },
+  {
+    "id": "57278",
+    "group": "1",
+    "word": "留める",
+    "phonetic": "とめる",
+    "mean": "to fasten,to turn off,to detain"
+  },
+  {
+    "id": "51674",
+    "group": "3",
+    "word": "友",
+    "phonetic": "とも",
+    "mean": "friend,companion,pal"
+  },
+  {
+    "id": "22023",
+    "group": "4",
+    "word": "共に",
+    "phonetic": "ともに",
+    "mean": "sharing with,participate in"
+  },
+  {
+    "id": "42523",
+    "group": "3",
+    "word": "土曜",
+    "phonetic": "どよう",
+    "mean": "Saturday (abbr)"
+  },
+  {
+    "id": "25254",
+    "group": "3",
+    "word": "虎",
+    "phonetic": "とら",
+    "mean": "tiger"
+  },
+  {
+    "id": "30995",
+    "group": "1",
+    "word": "取り上げる",
+    "phonetic": "とりあげる",
+    "mean": "to take up,to pick up,to disqualify,to confiscate,to deprive"
+  },
+  {
+    "id": "42477",
+    "group": "3",
+    "word": "努力",
+    "phonetic": "どりょく",
+    "mean": "great effort,exertion,endeavour,effort"
+  },
+  {
+    "id": "31014",
+    "group": "1",
+    "word": "取れる",
+    "phonetic": "とれる",
+    "mean": "to come off,to be taken off,to be removed"
+  },
+  {
+    "id": "41680",
+    "group": "3",
+    "word": "泥",
+    "phonetic": "どろ",
+    "mean": "mud"
+  },
+  {
+    "id": "50837",
+    "group": "3",
+    "word": "名",
+    "phonetic": "な",
+    "mean": "name,reputation"
+  },
+  {
+    "id": "43858",
+    "group": "3",
+    "word": "内容",
+    "phonetic": "ないよう",
+    "mean": "subject,contents,matter,substance,detail,import"
+  },
+  {
+    "id": "40592",
+    "group": "3",
+    "word": "仲",
+    "phonetic": "なか",
+    "mean": "relation,relationship"
+  },
+  {
+    "id": "52850",
+    "group": "1",
+    "word": "流す",
+    "phonetic": "ながす",
+    "mean": "to drain,to float,to shed (blood or tears),to cruise (e.g. taxi)"
+  },
+  {
+    "id": "45733",
+    "group": "3",
+    "word": "半ば",
+    "phonetic": "なかば",
+    "mean": "middle,half,semi,halfway,partly"
+  },
+  {
+    "id": "40600",
+    "group": "3",
+    "word": "仲間",
+    "phonetic": "なかま",
+    "mean": "company,fellow,colleague,associate"
+  },
+  {
+    "id": "58446",
+    "group": "3",
+    "word": "眺め",
+    "phonetic": "ながめ",
+    "mean": "scene,view,prospect,outlook"
+  },
+  {
+    "id": "40894",
+    "group": "1",
+    "word": "眺める",
+    "phonetic": "ながめる",
+    "mean": "to view,to gaze at"
+  },
+  {
+    "id": "52851",
+    "group": "3",
+    "word": "流れ",
+    "phonetic": "ながれ",
+    "mean": "stream,current"
+  },
+  {
+    "id": "52852",
+    "group": "1",
+    "word": "流れる",
+    "phonetic": "ながれる",
+    "mean": "to stream,to flow,to run (ink),to be washed away"
+  },
+  {
+    "id": "50663",
+    "group": "3",
+    "word": "無し",
+    "phonetic": "なし",
+    "mean": "without"
+  },
+  {
+    "id": "43887",
+    "group": "3",
+    "word": "謎",
+    "phonetic": "なぞ",
+    "mean": "riddle,puzzle,enigma"
+  },
+  {
+    "id": "44894",
+    "group": "3",
+    "word": "納得",
+    "phonetic": "なっとく",
+    "mean": "consent,assent,understanding"
+  },
+  {
+    "id": "55668",
+    "group": "5",
+    "word": "等",
+    "phonetic": "など",
+    "mean": "et cetera,etc.,and the like"
+  },
+  {
+    "id": "17564",
+    "group": "4",
+    "word": "何か",
+    "phonetic": "なにか",
+    "mean": "something"
+  },
+  {
+    "id": "43890",
+    "group": "3",
+    "word": "鍋",
+    "phonetic": "なべ",
+    "mean": "saucepan,pot"
+  },
+  {
+    "id": "36007",
+    "group": "3",
+    "word": "生",
+    "phonetic": "なま",
+    "mean": "draft (beer),raw,unprocessed"
+  },
+  {
+    "id": "39137",
+    "group": "1",
+    "word": "怠ける",
+    "phonetic": "なまける",
+    "mean": "to be idle,to neglect"
+  },
+  {
+    "id": "44983",
+    "group": "3",
+    "word": "波",
+    "phonetic": "なみ",
+    "mean": "wave"
+  },
+  {
+    "id": "53211",
+    "group": "3",
+    "word": "涙",
+    "phonetic": "なみだ",
+    "mean": "tear"
+  },
+  {
+    "id": "44874",
+    "group": "1",
+    "word": "悩む",
+    "phonetic": "なやむ",
+    "mean": "to be worried,to be troubled"
+  },
+  {
+    "id": "14571",
+    "group": "1",
+    "word": "為る",
+    "phonetic": "なる",
+    "mean": "to change,to be of use,to reach to"
+  },
+  {
+    "id": "43899",
+    "group": "3",
+    "word": "縄",
+    "phonetic": "なわ",
+    "mean": "rope,hemp"
+  },
+  {
+    "id": "58452",
+    "group": "4",
+    "word": "何で",
+    "phonetic": "なんで",
+    "mean": "why?,what for?"
+  },
+  {
+    "id": "58453",
+    "group": "4",
+    "word": "何でも",
+    "phonetic": "なんでも",
+    "mean": "by all means,everything"
+  },
+  {
+    "id": "17579",
+    "group": "4",
+    "word": "何とか",
+    "phonetic": "なんとか",
+    "mean": "somehow,anyhow,one way or another"
+  },
+  {
+    "id": "29807",
+    "group": "1",
+    "word": "似合う",
+    "phonetic": "にあう",
+    "mean": "to suit,to match,to become,to be like"
+  },
+  {
+    "id": "23008",
+    "group": "2",
+    "word": "苦手",
+    "phonetic": "にがて",
+    "mean": "poor (at),weak (in),dislike (of)"
+  },
+  {
+    "id": "14145",
+    "group": "1",
+    "word": "握る",
+    "phonetic": "にぎる",
+    "mean": "to grasp,to seize,to mould sushi"
+  },
+  {
+    "id": "44280",
+    "group": "3",
+    "word": "日",
+    "phonetic": "にち",
+    "mean": "sun,sunshine,day"
+  },
+  {
+    "id": "44317",
+    "group": "2",
+    "word": "日常",
+    "phonetic": "にちじょう",
+    "mean": "ordinary,regular,everyday,usual"
+  },
+  {
+    "id": "44386",
+    "group": "3",
+    "word": "日曜",
+    "phonetic": "にちよう",
+    "mean": "Sunday (abbr)"
+  },
+  {
+    "id": "44302",
+    "group": "3",
+    "word": "日光",
+    "phonetic": "にっこう",
+    "mean": "sunlight"
+  },
+  {
+    "id": "44324",
+    "group": "3",
+    "word": "日中",
+    "phonetic": "にっちゅう",
+    "mean": "daytime,broad daylight"
+  },
+  {
+    "id": "55710",
+    "group": "3",
+    "word": "日本",
+    "phonetic": "にっぽん",
+    "mean": "Japan"
+  },
+  {
+    "id": "55710",
+    "group": "3",
+    "word": "日本",
+    "phonetic": "にほん",
+    "mean": "Japan"
+  },
+  {
+    "id": "44468",
+    "group": "3",
+    "word": "入院",
+    "phonetic": "にゅういん",
+    "mean": "hospitalization"
+  },
+  {
+    "id": "44480",
+    "group": "3",
+    "word": "入学",
+    "phonetic": "にゅうがく",
+    "mean": "entry to school or university,matriculation"
+  },
+  {
+    "id": "44531",
+    "group": "3",
+    "word": "入場",
+    "phonetic": "にゅうじょう",
+    "mean": "entrance,admission,entering"
+  },
+  {
+    "id": "34896",
+    "group": "3",
+    "word": "人気",
+    "phonetic": "にんき",
+    "mean": "sign of life"
+  },
+  {
+    "id": "34873",
+    "group": "3",
+    "word": "人間",
+    "phonetic": "にんげん",
+    "mean": "human being,man,person"
+  },
+  {
+    "id": "45680",
+    "group": "1",
+    "word": "抜く",
+    "phonetic": "ぬく",
+    "mean": "to extract,to omit,to surpass,to draw out,to unplug"
+  },
+  {
+    "id": "45681",
+    "group": "1",
+    "word": "抜ける",
+    "phonetic": "ぬける",
+    "mean": "to come out,to fall out,to be omitted"
+  },
+  {
+    "id": "47494",
+    "group": "3",
+    "word": "布",
+    "phonetic": "ぬの",
+    "mean": "cloth"
+  },
+  {
+    "id": "27411",
+    "group": "3",
+    "word": "根",
+    "phonetic": "ね",
+    "mean": "root"
+  },
+  {
+    "id": "55598",
+    "group": "3",
+    "word": "値",
+    "phonetic": "ね",
+    "mean": "value,price,cost"
+  },
+  {
+    "id": "20429",
+    "group": "3",
+    "word": "願い",
+    "phonetic": "ねがい",
+    "mean": "desire,wish,request"
+  },
+  {
+    "id": "20434",
+    "group": "1",
+    "word": "願う",
+    "phonetic": "ねがう",
+    "mean": "to desire,to wish,to request"
+  },
+  {
+    "id": "37888",
+    "group": "3",
+    "word": "鼠",
+    "phonetic": "ねずみ",
+    "mean": "mouse,rat,dark gray,slate color"
+  },
+  {
+    "id": "44684",
+    "group": "3",
+    "word": "熱帯",
+    "phonetic": "ねったい",
+    "mean": "tropics"
+  },
+  {
+    "id": "44686",
+    "group": "3",
+    "word": "熱中",
+    "phonetic": "ねっちゅう",
+    "mean": "nuts!,enthusiasm,zeal,mania"
+  },
+  {
+    "id": "44729",
+    "group": "3",
+    "word": "年間",
+    "phonetic": "ねんかん",
+    "mean": "year"
+  },
+  {
+    "id": "55723",
+    "group": "3",
+    "word": "年月",
+    "phonetic": "ねんげつ/としつき",
+    "mean": "months and years"
+  },
+  {
+    "id": "44789",
+    "group": "3",
+    "word": "年中",
+    "phonetic": "ねんじゅう",
+    "mean": "whole year,always,everyday"
+  },
+  {
+    "id": "44784",
+    "group": "3",
+    "word": "年代",
+    "phonetic": "ねんだい",
+    "mean": "age,era,period,date"
+  },
+  {
+    "id": "57418",
+    "group": "3",
+    "word": "年齢",
+    "phonetic": "ねんれい",
+    "mean": "age,years"
+  },
+  {
+    "id": "51404",
+    "group": "3",
+    "word": "野",
+    "phonetic": "の",
+    "mean": "field"
+  },
+  {
+    "id": "44898",
+    "group": "4",
+    "word": "能",
+    "phonetic": "のう",
+    "mean": "being skilled in,nicely,properly"
+  },
+  {
+    "id": "44948",
+    "group": "3",
+    "word": "農家",
+    "phonetic": "のうか",
+    "mean": "farmer,farm family"
+  },
+  {
+    "id": "44952",
+    "group": "3",
+    "word": "農業",
+    "phonetic": "のうぎょう",
+    "mean": "agriculture"
+  },
+  {
+    "id": "44963",
+    "group": "3",
+    "word": "農民",
+    "phonetic": "のうみん",
+    "mean": "farmers,peasants"
+  },
+  {
+    "id": "44923",
+    "group": "3",
+    "word": "能力",
+    "phonetic": "のうりょく",
+    "mean": "ability,faculty"
+  },
+  {
+    "id": "24547",
+    "group": "3",
+    "word": "軒",
+    "phonetic": "のき",
+    "mean": "eaves"
+  },
+  {
+    "id": "57420",
+    "group": "1",
+    "word": "残す",
+    "phonetic": "のこす",
+    "mean": "to leave (behind or over),to bequeath,to save,to reserve"
+  },
+  {
+    "id": "28811",
+    "group": "3",
+    "word": "残り",
+    "phonetic": "のこり",
+    "mean": "remnant,residue,remaining,left-over"
+  },
+  {
+    "id": "57421",
+    "group": "1",
+    "word": "乗せる",
+    "phonetic": "のせる",
+    "mean": "to place on (something),to take on board,to give a ride"
+  },
+  {
+    "id": "32830",
+    "group": "1",
+    "word": "除く",
+    "phonetic": "のぞく",
+    "mean": "to remove,to exclude,to except"
+  },
+  {
+    "id": "49709",
+    "group": "3",
+    "word": "望み",
+    "phonetic": "のぞみ",
+    "mean": "wish,desire,(a) hope"
+  },
+  {
+    "id": "49710",
+    "group": "1",
+    "word": "望む",
+    "phonetic": "のぞむ",
+    "mean": "to desire,to wish for,to see,to command (a view of)"
+  },
+  {
+    "id": "25417",
+    "group": "5",
+    "word": "後",
+    "phonetic": "のち",
+    "mean": "afterwards,since then,in the future"
+  },
+  {
+    "id": "57423",
+    "group": "1",
+    "word": "伸ばす",
+    "phonetic": "のばす",
+    "mean": "to lengthen,to stretch,to reach out,to grow (beard)"
+  },
+  {
+    "id": "34112",
+    "group": "1",
+    "word": "伸びる",
+    "phonetic": "のびる",
+    "mean": "to stretch,to extend,to make progress,to grow (beard or body height)"
+  },
+  {
+    "id": "32358",
+    "group": "1",
+    "word": "述べる",
+    "phonetic": "のべる",
+    "mean": "to state,to express,to mention"
+  },
+  {
+    "id": "33809",
+    "group": "3",
+    "word": "場",
+    "phonetic": "ば",
+    "mean": "place,field (physics)"
+  },
+  {
+    "id": "18888",
+    "group": "3",
+    "word": "灰",
+    "phonetic": "はい",
+    "mean": "ash"
+  },
+  {
+    "id": "55731",
+    "group": "3",
+    "word": "梅雨",
+    "phonetic": "ばいう/つゆ",
+    "mean": "rainy season,rain during the rainy season"
+  },
+  {
+    "id": "45196",
+    "group": "3",
+    "word": "配達",
+    "phonetic": "はいたつ",
+    "mean": "delivery,distribution"
+  },
+  {
+    "id": "45081",
+    "group": "3",
+    "word": "俳優",
+    "phonetic": "はいゆう",
+    "mean": "actor,actress,player,performer"
+  },
+  {
+    "id": "49249",
+    "group": "3",
+    "word": "墓",
+    "phonetic": "はか",
+    "mean": "grave,tomb"
+  },
+  {
+    "id": "57519",
+    "group": "3",
+    "word": "馬鹿",
+    "phonetic": "ばか",
+    "mean": "fool,idiot,trivial matter,folly"
+  },
+  {
+    "id": "45340",
+    "group": "3",
+    "word": "博士",
+    "phonetic": "はかせ",
+    "mean": "doctorate,PhD"
+  },
+  {
+    "id": "57459",
+    "group": "1",
+    "word": "計る",
+    "phonetic": "はかる",
+    "mean": "to measure,to weigh,to survey"
+  },
+  {
+    "id": "42385",
+    "group": "1",
+    "word": "吐く",
+    "phonetic": "はく",
+    "mean": "to breathe,to tell (lies),to vomit,to disgorge"
+  },
+  {
+    "id": "45357",
+    "group": "3",
+    "word": "拍手",
+    "phonetic": "はくしゅ",
+    "mean": "clapping hands,applause"
+  },
+  {
+    "id": "45476",
+    "group": "2",
+    "word": "莫大",
+    "phonetic": "ばくだい",
+    "mean": "enormous,vast"
+  },
+  {
+    "id": "45461",
+    "group": "3",
+    "word": "爆発",
+    "phonetic": "ばくはつ",
+    "mean": "explosion,detonation,eruption"
+  },
+  {
+    "id": "45348",
+    "group": "3",
+    "word": "博物館",
+    "phonetic": "はくぶつかん",
+    "mean": "museum"
+  },
+  {
+    "id": "57466",
+    "group": "2",
+    "word": "激しい",
+    "phonetic": "はげしい",
+    "mean": "violent,vehement,intense"
+  },
+  {
+    "id": "45019",
+    "group": "3",
+    "word": "破産",
+    "phonetic": "はさん",
+    "mean": "(personal) bankruptcy"
+  },
+  {
+    "id": "55596",
+    "group": "3",
+    "word": "端",
+    "phonetic": "はし",
+    "mean": "end (e.g. of street),edge,tip,margin,point"
+  },
+  {
+    "id": "58468",
+    "group": "3",
+    "word": "始まり",
+    "phonetic": "はじまり",
+    "mean": "origin,beginning"
+  },
+  {
+    "id": "19022",
+    "group": "1",
+    "word": "外す",
+    "phonetic": "はずす",
+    "mean": "to unfasten,to remove"
+  },
+  {
+    "id": "20652",
+    "group": "3",
+    "word": "旗",
+    "phonetic": "はた",
+    "mean": "flag"
+  },
+  {
+    "id": "45510",
+    "group": "3",
+    "word": "肌",
+    "phonetic": "はだ",
+    "mean": "skin"
+  },
+  {
+    "id": "52412",
+    "group": "2",
+    "word": "裸",
+    "phonetic": "はだか",
+    "mean": "naked,nude"
+  },
+  {
+    "id": "45517",
+    "group": "3",
+    "word": "畑",
+    "phonetic": "はたけ",
+    "mean": "field"
+  },
+  {
+    "id": "44104",
+    "group": "6",
+    "word": "二十",
+    "phonetic": "はたち",
+    "mean": "20 years old,20th year"
+  },
+  {
+    "id": "43043",
+    "group": "3",
+    "word": "働き",
+    "phonetic": "はたらき",
+    "mean": "work,labor"
+  },
+  {
+    "id": "45595",
+    "group": "3",
+    "word": "発見",
+    "phonetic": "はっけん",
+    "mean": "discovery,detection,finding"
+  },
+  {
+    "id": "45603",
+    "group": "3",
+    "word": "発行",
+    "phonetic": "はっこう",
+    "mean": "issue (publications)"
+  },
+  {
+    "id": "45614",
+    "group": "3",
+    "word": "発車",
+    "phonetic": "はっしゃ",
+    "mean": "departure of a vehicle"
+  },
+  {
+    "id": "45669",
+    "group": "1",
+    "word": "罰する",
+    "phonetic": "ばっする",
+    "mean": "to punish,to penalize"
+  },
+  {
+    "id": "45648",
+    "group": "3",
+    "word": "発表",
+    "phonetic": "はっぴょう",
+    "mean": "announcement,publication"
+  },
+  {
+    "id": "45655",
+    "group": "3",
+    "word": "発明",
+    "phonetic": "はつめい",
+    "mean": "invention"
+  },
+  {
+    "id": "53835",
+    "group": "1",
+    "word": "話し合う",
+    "phonetic": "はなしあう",
+    "mean": "to discuss,to talk together"
+  },
+  {
+    "id": "52727",
+    "group": "1",
+    "word": "離す",
+    "phonetic": "はなす",
+    "mean": "to part,divide,separate"
+  },
+  {
+    "id": "49405",
+    "group": "1",
+    "word": "放す",
+    "phonetic": "はなす",
+    "mean": "to separate,to set free"
+  },
+  {
+    "id": "52728",
+    "group": "1",
+    "word": "離れる",
+    "phonetic": "はなれる",
+    "mean": "to be separated from,to leave,to go away,to be a long way off"
+  },
+  {
+    "id": "15974",
+    "group": "6",
+    "word": "羽",
+    "phonetic": "はね",
+    "mean": "counter for birds,counter for rabbits"
+  },
+  {
+    "id": "47887",
+    "group": "3",
+    "word": "幅",
+    "phonetic": "はば",
+    "mean": "width,breadth"
+  },
+  {
+    "id": "49277",
+    "group": "3",
+    "word": "母親",
+    "phonetic": "ははおや",
+    "mean": "mother"
+  },
+  {
+    "id": "33347",
+    "group": "1",
+    "word": "省く",
+    "phonetic": "はぶく",
+    "mean": "to omit,to eliminate,to curtail,to economize"
+  },
+  {
+    "id": "33821",
+    "group": "3",
+    "word": "場面",
+    "phonetic": "ばめん",
+    "mean": "scene,setting (e.g. of novel)"
+  },
+  {
+    "id": "47910",
+    "group": "3",
+    "word": "腹",
+    "phonetic": "はら",
+    "mean": "abdomen,belly,stomach"
+  },
+  {
+    "id": "24624",
+    "group": "3",
+    "word": "原",
+    "phonetic": "はら",
+    "mean": "field,plain,prairie,tundra,moor,wilderness"
+  },
+  {
+    "id": "34824",
+    "group": "3",
+    "word": "針",
+    "phonetic": "はり",
+    "mean": "needle,hand (e.g. clock)"
+  },
+  {
+    "id": "40803",
+    "group": "1",
+    "word": "張る",
+    "phonetic": "はる",
+    "mean": "to stick,to paste"
+  },
+  {
+    "id": "95536",
+    "group": "3",
+    "word": "番",
+    "phonetic": "ばん",
+    "mean": "number (in a series),(one's) turn"
+  },
+  {
+    "id": "46036",
+    "group": "3",
+    "word": "範囲",
+    "phonetic": "はんい",
+    "mean": "extent,scope,sphere,range"
+  },
+  {
+    "id": "45888",
+    "group": "3",
+    "word": "反抗",
+    "phonetic": "はんこう",
+    "mean": "opposition,resistance"
+  },
+  {
+    "id": "46006",
+    "group": "3",
+    "word": "犯罪",
+    "phonetic": "はんざい",
+    "mean": "crime"
+  },
+  {
+    "id": "45718",
+    "group": "3",
+    "word": "判断",
+    "phonetic": "はんだん",
+    "mean": "judgement,decision"
+  },
+  {
+    "id": "46010",
+    "group": "3",
+    "word": "犯人",
+    "phonetic": "はんにん",
+    "mean": "offender,criminal"
+  },
+  {
+    "id": "46027",
+    "group": "3",
+    "word": "販売",
+    "phonetic": "はんばい",
+    "mean": "sale,selling,marketing"
+  },
+  {
+    "id": "55667",
+    "group": "3",
+    "word": "灯",
+    "phonetic": "ひ",
+    "mean": "light"
+  },
+  {
+    "id": "46271",
+    "group": "3",
+    "word": "被害",
+    "phonetic": "ひがい",
+    "mean": "damage"
+  },
+  {
+    "id": "46194",
+    "group": "3",
+    "word": "比較",
+    "phonetic": "ひかく",
+    "mean": "comparison"
+  },
+  {
+    "id": "58630",
+    "group": "1",
+    "word": "轢く",
+    "phonetic": "ひく",
+    "mean": "to run somebody over (with vehicle),to knock someone down"
+  },
+  {
+    "id": "46166",
+    "group": "3",
+    "word": "悲劇",
+    "phonetic": "ひげき",
+    "mean": "tragedy"
+  },
+  {
+    "id": "46380",
+    "group": "3",
+    "word": "飛行",
+    "phonetic": "ひこう",
+    "mean": "aviation"
+  },
+  {
+    "id": "46562",
+    "group": "3",
+    "word": "膝",
+    "phonetic": "ひざ",
+    "mean": "knee,lap"
+  },
+  {
+    "id": "46328",
+    "group": "3",
+    "word": "非常",
+    "phonetic": "ひじょう",
+    "mean": "emergency,extraordinary,unusual"
+  },
+  {
+    "id": "46485",
+    "group": "3",
+    "word": "美人",
+    "phonetic": "びじん",
+    "mean": "beautiful person (woman)"
+  },
+  {
+    "id": "19435",
+    "group": "3",
+    "word": "額",
+    "phonetic": "ひたい",
+    "mean": "forehead,brow"
+  },
+  {
+    "id": "44333",
+    "group": "3",
+    "word": "日付",
+    "phonetic": "ひづけ",
+    "mean": "date,dating"
+  },
+  {
+    "id": "57580",
+    "group": "3",
+    "word": "必死",
+    "phonetic": "ひっし",
+    "mean": "inevitable death,desperation,frantic,inevitable result"
+  },
+  {
+    "id": "57582",
+    "group": "1",
+    "word": "引っ張る",
+    "phonetic": "ひっぱる",
+    "mean": "to pull,to draw,to stretch,to drag,to pull the ball (baseball)"
+  },
+  {
+    "id": "46139",
+    "group": "3",
+    "word": "否定",
+    "phonetic": "ひてい",
+    "mean": "negation,denial,repudiation"
+  },
+  {
+    "id": "55049",
+    "group": "3",
+    "word": "一言",
+    "phonetic": "ひとこと",
+    "mean": "single word"
+  },
+  {
+    "id": "42878",
+    "group": "2",
+    "word": "等しい",
+    "phonetic": "ひとしい",
+    "mean": "equal"
+  },
+  {
+    "id": "58593",
+    "group": "4",
+    "word": "一人一人",
+    "phonetic": "ひとりひとり",
+    "mean": "one by one,each,one at a time"
+  },
+  {
+    "id": "46180",
+    "group": "3",
+    "word": "批判",
+    "phonetic": "ひはん",
+    "mean": "criticism,judgement,comment"
+  },
+  {
+    "id": "46182",
+    "group": "3",
+    "word": "批評",
+    "phonetic": "ひひょう",
+    "mean": "criticism,review,commentary"
+  },
+  {
+    "id": "46251",
+    "group": "3",
+    "word": "秘密",
+    "phonetic": "ひみつ",
+    "mean": "secret,secrecy"
+  },
+  {
+    "id": "46449",
+    "group": "3",
+    "word": "微妙",
+    "phonetic": "びみょう",
+    "mean": "delicate,subtle"
+  },
+  {
+    "id": "46624",
+    "group": "3",
+    "word": "紐",
+    "phonetic": "ひも",
+    "mean": "string,cord,pimp"
+  },
+  {
+    "id": "46298",
+    "group": "3",
+    "word": "費用",
+    "phonetic": "ひよう",
+    "mean": "cost,expense"
+  },
+  {
+    "id": "46760",
+    "group": "3",
+    "word": "表",
+    "phonetic": "ひょう",
+    "mean": "table (e.g. Tab 1),chart,list"
+  },
+  {
+    "id": "46867",
+    "group": "3",
+    "word": "秒",
+    "phonetic": "びょう",
+    "mean": "second (60th min)"
+  },
+  {
+    "id": "46826",
+    "group": "3",
+    "word": "評価",
+    "phonetic": "ひょうか",
+    "mean": "valuation,estimation,assessment,evaluation"
+  },
+  {
+    "id": "46776",
+    "group": "3",
+    "word": "表現",
+    "phonetic": "ひょうげん",
+    "mean": "expression,presentation,representation (math)"
+  },
+  {
+    "id": "46795",
+    "group": "3",
+    "word": "表情",
+    "phonetic": "ひょうじょう",
+    "mean": "facial expression"
+  },
+  {
+    "id": "48552",
+    "group": "3",
+    "word": "平等",
+    "phonetic": "びょうどう",
+    "mean": "equality,impartiality,evenness"
+  },
+  {
+    "id": "46832",
+    "group": "3",
+    "word": "評判",
+    "phonetic": "ひょうばん",
+    "mean": "fame,reputation,popularity,arrant"
+  },
+  {
+    "id": "46813",
+    "group": "3",
+    "word": "表面",
+    "phonetic": "ひょうめん",
+    "mean": "surface,outside,face,appearance"
+  },
+  {
+    "id": "57626",
+    "group": "1",
+    "word": "広がる",
+    "phonetic": "ひろがる",
+    "mean": "to spread (out),to extend,to stretch,to reach to,to get around"
+  },
+  {
+    "id": "55782",
+    "group": "3",
+    "word": "品",
+    "phonetic": "ひん",
+    "mean": "thing,article,goods,dignity,article (goods),counter for meal courses"
+  },
+  {
+    "id": "46934",
+    "group": "3",
+    "word": "瓶",
+    "phonetic": "びん",
+    "mean": "bottle"
+  },
+  {
+    "id": "49005",
+    "group": "3",
+    "word": "便",
+    "phonetic": "びん",
+    "mean": "way,means"
+  },
+  {
+    "id": "86323",
+    "group": "5",
+    "word": "不",
+    "phonetic": "ふ/ぶ",
+    "mean": "un,non,negative prefix"
+  },
+  {
+    "id": "48080",
+    "group": "3",
+    "word": "分",
+    "phonetic": "ぶ",
+    "mean": "dividing,part"
+  },
+  {
+    "id": "46936",
+    "group": "3",
+    "word": "不安",
+    "phonetic": "ふあん",
+    "mean": "anxiety,uneasiness,insecurity,suspense"
+  },
+  {
+    "id": "47786",
+    "group": "3",
+    "word": "風景",
+    "phonetic": "ふうけい",
+    "mean": "scenery"
+  },
+  {
+    "id": "55798",
+    "group": "3",
+    "word": "夫婦",
+    "phonetic": "ふうふ",
+    "mean": "married couple,husband and wife"
+  },
+  {
+    "id": "41719",
+    "group": "3",
+    "word": "笛",
+    "phonetic": "ふえ",
+    "mean": "flute,pipe"
+  },
+  {
+    "id": "46957",
+    "group": "2",
+    "word": "不可",
+    "phonetic": "ふか",
+    "mean": "wrong,bad,improper,unjustifiable,inadvisable"
+  },
+  {
+    "id": "47651",
+    "group": "3",
+    "word": "武器",
+    "phonetic": "ぶき",
+    "mean": "weapon,arms,ordinance"
+  },
+  {
+    "id": "47896",
+    "group": "3",
+    "word": "服装",
+    "phonetic": "ふくそう",
+    "mean": "garments"
+  },
+  {
+    "id": "20335",
+    "group": "1",
+    "word": "含む",
+    "phonetic": "ふくむ",
+    "mean": "to hold in the mouth,to bear in mind"
+  },
+  {
+    "id": "39174",
+    "group": "3",
+    "word": "袋",
+    "phonetic": "ふくろ",
+    "mean": "bag,sack"
+  },
+  {
+    "id": "47053",
+    "group": "3",
+    "word": "不幸",
+    "phonetic": "ふこう",
+    "mean": "unhappiness,sorrow,misfortune,disaster,accident,death"
+  },
+  {
+    "id": "36742",
+    "group": "3",
+    "word": "節",
+    "phonetic": "ふし",
+    "mean": "tune,tone,knot,knob,point"
+  },
+  {
+    "id": "50709",
+    "group": "3",
+    "word": "無事",
+    "phonetic": "ぶじ",
+    "mean": "safety,peace,quietness"
+  },
+  {
+    "id": "47073",
+    "group": "3",
+    "word": "不思議",
+    "phonetic": "ふしぎ",
+    "mean": "mystery,curiosity"
+  },
+  {
+    "id": "47084",
+    "group": "3",
+    "word": "不自由",
+    "phonetic": "ふじゆう",
+    "mean": "discomfort,disability,inconvenience,destitution"
+  },
+  {
+    "id": "47465",
+    "group": "3",
+    "word": "夫人",
+    "phonetic": "ふじん",
+    "mean": "wife,Mrs,madam"
+  },
+  {
+    "id": "47477",
+    "group": "3",
+    "word": "婦人",
+    "phonetic": "ふじん",
+    "mean": "woman,female"
+  },
+  {
+    "id": "47152",
+    "group": "3",
+    "word": "不正",
+    "phonetic": "ふせい",
+    "mean": "injustice,unfairness"
+  },
+  {
+    "id": "49764",
+    "group": "1",
+    "word": "防ぐ",
+    "phonetic": "ふせぐ",
+    "mean": "to defend (against),to protect,to prevent"
+  },
+  {
+    "id": "47184",
+    "group": "3",
+    "word": "不足",
+    "phonetic": "ふそく",
+    "mean": "insufficiency,shortage,deficiency,lack,dearth"
+  },
+  {
+    "id": "47719",
+    "group": "3",
+    "word": "舞台",
+    "phonetic": "ぶたい",
+    "mean": "stage (theatre)"
+  },
+  {
+    "id": "37976",
+    "group": "3",
+    "word": "双子",
+    "phonetic": "ふたご",
+    "mean": "twins,a twin"
+  },
+  {
+    "id": "27629",
+    "group": "3",
+    "word": "再び",
+    "phonetic": "ふたたび",
+    "mean": "again,once more,a second time"
+  },
+  {
+    "id": "47527",
+    "group": "3",
+    "word": "普段",
+    "phonetic": "ふだん",
+    "mean": "usually,habitually,ordinarily,always"
+  },
+  {
+    "id": "1175",
+    "group": "3",
+    "word": "縁",
+    "phonetic": "ふち",
+    "mean": "a means e.g. of living"
+  },
+  {
+    "id": "38958",
+    "group": "1",
+    "word": "打つ",
+    "phonetic": "ぶつ",
+    "mean": "to hit,to strike"
+  },
+  {
+    "id": "48039",
+    "group": "3",
+    "word": "物価",
+    "phonetic": "ぶっか",
+    "mean": "prices of commodities,prices (in general)"
+  },
+  {
+    "id": "48052",
+    "group": "3",
+    "word": "物質",
+    "phonetic": "ぶっしつ",
+    "mean": "material,substance"
+  },
+  {
+    "id": "48075",
+    "group": "3",
+    "word": "物理",
+    "phonetic": "ぶつり",
+    "mean": "physics"
+  },
+  {
+    "id": "46605",
+    "group": "3",
+    "word": "筆",
+    "phonetic": "ふで",
+    "mean": "writing brush"
+  },
+  {
+    "id": "57670",
+    "group": "3",
+    "word": "船",
+    "phonetic": "ふね",
+    "mean": "ship,boat,watercraft,shipping,vessel,steamship"
+  },
+  {
+    "id": "47752",
+    "group": "3",
+    "word": "部分",
+    "phonetic": "ぶぶん",
+    "mean": "portion,section,part"
+  },
+  {
+    "id": "47290",
+    "group": "3",
+    "word": "不平",
+    "phonetic": "ふへい",
+    "mean": "complaint,discontent,dissatisfaction"
+  },
+  {
+    "id": "47308",
+    "group": "3",
+    "word": "不満",
+    "phonetic": "ふまん",
+    "mean": "dissatisfaction,displeasure,discontent,complaints,unhappiness"
+  },
+  {
+    "id": "47333",
+    "group": "3",
+    "word": "不利",
+    "phonetic": "ふり",
+    "mean": "disadvantage,handicap,unfavorable,drawback"
+  },
+  {
+    "id": "34356",
+    "group": "1",
+    "word": "振る",
+    "phonetic": "ふる",
+    "mean": "to wave,to shake,to swing,to sprinkle,to cast (actor),to allocate (work)"
+  },
+  {
+    "id": "34832",
+    "group": "1",
+    "word": "震える",
+    "phonetic": "ふるえる",
+    "mean": "to shiver,to shake,to quake"
+  },
+  {
+    "id": "34026",
+    "group": "1",
+    "word": "触れる",
+    "phonetic": "ふれる",
+    "mean": "to touch,to be touched,to touch on a subject,to feel,to violate (e.g. law or copyright),to perceive"
+  },
+  {
+    "id": "48080",
+    "group": "3",
+    "word": "分",
+    "phonetic": "ぶん",
+    "mean": "dividing,part,segment"
+  },
+  {
+    "id": "48302",
+    "group": "3",
+    "word": "文",
+    "phonetic": "ぶん",
+    "mean": "sentence"
+  },
+  {
+    "id": "48301",
+    "group": "3",
+    "word": "雰囲気",
+    "phonetic": "ふんいき",
+    "mean": "atmosphere (e.g. musical),mood,ambience"
+  },
+  {
+    "id": "48183",
+    "group": "3",
+    "word": "分析",
+    "phonetic": "ぶんせき",
+    "mean": "analysis"
+  },
+  {
+    "id": "48359",
+    "group": "3",
+    "word": "文明",
+    "phonetic": "ぶんめい",
+    "mean": "civilization,culture"
+  },
+  {
+    "id": "48229",
+    "group": "3",
+    "word": "分野",
+    "phonetic": "ぶんや",
+    "mean": "field,sphere,realm,division,branch"
+  },
+  {
+    "id": "48474",
+    "group": "3",
+    "word": "塀",
+    "phonetic": "へい",
+    "mean": "wall,fence"
+  },
+  {
+    "id": "55821",
+    "group": "3",
+    "word": "平均",
+    "phonetic": "へいきん",
+    "mean": "equilibrium,balance,average,mean"
+  },
+  {
+    "id": "48592",
+    "group": "3",
+    "word": "平和",
+    "phonetic": "へいわ",
+    "mean": "peace,harmony"
+  },
+  {
+    "id": "48729",
+    "group": "4",
+    "word": "別に",
+    "phonetic": "べつに",
+    "mean": "(not) particularly,nothing"
+  },
+  {
+    "id": "24819",
+    "group": "1",
+    "word": "減らす",
+    "phonetic": "へらす",
+    "mean": "to abate,to decrease,to diminish,to shorten"
+  },
+  {
+    "id": "24820",
+    "group": "1",
+    "word": "減る",
+    "phonetic": "へる",
+    "mean": "to decrease (in size or number),to diminish,to abate"
+  },
+  {
+    "id": "48864",
+    "group": "3",
+    "word": "変化",
+    "phonetic": "へんか",
+    "mean": "goblin,ghost,apparition,bugbear"
+  },
+  {
+    "id": "49035",
+    "group": "3",
+    "word": "勉強",
+    "phonetic": "べんきょう",
+    "mean": "study,diligence,discount,reduction"
+  },
+  {
+    "id": "48879",
+    "group": "3",
+    "word": "変更",
+    "phonetic": "へんこう",
+    "mean": "change,modification,alteration"
+  },
+  {
+    "id": "49074",
+    "group": "3",
+    "word": "弁当",
+    "phonetic": "べんとう",
+    "mean": "box lunch"
+  },
+  {
+    "id": "49451",
+    "group": "3",
+    "word": "方",
+    "phonetic": "ほう",
+    "mean": "side"
+  },
+  {
+    "id": "49474",
+    "group": "3",
+    "word": "法",
+    "phonetic": "ほう",
+    "mean": "Act (law: the X Act)"
+  },
+  {
+    "id": "49722",
+    "group": "3",
+    "word": "棒",
+    "phonetic": "ぼう",
+    "mean": "pole,rod,stick"
+  },
+  {
+    "id": "49730",
+    "group": "3",
+    "word": "冒険",
+    "phonetic": "ぼうけん",
+    "mean": "risk,venture,adventure"
+  },
+  {
+    "id": "49458",
+    "group": "3",
+    "word": "方向",
+    "phonetic": "ほうこう",
+    "mean": "direction,course,way"
+  },
+  {
+    "id": "49330",
+    "group": "3",
+    "word": "報告",
+    "phonetic": "ほうこく",
+    "mean": "report,information"
+  },
+  {
+    "id": "49383",
+    "group": "3",
+    "word": "宝石",
+    "phonetic": "ほうせき",
+    "mean": "gem,jewel"
+  },
+  {
+    "id": "49433",
+    "group": "3",
+    "word": "放送",
+    "phonetic": "ほうそう",
+    "mean": "broadcast,broadcasting"
+  },
+  {
+    "id": "49574",
+    "group": "3",
+    "word": "豊富",
+    "phonetic": "ほうふ",
+    "mean": "abundance,wealth,plenty,bounty"
+  },
+  {
+    "id": "49468",
+    "group": "3",
+    "word": "方法",
+    "phonetic": "ほうほう",
+    "mean": "method,manner,way,means,technique"
+  },
+  {
+    "id": "55843",
+    "group": "3",
+    "word": "方々",
+    "phonetic": "ほうぼう",
+    "mean": "persons,this and that,here and there,everywhere"
+  },
+  {
+    "id": "49568",
+    "group": "3",
+    "word": "訪問",
+    "phonetic": "ほうもん",
+    "mean": "call,visit"
+  },
+  {
+    "id": "57730",
+    "group": "1",
+    "word": "吠える",
+    "phonetic": "ほえる",
+    "mean": "to bark,to bay,to howl,to bellow,to roar,to cry"
+  },
+  {
+    "id": "19021",
+    "group": "4",
+    "word": "他",
+    "phonetic": "ほか/た",
+    "mean": "other (esp. places and things)"
+  },
+  {
+    "id": "25266",
+    "group": "3",
+    "word": "誇り",
+    "phonetic": "ほこり",
+    "mean": "pride"
+  },
+  {
+    "id": "54124",
+    "group": "3",
+    "word": "埃",
+    "phonetic": "ほこり",
+    "mean": "dust"
+  },
+  {
+    "id": "57738",
+    "group": "3",
+    "word": "保証",
+    "phonetic": "ほしょう",
+    "mean": "guarantee,security,assurance,pledge,warranty"
+  },
+  {
+    "id": "49161",
+    "group": "3",
+    "word": "保存",
+    "phonetic": "ほぞん",
+    "mean": "preservation,conservation,storage,maintenance"
+  },
+  {
+    "id": "49208",
+    "group": "3",
+    "word": "歩道",
+    "phonetic": "ほどう",
+    "mean": "footpath,walkway,sidewalk"
+  },
+  {
+    "id": "47970",
+    "group": "3",
+    "word": "仏",
+    "phonetic": "ほとけ",
+    "mean": "Buddha,merciful person,Buddhist image,the dead"
+  },
+  {
+    "id": "27268",
+    "group": "3",
+    "word": "骨",
+    "phonetic": "ほね",
+    "mean": "bone"
+  },
+  {
+    "id": "16489",
+    "group": "3",
+    "word": "炎",
+    "phonetic": "ほのお",
+    "mean": "flame"
+  },
+  {
+    "id": "55849",
+    "group": "3",
+    "word": "頬",
+    "phonetic": "ほほ/ほお",
+    "mean": "cheek (of face)"
+  },
+  {
+    "id": "46435",
+    "group": "1",
+    "word": "微笑む",
+    "phonetic": "ほほえむ",
+    "mean": "to smile"
+  },
+  {
+    "id": "50043",
+    "group": "3",
+    "word": "本当",
+    "phonetic": "ほんと/ほんとう",
+    "mean": "truth,reality"
+  },
+  {
+    "id": "50013",
+    "group": "3",
+    "word": "本人",
+    "phonetic": "ほんにん",
+    "mean": "the person himself"
+  },
+  {
+    "id": "50055",
+    "group": "3",
+    "word": "本物",
+    "phonetic": "ほんもの",
+    "mean": "genuine article"
+  },
+  {
+    "id": "20176",
+    "group": "3",
+    "word": "間",
+    "phonetic": "ま",
+    "mean": "space,room,time,pause"
+  },
+  {
+    "id": "50969",
+    "group": "3",
+    "word": "迷子",
+    "phonetic": "まいご",
+    "mean": "lost (stray) child"
+  },
+  {
+    "id": "44607",
+    "group": "1",
+    "word": "任せる",
+    "phonetic": "まかせる",
+    "mean": "to entrust to another,to leave to"
+  },
+  {
+    "id": "50207",
+    "group": "3",
+    "word": "幕",
+    "phonetic": "まく",
+    "mean": "curtain,bunting,act (in play)"
+  },
+  {
+    "id": "47602",
+    "group": "1",
+    "word": "負け",
+    "phonetic": "まけ",
+    "mean": "defeat,loss,losing (a game)"
+  },
+  {
+    "id": "38710",
+    "group": "3",
+    "word": "孫",
+    "phonetic": "まご",
+    "mean": "grandchild"
+  },
+  {
+    "id": "38404",
+    "group": "1",
+    "word": "増す",
+    "phonetic": "ます",
+    "mean": "to increase,to grow"
+  },
+  {
+    "id": "36850",
+    "group": "4",
+    "word": "先ず",
+    "phonetic": "まず",
+    "mean": "first (of all),to start with,about,almost,hardly (with neg. verb)"
+  },
+  {
+    "id": "46897",
+    "group": "2",
+    "word": "貧しい",
+    "phonetic": "まずしい",
+    "mean": "poor,needy"
+  },
+  {
+    "id": "50222",
+    "group": "4",
+    "word": "又",
+    "phonetic": "また",
+    "mean": "again,and"
+  },
+  {
+    "id": "50427",
+    "group": "4",
+    "word": "未だ",
+    "phonetic": "まだ",
+    "mean": "yet,still,more,besides"
+  },
+  {
+    "id": "19149",
+    "group": "3",
+    "word": "街",
+    "phonetic": "まち",
+    "mean": "town,street,road"
+  },
+  {
+    "id": "20183",
+    "group": "3",
+    "word": "間違い",
+    "phonetic": "まちがい",
+    "mean": "mistake"
+  },
+  {
+    "id": "33229",
+    "group": "3",
+    "word": "松",
+    "phonetic": "まつ",
+    "mean": "pine tree,highest (of a three-tier ranking system)"
+  },
+  {
+    "id": "34540",
+    "group": "2",
+    "word": "真っ赤",
+    "phonetic": "まっか",
+    "mean": "deep red,flushed (of face)"
+  },
+  {
+    "id": "55495",
+    "group": "4",
+    "word": "真っ直ぐ",
+    "phonetic": "まっすぐ",
+    "mean": "straight (ahead),direct,upright"
+  },
+  {
+    "id": "37587",
+    "group": "4",
+    "word": "全く",
+    "phonetic": "まったく",
+    "mean": "really,truly,entirely,completely"
+  },
+  {
+    "id": "57801",
+    "group": "3",
+    "word": "祭",
+    "phonetic": "まつり",
+    "mean": "festival,feast"
+  },
+  {
+    "id": "19338",
+    "group": "1",
+    "word": "学ぶ",
+    "phonetic": "まなぶ",
+    "mean": "to study (in depth),to learn,to take lessons in"
+  },
+  {
+    "id": "34582",
+    "group": "3",
+    "word": "真似",
+    "phonetic": "まね",
+    "mean": "mimicry,imitation,behavior,pretense"
+  },
+  {
+    "id": "33203",
+    "group": "1",
+    "word": "招く",
+    "phonetic": "まねく",
+    "mean": "to invite"
+  },
+  {
+    "id": "42944",
+    "group": "3",
+    "word": "豆",
+    "phonetic": "まめ",
+    "mean": "beans,peas"
+  },
+  {
+    "id": "31027",
+    "group": "1",
+    "word": "守る",
+    "phonetic": "まもる",
+    "mean": "to protect,to obey,to guard,to abide (by the rules)"
+  },
+  {
+    "id": "20272",
+    "group": "3",
+    "word": "丸",
+    "phonetic": "まる",
+    "mean": "circle,full (month),perfection,purity,suffix for ship names"
+  },
+  {
+    "id": "16350",
+    "group": "3",
+    "word": "円",
+    "phonetic": "まる",
+    "mean": "circle,money"
+  },
+  {
+    "id": "18642",
+    "group": "1",
+    "word": "回す",
+    "phonetic": "まわす",
+    "mean": "to turn,to revolve"
+  },
+  {
+    "id": "169758",
+    "group": "3",
+    "word": "回り",
+    "phonetic": "まわり",
+    "mean": "circumference,surroundings,circulation"
+  },
+  {
+    "id": "50300",
+    "group": "4",
+    "word": "万一",
+    "phonetic": "まんいち",
+    "mean": "by some chance,by some possibility,if by any chance,10E4:1 odds"
+  },
+  {
+    "id": "50405",
+    "group": "3",
+    "word": "満足",
+    "phonetic": "まんぞく",
+    "mean": "satisfaction"
+  },
+  {
+    "id": "34757",
+    "group": "3",
+    "word": "身",
+    "phonetic": "み",
+    "mean": "body,main part,oneself,sword"
+  },
+  {
+    "id": "30408",
+    "group": "3",
+    "word": "実",
+    "phonetic": "み",
+    "mean": "fruit,nut,seed,content,good result"
+  },
+  {
+    "id": "24497",
+    "group": "3",
+    "word": "見送り",
+    "phonetic": "みおくり",
+    "mean": "seeing one off,farewell,escort"
+  },
+  {
+    "id": "50424",
+    "group": "3",
+    "word": "味方",
+    "phonetic": "みかた",
+    "mean": "friend,ally,supporter"
+  },
+  {
+    "id": "24478",
+    "group": "2",
+    "word": "見事",
+    "phonetic": "みごと",
+    "mean": "splendid,magnificent,beautiful,admirable"
+  },
+  {
+    "id": "57841",
+    "group": "1",
+    "word": "満ちる",
+    "phonetic": "みちる",
+    "mean": "to be full,to rise (tide),to mature,to expire"
+  },
+  {
+    "id": "94769",
+    "group": "3",
+    "word": "密",
+    "phonetic": "みつ",
+    "mean": "density,thickness,secrecy,minute,fine"
+  },
+  {
+    "id": "44643",
+    "group": "1",
+    "word": "認める",
+    "phonetic": "みとめる",
+    "mean": "to recognize,to appreciate,to approve,to admit,to notice"
+  },
+  {
+    "id": "57856",
+    "group": "3",
+    "word": "見舞い",
+    "phonetic": "みまい",
+    "mean": "enquiry,expression of sympathy,expression of concern"
+  },
+  {
+    "id": "42501",
+    "group": "3",
+    "word": "土産",
+    "phonetic": "みやげ",
+    "mean": "present,souvenir"
+  },
+  {
+    "id": "42460",
+    "group": "3",
+    "word": "都",
+    "phonetic": "みやこ",
+    "mean": "capital"
+  },
+  {
+    "id": "50559",
+    "group": "2",
+    "word": "妙",
+    "phonetic": "みょう",
+    "mean": "strange,unusual"
+  },
+  {
+    "id": "55895",
+    "group": "3",
+    "word": "明後日",
+    "phonetic": "みょうごにち",
+    "mean": "day after tomorrow"
+  },
+  {
+    "id": "50517",
+    "group": "3",
+    "word": "未来",
+    "phonetic": "みらい",
+    "mean": "future (life or tense)"
+  },
+  {
+    "id": "50526",
+    "group": "3",
+    "word": "魅力",
+    "phonetic": "みりょく",
+    "mean": "charm,fascination,glamour"
+  },
+  {
+    "id": "89406",
+    "group": "3",
+    "word": "無",
+    "phonetic": "む/ぶ",
+    "mean": "nothing,naught,nil,zero"
+  },
+  {
+    "id": "23856",
+    "group": "3",
+    "word": "迎え",
+    "phonetic": "むかえ",
+    "mean": "meeting,person sent to pick up an arrival"
+  },
+  {
+    "id": "26159",
+    "group": "1",
+    "word": "向く",
+    "phonetic": "むく",
+    "mean": "to face"
+  },
+  {
+    "id": "26161",
+    "group": "1",
+    "word": "向ける",
+    "phonetic": "むける",
+    "mean": "to turn towards,to point"
+  },
+  {
+    "id": "50708",
+    "group": "3",
+    "word": "無視",
+    "phonetic": "むし",
+    "mean": "disregard,ignore"
+  },
+  {
+    "id": "57873",
+    "group": "3",
+    "word": "虫歯",
+    "phonetic": "むしば",
+    "mean": "cavity,tooth decay,decayed tooth,caries"
+  },
+  {
+    "id": "57875",
+    "group": "4",
+    "word": "寧ろ",
+    "phonetic": "むしろ",
+    "mean": "rather,better,instead"
+  },
+  {
+    "id": "23999",
+    "group": "1",
+    "word": "結ぶ",
+    "phonetic": "むすぶ",
+    "mean": "to tie,to bind,to link"
+  },
+  {
+    "id": "50756",
+    "group": "3",
+    "word": "無駄",
+    "phonetic": "むだ",
+    "mean": "futility,uselessness"
+  },
+  {
+    "id": "50657",
+    "group": "3",
+    "word": "夢中",
+    "phonetic": "むちゅう",
+    "mean": "daze,(in a) trance,ecstasy,delirium,engrossment"
+  },
+  {
+    "id": "22370",
+    "group": "3",
+    "word": "胸",
+    "phonetic": "むね",
+    "mean": "breast,chest"
+  },
+  {
+    "id": "50809",
+    "group": "3",
+    "word": "無料",
+    "phonetic": "むりょう",
+    "mean": "free,no charge"
+  },
+  {
+    "id": "18480",
+    "group": "3",
+    "word": "芽",
+    "phonetic": "め",
+    "mean": "sprout"
+  },
+  {
+    "id": "50938",
+    "group": "3",
+    "word": "明確",
+    "phonetic": "めいかく",
+    "mean": "clear up,clarify,define"
+  },
+  {
+    "id": "50895",
+    "group": "1",
+    "word": "命じる",
+    "phonetic": "めいじる",
+    "mean": "to order,to command,to appoint"
+  },
+  {
+    "id": "50869",
+    "group": "3",
+    "word": "名人",
+    "phonetic": "めいじん",
+    "mean": "master,expert"
+  },
+  {
+    "id": "50915",
+    "group": "3",
+    "word": "命令",
+    "phonetic": "めいれい",
+    "mean": "order,command,decree,directive,(software) instruction"
+  },
+  {
+    "id": "50974",
+    "group": "3",
+    "word": "迷惑",
+    "phonetic": "めいわく",
+    "mean": "trouble,bother,annoyance"
+  },
+  {
+    "id": "46046",
+    "group": "3",
+    "word": "飯",
+    "phonetic": "めし",
+    "mean": "(sl) meals,food"
+  },
+  {
+    "id": "58545",
+    "group": "4",
+    "word": "滅多に",
+    "phonetic": "めったに",
+    "mean": "rarely (with neg. verb),seldom"
+  },
+  {
+    "id": "55899",
+    "group": "3",
+    "word": "面",
+    "phonetic": "めん",
+    "mean": "face,mug,surface,facial features,mask,face guard,side or facet,corner,page"
+  },
+  {
+    "id": "51006",
+    "group": "3",
+    "word": "免許",
+    "phonetic": "めんきょ",
+    "mean": "license,permit,licence,certificate"
+  },
+  {
+    "id": "51047",
+    "group": "3",
+    "word": "面倒",
+    "phonetic": "めんどう",
+    "mean": "trouble,difficulty,care,attention"
+  },
+  {
+    "id": "34505",
+    "group": "1",
+    "word": "申し込む",
+    "phonetic": "もうしこむ",
+    "mean": "to apply for,to make an application"
+  },
+  {
+    "id": "34521",
+    "group": "3",
+    "word": "申し訳",
+    "phonetic": "もうしわけ",
+    "mean": "apology,excuse"
+  },
+  {
+    "id": "51086",
+    "group": "3",
+    "word": "毛布",
+    "phonetic": "もうふ",
+    "mean": "blanket"
+  },
+  {
+    "id": "44845",
+    "group": "1",
+    "word": "燃える",
+    "phonetic": "もえる",
+    "mean": "to burn"
+  },
+  {
+    "id": "51239",
+    "group": "3",
+    "word": "目的",
+    "phonetic": "もくてき",
+    "mean": "purpose,goal,aim,objective,intention"
+  },
+  {
+    "id": "51247",
+    "group": "3",
+    "word": "目標",
+    "phonetic": "もくひょう",
+    "mean": "mark,objective,target"
+  },
+  {
+    "id": "51174",
+    "group": "3",
+    "word": "木曜",
+    "phonetic": "もくよう",
+    "mean": "Thursday (abbr)"
+  },
+  {
+    "id": "48333",
+    "group": "3",
+    "word": "文字",
+    "phonetic": "もじ/もんじ",
+    "mean": "letter (of alphabet),character"
+  },
+  {
+    "id": "29898",
+    "group": "1",
+    "word": "持ち上げる",
+    "phonetic": "もちあげる",
+    "mean": "to raise,to lift up,to flatter"
+  },
+  {
+    "id": "52278",
+    "group": "1",
+    "word": "用いる",
+    "phonetic": "もちいる",
+    "mean": "to use,to make use of"
+  },
+  {
+    "id": "51260",
+    "group": "4",
+    "word": "勿論",
+    "phonetic": "もちろん",
+    "mean": "of course,certainly,naturally"
+  },
+  {
+    "id": "27769",
+    "group": "4",
+    "word": "最も",
+    "phonetic": "もっとも",
+    "mean": "most,extremely"
+  },
+  {
+    "id": "51263",
+    "group": "4",
+    "word": "尤も",
+    "phonetic": "もっとも",
+    "mean": "quite right,plausible,natural,but then,although"
+  },
+  {
+    "id": "24579",
+    "group": "3",
+    "word": "元",
+    "phonetic": "もと",
+    "mean": "origin,original,former"
+  },
+  {
+    "id": "110856",
+    "group": "3",
+    "word": "基",
+    "phonetic": "もと",
+    "mean": "basis"
+  },
+  {
+    "id": "59352",
+    "group": "3",
+    "word": "素",
+    "phonetic": "もと",
+    "mean": "prime"
+  },
+  {
+    "id": "51267",
+    "group": "1",
+    "word": "戻す",
+    "phonetic": "もどす",
+    "mean": "to restore,to put back,to return"
+  },
+  {
+    "id": "57915",
+    "group": "1",
+    "word": "基づく",
+    "phonetic": "もとづく",
+    "mean": "to be grounded on,to be based on,to be due to,to originate from"
+  },
+  {
+    "id": "21548",
+    "group": "1",
+    "word": "求める",
+    "phonetic": "もとめる",
+    "mean": "to seek,to request,to demand,to want,to wish for,to search for,to pursue (pleasure),to hunt (a job)"
+  },
+  {
+    "id": "30625",
+    "group": "3",
+    "word": "者",
+    "phonetic": "もの",
+    "mean": "person"
+  },
+  {
+    "id": "48038",
+    "group": "3",
+    "word": "物音",
+    "phonetic": "ものおと",
+    "mean": "sounds"
+  },
+  {
+    "id": "48044",
+    "group": "3",
+    "word": "物語",
+    "phonetic": "ものがたり",
+    "mean": "tale,story,legend"
+  },
+  {
+    "id": "48051",
+    "group": "3",
+    "word": "物事",
+    "phonetic": "ものごと",
+    "mean": "things,everything"
+  },
+  {
+    "id": "51064",
+    "group": "3",
+    "word": "模様",
+    "phonetic": "もよう",
+    "mean": "pattern,figure,design"
+  },
+  {
+    "id": "51273",
+    "group": "1",
+    "word": "貰う",
+    "phonetic": "もらう",
+    "mean": "to receive"
+  },
+  {
+    "id": "48320",
+    "group": "3",
+    "word": "文句",
+    "phonetic": "もんく",
+    "mean": "phrase,complaint"
+  },
+  {
+    "id": "51473",
+    "group": "3",
+    "word": "役",
+    "phonetic": "やく",
+    "mean": "use,service,role,position"
+  },
+  {
+    "id": "51487",
+    "group": "3",
+    "word": "約",
+    "phonetic": "やく",
+    "mean": "approximately,about,some"
+  },
+  {
+    "id": "51510",
+    "group": "3",
+    "word": "訳",
+    "phonetic": "やく",
+    "mean": "meaning,reason,circumstances,can be deduced,situation"
+  },
+  {
+    "id": "51477",
+    "group": "3",
+    "word": "役割",
+    "phonetic": "やくわり",
+    "mean": "part,assigning (allotment of) parts,role,duties"
+  },
+  {
+    "id": "17954",
+    "group": "3",
+    "word": "家賃",
+    "phonetic": "やちん",
+    "mean": "rent"
+  },
+  {
+    "id": "51460",
+    "group": "3",
+    "word": "厄介",
+    "phonetic": "やっかい",
+    "mean": "trouble,burden,care,bother"
+  },
+  {
+    "id": "32002",
+    "group": "3",
+    "word": "宿",
+    "phonetic": "やど",
+    "mean": "inn,lodging"
+  },
+  {
+    "id": "57944",
+    "group": "1",
+    "word": "雇う",
+    "phonetic": "やとう",
+    "mean": "to employ,to hire"
+  },
+  {
+    "id": "17024",
+    "group": "3",
+    "word": "屋根",
+    "phonetic": "やね",
+    "mean": "roof"
+  },
+  {
+    "id": "45006",
+    "group": "1",
+    "word": "破る",
+    "phonetic": "やぶる",
+    "mean": "to tear,to violate,to defeat,to smash,to destroy"
+  },
+  {
+    "id": "30226",
+    "group": "1",
+    "word": "辞める",
+    "phonetic": "やめる",
+    "mean": "to retire"
+  },
+  {
+    "id": "51569",
+    "group": "4",
+    "word": "唯一",
+    "phonetic": "ゆいいつ",
+    "mean": "only,sole,unique"
+  },
+  {
+    "id": "51650",
+    "group": "3",
+    "word": "勇気",
+    "phonetic": "ゆうき",
+    "mean": "courage,bravery,valour,nerve,boldness"
+  },
+  {
+    "id": "51801",
+    "group": "3",
+    "word": "有効",
+    "phonetic": "ゆうこう",
+    "mean": "validity,availability,effectiveness"
+  },
+  {
+    "id": "51600",
+    "group": "3",
+    "word": "優秀",
+    "phonetic": "ゆうしゅう",
+    "mean": "superiority,excellence"
+  },
+  {
+    "id": "51605",
+    "group": "3",
+    "word": "優勝",
+    "phonetic": "ゆうしょう",
+    "mean": "overall victory,championship"
+  },
+  {
+    "id": "51689",
+    "group": "3",
+    "word": "友情",
+    "phonetic": "ゆうじょう",
+    "mean": "friendship,fellowship"
+  },
+  {
+    "id": "51690",
+    "group": "3",
+    "word": "友人",
+    "phonetic": "ゆうじん",
+    "mean": "friend"
+  },
+  {
+    "id": "51829",
+    "group": "2",
+    "word": "有能",
+    "phonetic": "ゆうのう",
+    "mean": "able,capable,efficient,skill"
+  },
+  {
+    "id": "57955",
+    "group": "3",
+    "word": "郵便",
+    "phonetic": "ゆうびん",
+    "mean": "mail,postal service"
+  },
+  {
+    "id": "51933",
+    "group": "3",
+    "word": "夕べ",
+    "phonetic": "ゆうべ",
+    "mean": "evening"
+  },
+  {
+    "id": "57959",
+    "group": "2",
+    "word": "有利",
+    "phonetic": "ゆうり",
+    "mean": "advantageous,better,profitable,lucrative"
+  },
+  {
+    "id": "33181",
+    "group": "3",
+    "word": "床",
+    "phonetic": "ゆか",
+    "mean": "floor"
+  },
+  {
+    "id": "51534",
+    "group": "2",
+    "word": "愉快",
+    "phonetic": "ゆかい",
+    "mean": "pleasant,happy"
+  },
+  {
+    "id": "51559",
+    "group": "3",
+    "word": "輸出",
+    "phonetic": "ゆしゅつ",
+    "mean": "export"
+  },
+  {
+    "id": "33930",
+    "group": "1",
+    "word": "譲る",
+    "phonetic": "ゆずる",
+    "mean": "to turn over,to assign,to hand over"
+  },
+  {
+    "id": "49569",
+    "group": "2",
+    "word": "豊か",
+    "phonetic": "ゆたか",
+    "mean": "abundant,wealthy,plentiful,rich"
+  },
+  {
+    "id": "51564",
+    "group": "2",
+    "word": "輸入",
+    "phonetic": "ゆにゅう",
+    "mean": "importation,import,introduction"
+  },
+  {
+    "id": "21893",
+    "group": "1",
+    "word": "許す",
+    "phonetic": "ゆるす",
+    "mean": "to permit,to allow,to approve"
+  },
+  {
+    "id": "51315",
+    "group": "3",
+    "word": "夜",
+    "phonetic": "よ",
+    "mean": "evening,night"
+  },
+  {
+    "id": "51394",
+    "group": "3",
+    "word": "夜明け",
+    "phonetic": "よあけ",
+    "mean": "dawn,daybreak"
+  },
+  {
+    "id": "39146",
+    "group": "3",
+    "word": "様",
+    "phonetic": "よう",
+    "mean": "way,manner,kind"
+  },
+  {
+    "id": "35443",
+    "group": "1",
+    "word": "酔う",
+    "phonetic": "よう",
+    "mean": "to get drunk,to become intoxicated"
+  },
+  {
+    "id": "52195",
+    "group": "3",
+    "word": "容易",
+    "phonetic": "ようい",
+    "mean": "easy,simple,plain"
+  },
+  {
+    "id": "52353",
+    "group": "3",
+    "word": "陽気",
+    "phonetic": "ようき",
+    "mean": "season,weather,cheerfulness"
+  },
+  {
+    "id": "52324",
+    "group": "3",
+    "word": "要求",
+    "phonetic": "ようきゅう",
+    "mean": "request,demand,requisition"
+  },
+  {
+    "id": "52288",
+    "group": "3",
+    "word": "用心",
+    "phonetic": "ようじん",
+    "mean": "care,precaution,guarding,caution"
+  },
+  {
+    "id": "52240",
+    "group": "3",
+    "word": "様子",
+    "phonetic": "ようす",
+    "mean": "aspect,state,appearance"
+  },
+  {
+    "id": "52318",
+    "group": "5",
+    "word": "要するに",
+    "phonetic": "ようするに",
+    "mean": "in a word,after all,the point is ..,in short .."
+  },
+  {
+    "id": "52336",
+    "group": "3",
+    "word": "要素",
+    "phonetic": "ようそ",
+    "mean": "element"
+  },
+  {
+    "id": "52338",
+    "group": "3",
+    "word": "要点",
+    "phonetic": "ようてん",
+    "mean": "gist,main point"
+  },
+  {
+    "id": "52235",
+    "group": "3",
+    "word": "曜日",
+    "phonetic": "ようび",
+    "mean": "day of the week"
+  },
+  {
+    "id": "51958",
+    "group": "3",
+    "word": "予期",
+    "phonetic": "よき",
+    "mean": "expectation,assume will happen,forecast"
+  },
+  {
+    "id": "16850",
+    "group": "1",
+    "word": "横切る",
+    "phonetic": "よこぎる",
+    "mean": "to cross (e.g. arms),to traverse"
+  },
+  {
+    "id": "51966",
+    "group": "3",
+    "word": "予算",
+    "phonetic": "よさん",
+    "mean": "estimate,budget"
+  },
+  {
+    "id": "29409",
+    "group": "1",
+    "word": "止す",
+    "phonetic": "よす",
+    "mean": "to cease,to abolish,to resign,to give up"
+  },
+  {
+    "id": "51986",
+    "group": "3",
+    "word": "予測",
+    "phonetic": "よそく",
+    "mean": "prediction,estimation"
+  },
+  {
+    "id": "51373",
+    "group": "3",
+    "word": "夜中",
+    "phonetic": "よなか",
+    "mean": "midnight,dead of night"
+  },
+  {
+    "id": "35558",
+    "group": "3",
+    "word": "世の中",
+    "phonetic": "よのなか",
+    "mean": "society,the world,the times"
+  },
+  {
+    "id": "52117",
+    "group": "3",
+    "word": "余分",
+    "phonetic": "よぶん",
+    "mean": "extra,excess,surplus"
+  },
+  {
+    "id": "52029",
+    "group": "3",
+    "word": "予報",
+    "phonetic": "よほう",
+    "mean": "forecast,prediction"
+  },
+  {
+    "id": "52032",
+    "group": "3",
+    "word": "予防",
+    "phonetic": "よぼう",
+    "mean": "prevention,precaution,protection against"
+  },
+  {
+    "id": "43541",
+    "group": "3",
+    "word": "読み",
+    "phonetic": "よみ",
+    "mean": "reading"
+  },
+  {
+    "id": "17895",
+    "group": "3",
+    "word": "嫁",
+    "phonetic": "よめ",
+    "mean": "bride,daughter-in-law"
+  },
+  {
+    "id": "52124",
+    "group": "3",
+    "word": "余裕",
+    "phonetic": "よゆう",
+    "mean": "surplus,composure,margin,room,time,allowance,scope,rope"
+  },
+  {
+    "id": "58001",
+    "group": "3",
+    "word": "喜び",
+    "phonetic": "よろこび",
+    "mean": "(a) joy,(a) delight,rapture,pleasure,gratification,rejoicing,congratulations,felicitations"
+  },
+  {
+    "id": "21113",
+    "group": "2",
+    "word": "宜しい",
+    "phonetic": "よろしい",
+    "mean": "(hon) good,OK,all right,fine,very well,will do,may,can"
+  },
+  {
+    "id": "52423",
+    "group": "4",
+    "word": "来",
+    "phonetic": "らい",
+    "mean": "for (10 days),next (year)"
+  },
+  {
+    "id": "19408",
+    "group": "3",
+    "word": "楽",
+    "phonetic": "らく",
+    "mean": "comfort,ease"
+  },
+  {
+    "id": "52596",
+    "group": "3",
+    "word": "利益",
+    "phonetic": "りえき",
+    "mean": "profits,gains,(political or economic) interest"
+  },
+  {
+    "id": "52639",
+    "group": "3",
+    "word": "理解",
+    "phonetic": "りかい",
+    "mean": "understanding,comprehension"
+  },
+  {
+    "id": "52742",
+    "group": "6",
+    "word": "陸",
+    "phonetic": "りく",
+    "mean": "six (used in legal documents)"
+  },
+  {
+    "id": "52603",
+    "group": "2",
+    "word": "利口",
+    "phonetic": "りこう",
+    "mean": "clever,shrewd,bright,sharp,wise,intelligent"
+  },
+  {
+    "id": "52732",
+    "group": "3",
+    "word": "離婚",
+    "phonetic": "りこん",
+    "mean": "divorce"
+  },
+  {
+    "id": "52649",
+    "group": "3",
+    "word": "理想",
+    "phonetic": "りそう",
+    "mean": "ideal"
+  },
+  {
+    "id": "52763",
+    "group": "3",
+    "word": "率",
+    "phonetic": "りつ",
+    "mean": "rate,ratio,proportion,percentage"
+  },
+  {
+    "id": "52819",
+    "group": "2",
+    "word": "立派",
+    "phonetic": "りっぱ",
+    "mean": "splendid,fine,handsome,elegant,imposing,prominent,legal,legitimate"
+  },
+  {
+    "id": "52909",
+    "group": "3",
+    "word": "留学",
+    "phonetic": "りゅうがく",
+    "mean": "studying abroad"
+  },
+  {
+    "id": "55944",
+    "group": "2",
+    "word": "流行",
+    "phonetic": "りゅうこう",
+    "mean": "fashionable,fad,in vogue,prevailing"
+  },
+  {
+    "id": "53090",
+    "group": "3",
+    "word": "量",
+    "phonetic": "りょう",
+    "mean": "quantity,amount,volume,portion (of food)"
+  },
+  {
+    "id": "53013",
+    "group": "3",
+    "word": "両替",
+    "phonetic": "りょうがえ",
+    "mean": "change,money exchange"
+  },
+  {
+    "id": "53058",
+    "group": "3",
+    "word": "料金",
+    "phonetic": "りょうきん",
+    "mean": "fee,charge,fare"
+  },
+  {
+    "id": "55957",
+    "group": "3",
+    "word": "例",
+    "phonetic": "れい",
+    "mean": "instance,example,case"
+  },
+  {
+    "id": "53360",
+    "group": "3",
+    "word": "礼",
+    "phonetic": "れい",
+    "mean": "expression of gratitude"
+  },
+  {
+    "id": "53362",
+    "group": "3",
+    "word": "礼儀",
+    "phonetic": "れいぎ",
+    "mean": "manners,courtesy,etiquette"
+  },
+  {
+    "id": "53321",
+    "group": "3",
+    "word": "冷静",
+    "phonetic": "れいせい",
+    "mean": "calm,composure,coolness,serenity"
+  },
+  {
+    "id": "53446",
+    "group": "3",
+    "word": "列",
+    "phonetic": "れつ",
+    "mean": "queue,line,row"
+  },
+  {
+    "id": "53450",
+    "group": "3",
+    "word": "列車",
+    "phonetic": "れっしゃ",
+    "mean": "train (ordinary)"
+  },
+  {
+    "id": "53524",
+    "group": "3",
+    "word": "練習",
+    "phonetic": "れんしゅう",
+    "mean": "practice"
+  },
+  {
+    "id": "53567",
+    "group": "3",
+    "word": "連想",
+    "phonetic": "れんそう",
+    "mean": "association (of ideas),suggestion"
+  },
+  {
+    "id": "53568",
+    "group": "3",
+    "word": "連続",
+    "phonetic": "れんぞく",
+    "mean": "serial,consecutive,continuity,continuing"
+  },
+  {
+    "id": "53714",
+    "group": "3",
+    "word": "老人",
+    "phonetic": "ろうじん/おい",
+    "mean": "the aged,old person"
+  },
+  {
+    "id": "58030",
+    "group": "3",
+    "word": "労働",
+    "phonetic": "ろうどう",
+    "mean": "manual labor,toil,work"
+  },
+  {
+    "id": "53766",
+    "group": "1",
+    "word": "論じる",
+    "phonetic": "ろんじる",
+    "mean": "to argue,to discuss,to debate"
+  },
+  {
+    "id": "53780",
+    "group": "3",
+    "word": "論争",
+    "phonetic": "ろんそう",
+    "mean": "controversy,dispute"
+  },
+  {
+    "id": "53788",
+    "group": "3",
+    "word": "論文",
+    "phonetic": "ろんぶん",
+    "mean": "thesis,essay,treatise,paper"
+  },
+  {
+    "id": "53188",
+    "group": "3",
+    "word": "輪",
+    "phonetic": "わ",
+    "mean": "ring,hoop,circle"
+  },
+  {
+    "id": "48730",
+    "group": "3",
+    "word": "別れ",
+    "phonetic": "わかれ",
+    "mean": "parting,separation,farewell"
+  },
+  {
+    "id": "53855",
+    "group": "3",
+    "word": "脇",
+    "phonetic": "わき",
+    "mean": "side"
+  },
+  {
+    "id": "48096",
+    "group": "1",
+    "word": "分ける",
+    "phonetic": "わける",
+    "mean": "to divide,to separate"
+  },
+  {
+    "id": "22649",
+    "group": "4",
+    "word": "僅か",
+    "phonetic": "わずか",
+    "mean": "only,merely,a little,small quantity"
+  },
+  {
+    "id": "51026",
+    "group": "3",
+    "word": "綿",
+    "phonetic": "わた/めん",
+    "mean": "cotton,padding"
+  },
+  {
+    "id": "53844",
+    "group": "3",
+    "word": "話題",
+    "phonetic": "わだい",
+    "mean": "topic,subject"
+  },
+  {
+    "id": "33369",
+    "group": "3",
+    "word": "笑い",
+    "phonetic": "わらい",
+    "mean": "laugh,laughter,smile"
+  },
+  {
+    "id": "19484",
+    "group": "1",
+    "word": "割る",
+    "phonetic": "わる",
+    "mean": "to divide,to cut,to break,to halve"
+  },
+  {
+    "id": "55025",
+    "group": "3",
+    "word": "悪口",
+    "phonetic": "わるくち",
+    "mean": "abuse,insult,slander,evil speaking"
+  },
+  {
+    "id": "58090",
+    "group": "3",
+    "word": "我々",
+    "phonetic": "われわれ",
+    "mean": "we"
+  },
+  {
+    "id": "53881",
+    "group": "3",
+    "word": "湾",
+    "phonetic": "わん",
+    "mean": "bay,gulf,inlet"
+  }
+]

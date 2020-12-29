@@ -1,0 +1,3495 @@
+[
+  {
+    "id": "18526",
+    "group": "1",
+    "word": "会う",
+    "phonetic": "あう",
+    "mean": "to meet"
+  },
+  {
+    "id": "36288",
+    "group": "3",
+    "word": "青",
+    "phonetic": "あお",
+    "mean": "blue (noun)"
+  },
+  {
+    "id": "36289",
+    "group": "2",
+    "word": "青い",
+    "phonetic": "あおい",
+    "mean": "blue"
+  },
+  {
+    "id": "94725",
+    "group": "3",
+    "word": "赤",
+    "phonetic": "あか",
+    "mean": "red (noun)"
+  },
+  {
+    "id": "36465",
+    "group": "2",
+    "word": "赤い",
+    "phonetic": "あかい",
+    "mean": "red"
+  },
+  {
+    "id": "31566",
+    "group": "3",
+    "word": "秋",
+    "phonetic": "あき",
+    "mean": "autumn"
+  },
+  {
+    "id": "18943",
+    "group": "1",
+    "word": "開く",
+    "phonetic": "あく",
+    "mean": "to open,to become open"
+  },
+  {
+    "id": "18944",
+    "group": "1",
+    "word": "開ける",
+    "phonetic": "あける",
+    "mean": "to open"
+  },
+  {
+    "id": "33469",
+    "group": "1",
+    "word": "上げる",
+    "phonetic": "あげる",
+    "mean": "to give"
+  },
+  {
+    "id": "40841",
+    "group": "3",
+    "word": "朝",
+    "phonetic": "あさ",
+    "mean": "morning"
+  },
+  {
+    "id": "56050",
+    "group": "3",
+    "word": "朝ご飯",
+    "phonetic": "あさごはん",
+    "mean": "breakfast"
+  },
+  {
+    "id": "38552",
+    "group": "3",
+    "word": "足",
+    "phonetic": "あし",
+    "mean": "foot,leg"
+  },
+  {
+    "id": "55897",
+    "group": "3",
+    "word": "明日",
+    "phonetic": "あした",
+    "mean": "tomorrow"
+  },
+  {
+    "id": "51887",
+    "group": "1",
+    "word": "遊ぶ",
+    "phonetic": "あそぶ",
+    "mean": "to play,to make a visit"
+  },
+  {
+    "id": "56059",
+    "group": "2",
+    "word": "暖かい",
+    "phonetic": "あたたかい",
+    "mean": "warm,mild"
+  },
+  {
+    "id": "43009",
+    "group": "3",
+    "word": "頭",
+    "phonetic": "あたま",
+    "mean": "head"
+  },
+  {
+    "id": "34371",
+    "group": "2",
+    "word": "新しい",
+    "phonetic": "あたらしい",
+    "mean": "new"
+  },
+  {
+    "id": "32616",
+    "group": "2",
+    "word": "暑い",
+    "phonetic": "あつい",
+    "mean": "hot"
+  },
+  {
+    "id": "44663",
+    "group": "2",
+    "word": "熱い",
+    "phonetic": "あつい",
+    "mean": "hot to the touch"
+  },
+  {
+    "id": "25997",
+    "group": "2",
+    "word": "厚い",
+    "phonetic": "あつい",
+    "mean": "kind,deep,thick"
+  },
+  {
+    "id": "25417",
+    "group": "4",
+    "word": "後",
+    "phonetic": "あと",
+    "mean": "afterwards"
+  },
+  {
+    "id": "23536",
+    "group": "3",
+    "word": "兄",
+    "phonetic": "あに",
+    "mean": "(humble) older brother"
+  },
+  {
+    "id": "29116",
+    "group": "3",
+    "word": "姉",
+    "phonetic": "あね",
+    "mean": "(humble) older sister"
+  },
+  {
+    "id": "52397",
+    "group": "1",
+    "word": "浴びる",
+    "phonetic": "あびる",
+    "mean": "to bathe,to bask in the sun,to shower"
+  },
+  {
+    "id": "20474",
+    "group": "2",
+    "word": "危ない",
+    "phonetic": "あぶない",
+    "mean": "dangerous"
+  },
+  {
+    "id": "19997",
+    "group": "2",
+    "word": "甘い",
+    "phonetic": "あまい",
+    "mean": "sweet"
+  },
+  {
+    "id": "55924",
+    "group": "4",
+    "word": "余り",
+    "phonetic": "あまり",
+    "mean": "not very"
+  },
+  {
+    "id": "15996",
+    "group": "3",
+    "word": "雨",
+    "phonetic": "あめ",
+    "mean": "rain"
+  },
+  {
+    "id": "14222",
+    "group": "4",
+    "word": "飴",
+    "phonetic": "あめ",
+    "mean": "candy"
+  },
+  {
+    "id": "37206",
+    "group": "1",
+    "word": "洗う",
+    "phonetic": "あらう",
+    "mean": "to wash"
+  },
+  {
+    "id": "49198",
+    "group": "1",
+    "word": "歩く",
+    "phonetic": "あるく",
+    "mean": "to walk"
+  },
+  {
+    "id": "56117",
+    "group": "1",
+    "word": "言う",
+    "phonetic": "いう",
+    "mean": "to say"
+  },
+  {
+    "id": "17900",
+    "group": "3",
+    "word": "家",
+    "phonetic": "いえ",
+    "mean": "house"
+  },
+  {
+    "id": "55322",
+    "group": "1",
+    "word": "行く",
+    "phonetic": "いく",
+    "mean": "to go"
+  },
+  {
+    "id": "40207",
+    "group": "3",
+    "word": "池",
+    "phonetic": "いけ",
+    "mean": "pond"
+  },
+  {
+    "id": "14845",
+    "group": "3",
+    "word": "医者",
+    "phonetic": "いしゃ",
+    "mean": "medical doctor"
+  },
+  {
+    "id": "14562",
+    "group": "3",
+    "word": "椅子",
+    "phonetic": "いす",
+    "mean": "chair"
+  },
+  {
+    "id": "49676",
+    "group": "2",
+    "word": "忙しい",
+    "phonetic": "いそがしい",
+    "mean": "busy,irritated"
+  },
+  {
+    "id": "41270",
+    "group": "2",
+    "word": "痛い",
+    "phonetic": "いたい",
+    "mean": "painful"
+  },
+  {
+    "id": "14925",
+    "group": "6",
+    "word": "一",
+    "phonetic": "いち",
+    "mean": "one (Sino-Japanese)"
+  },
+  {
+    "id": "55075",
+    "group": "6",
+    "word": "一日",
+    "phonetic": "いちにち",
+    "mean": "first of the month"
+  },
+  {
+    "id": "15426",
+    "group": "4",
+    "word": "一番",
+    "phonetic": "いちばん",
+    "mean": "best,first,number one"
+  },
+  {
+    "id": "25347",
+    "group": "6",
+    "word": "五日",
+    "phonetic": "いつか",
+    "mean": "five days,fifth day"
+  },
+  {
+    "id": "15177",
+    "group": "4",
+    "word": "一緒",
+    "phonetic": "いっしょ",
+    "mean": "together"
+  },
+  {
+    "id": "25298",
+    "group": "6",
+    "word": "五つ",
+    "phonetic": "いつつ",
+    "mean": "five (native Japanese)"
+  },
+  {
+    "id": "24353",
+    "group": "3",
+    "word": "犬",
+    "phonetic": "いぬ",
+    "mean": "dog"
+  },
+  {
+    "id": "27298",
+    "group": "4",
+    "word": "今",
+    "phonetic": "いま",
+    "mean": "now"
+  },
+  {
+    "id": "14536",
+    "group": "3",
+    "word": "意味",
+    "phonetic": "いみ",
+    "mean": "meaning"
+  },
+  {
+    "id": "50191",
+    "group": "3",
+    "word": "妹",
+    "phonetic": "いもうと",
+    "mean": "(humble) younger sister"
+  },
+  {
+    "id": "56172",
+    "group": "2",
+    "word": "嫌",
+    "phonetic": "いや",
+    "mean": "unpleasant"
+  },
+  {
+    "id": "55719",
+    "group": "3",
+    "word": "入口",
+    "phonetic": "いりぐち",
+    "mean": "entrance"
+  },
+  {
+    "id": "55235",
+    "group": "1",
+    "word": "居る",
+    "phonetic": "いる",
+    "mean": "to be,to have (used for people and animals)"
+  },
+  {
+    "id": "52320",
+    "group": "1",
+    "word": "要る",
+    "phonetic": "いる",
+    "mean": "to need"
+  },
+  {
+    "id": "44457",
+    "group": "1",
+    "word": "入れる",
+    "phonetic": "いれる",
+    "mean": "to put in"
+  },
+  {
+    "id": "33987",
+    "group": "3",
+    "word": "色",
+    "phonetic": "いろ",
+    "mean": "colour"
+  },
+  {
+    "id": "33453",
+    "group": "3",
+    "word": "上",
+    "phonetic": "うえ",
+    "mean": "on top of"
+  },
+  {
+    "id": "25424",
+    "group": "3",
+    "word": "後ろ",
+    "phonetic": "うしろ",
+    "mean": "behind"
+  },
+  {
+    "id": "45419",
+    "group": "2",
+    "word": "薄い",
+    "phonetic": "うすい",
+    "mean": "thin,weak"
+  },
+  {
+    "id": "18044",
+    "group": "3",
+    "word": "歌",
+    "phonetic": "うた",
+    "mean": "song"
+  },
+  {
+    "id": "56221",
+    "group": "1",
+    "word": "歌う",
+    "phonetic": "うたう",
+    "mean": "to sing"
+  },
+  {
+    "id": "36032",
+    "group": "1",
+    "word": "生まれる",
+    "phonetic": "うまれる",
+    "mean": "to be born"
+  },
+  {
+    "id": "18823",
+    "group": "3",
+    "word": "海",
+    "phonetic": "うみ",
+    "mean": "sea"
+  },
+  {
+    "id": "45277",
+    "group": "1",
+    "word": "売る",
+    "phonetic": "うる",
+    "mean": "to sell"
+  },
+  {
+    "id": "46039",
+    "group": "2",
+    "word": "煩い",
+    "phonetic": "うるさい",
+    "mean": "noisy,loud,fussy,annoying"
+  },
+  {
+    "id": "55466",
+    "group": "3",
+    "word": "上着",
+    "phonetic": "うわぎ",
+    "mean": "jacket"
+  },
+  {
+    "id": "18927",
+    "group": "3",
+    "word": "絵",
+    "phonetic": "え",
+    "mean": "picture"
+  },
+  {
+    "id": "16173",
+    "group": "3",
+    "word": "映画",
+    "phonetic": "えいが",
+    "mean": "movie"
+  },
+  {
+    "id": "16176",
+    "group": "3",
+    "word": "映画館",
+    "phonetic": "えいがかん",
+    "mean": "cinema"
+  },
+  {
+    "id": "16238",
+    "group": "3",
+    "word": "英語",
+    "phonetic": "えいご",
+    "mean": "English language"
+  },
+  {
+    "id": "16310",
+    "group": "3",
+    "word": "駅",
+    "phonetic": "えき",
+    "mean": "station"
+  },
+  {
+    "id": "16634",
+    "group": "3",
+    "word": "鉛筆",
+    "phonetic": "えんぴつ",
+    "mean": "pencil"
+  },
+  {
+    "id": "38830",
+    "group": "2",
+    "word": "多い",
+    "phonetic": "おおい",
+    "mean": "many"
+  },
+  {
+    "id": "56294",
+    "group": "2",
+    "word": "大きい",
+    "phonetic": "おおきい",
+    "mean": "big"
+  },
+  {
+    "id": "39355",
+    "group": "2",
+    "word": "大きな",
+    "phonetic": "おおきな",
+    "mean": "big"
+  },
+  {
+    "id": "39479",
+    "group": "3",
+    "word": "大勢",
+    "phonetic": "おおぜい",
+    "mean": "great number of people"
+  },
+  {
+    "id": "229",
+    "group": "3",
+    "word": "お母さん",
+    "phonetic": "おかあさん",
+    "mean": "(honorable) mother"
+  },
+  {
+    "id": "139",
+    "group": "3",
+    "word": "お菓子",
+    "phonetic": "おかし",
+    "mean": "sweets,candy"
+  },
+  {
+    "id": "150",
+    "group": "3",
+    "word": "お金",
+    "phonetic": "おかね",
+    "mean": "money"
+  },
+  {
+    "id": "20991",
+    "group": "1",
+    "word": "起きる",
+    "phonetic": "おきる",
+    "mean": "to get up"
+  },
+  {
+    "id": "40221",
+    "group": "1",
+    "word": "置く",
+    "phonetic": "おく",
+    "mean": "to put"
+  },
+  {
+    "id": "16706",
+    "group": "3",
+    "word": "奥さん",
+    "phonetic": "おくさん",
+    "mean": "(honorable) wife"
+  },
+  {
+    "id": "31207",
+    "group": "3",
+    "word": "お酒",
+    "phonetic": "おさけ",
+    "mean": "alcohol,rice wine"
+  },
+  {
+    "id": "28349",
+    "group": "3",
+    "word": "お皿",
+    "phonetic": "おさら",
+    "mean": "plate,dish"
+  },
+  {
+    "id": "22278",
+    "group": "1",
+    "word": "教える",
+    "phonetic": "おしえる",
+    "mean": "to teach,to tell"
+  },
+  {
+    "id": "16814",
+    "group": "1",
+    "word": "押す",
+    "phonetic": "おす",
+    "mean": "to push,to stamp something"
+  },
+  {
+    "id": "40232",
+    "group": "2",
+    "word": "遅い",
+    "phonetic": "おそい",
+    "mean": "late,slow"
+  },
+  {
+    "id": "210",
+    "group": "3",
+    "word": "お茶",
+    "phonetic": "おちゃ",
+    "mean": "green tea"
+  },
+  {
+    "id": "178",
+    "group": "3",
+    "word": "お手洗い",
+    "phonetic": "おてあらい",
+    "mean": "bathroom"
+  },
+  {
+    "id": "224",
+    "group": "3",
+    "word": "お父さん",
+    "phonetic": "おとうさん",
+    "mean": "(honorable) father"
+  },
+  {
+    "id": "55630",
+    "group": "3",
+    "word": "弟",
+    "phonetic": "おとうと",
+    "mean": "younger brother"
+  },
+  {
+    "id": "40039",
+    "group": "3",
+    "word": "男",
+    "phonetic": "おとこ",
+    "mean": "man"
+  },
+  {
+    "id": "40041",
+    "group": "3",
+    "word": "男の子",
+    "phonetic": "おとこのこ",
+    "mean": "boy"
+  },
+  {
+    "id": "55054",
+    "group": "3",
+    "word": "一昨日",
+    "phonetic": "おととい",
+    "mean": "day before yesterday"
+  },
+  {
+    "id": "55055",
+    "group": "3",
+    "word": "一昨年",
+    "phonetic": "おととし",
+    "mean": "year before last"
+  },
+  {
+    "id": "39474",
+    "group": "3",
+    "word": "大人",
+    "phonetic": "おとな",
+    "mean": "adult"
+  },
+  {
+    "id": "226",
+    "group": "3",
+    "word": "お腹",
+    "phonetic": "おなか",
+    "mean": "stomach"
+  },
+  {
+    "id": "43113",
+    "group": "4",
+    "word": "同じ",
+    "phonetic": "おなじ",
+    "mean": "same"
+  },
+  {
+    "id": "151",
+    "group": "3",
+    "word": "お兄さん",
+    "phonetic": "おにいさん",
+    "mean": "(honorable) older brother"
+  },
+  {
+    "id": "167",
+    "group": "3",
+    "word": "お姉さん",
+    "phonetic": "おねえさん",
+    "mean": "(honorable) older sister"
+  },
+  {
+    "id": "114559",
+    "group": "3",
+    "word": "お風呂",
+    "phonetic": "おふろ",
+    "mean": "bath"
+  },
+  {
+    "id": "49075",
+    "group": "3",
+    "word": "お弁当",
+    "phonetic": "おべんとう",
+    "mean": "boxed lunch"
+  },
+  {
+    "id": "19293",
+    "group": "1",
+    "word": "覚える",
+    "phonetic": "おぼえる",
+    "mean": "to remember"
+  },
+  {
+    "id": "31867",
+    "group": "2",
+    "word": "重い",
+    "phonetic": "おもい",
+    "mean": "heavy"
+  },
+  {
+    "id": "16231",
+    "group": "1",
+    "word": "泳ぐ",
+    "phonetic": "およぐ",
+    "mean": "to swim"
+  },
+  {
+    "id": "56354",
+    "group": "1",
+    "word": "降りる",
+    "phonetic": "おりる",
+    "mean": "to get off,to descend"
+  },
+  {
+    "id": "17115",
+    "group": "3",
+    "word": "音楽",
+    "phonetic": "おんがく",
+    "mean": "music"
+  },
+  {
+    "id": "32759",
+    "group": "3",
+    "word": "女",
+    "phonetic": "おんな",
+    "mean": "woman"
+  },
+  {
+    "id": "32763",
+    "group": "3",
+    "word": "女の子",
+    "phonetic": "おんなのこ",
+    "mean": "girl"
+  },
+  {
+    "id": "19057",
+    "group": "3",
+    "word": "外国",
+    "phonetic": "がいこく",
+    "mean": "foreign country"
+  },
+  {
+    "id": "19060",
+    "group": "3",
+    "word": "外国人",
+    "phonetic": "がいこくじん",
+    "mean": "foreigner"
+  },
+  {
+    "id": "18562",
+    "group": "3",
+    "word": "会社",
+    "phonetic": "かいしゃ",
+    "mean": "company"
+  },
+  {
+    "id": "19007",
+    "group": "3",
+    "word": "階段",
+    "phonetic": "かいだん",
+    "mean": "stairs"
+  },
+  {
+    "id": "56377",
+    "group": "3",
+    "word": "買い物",
+    "phonetic": "かいもの",
+    "mean": "shopping"
+  },
+  {
+    "id": "45256",
+    "group": "1",
+    "word": "買う",
+    "phonetic": "かう",
+    "mean": "to buy"
+  },
+  {
+    "id": "48982",
+    "group": "1",
+    "word": "返す",
+    "phonetic": "かえす",
+    "mean": "to return something"
+  },
+  {
+    "id": "20755",
+    "group": "1",
+    "word": "帰る",
+    "phonetic": "かえる",
+    "mean": "to go back"
+  },
+  {
+    "id": "24561",
+    "group": "3",
+    "word": "鍵",
+    "phonetic": "かぎ",
+    "mean": "key"
+  },
+  {
+    "id": "32664",
+    "group": "1",
+    "word": "書く",
+    "phonetic": "かく",
+    "mean": "to write"
+  },
+  {
+    "id": "19375",
+    "group": "3",
+    "word": "学生",
+    "phonetic": "がくせい",
+    "mean": "student"
+  },
+  {
+    "id": "28563",
+    "group": "3",
+    "word": "傘",
+    "phonetic": "かさ",
+    "mean": "umbrella"
+  },
+  {
+    "id": "39183",
+    "group": "1",
+    "word": "貸す",
+    "phonetic": "かす",
+    "mean": "to lend"
+  },
+  {
+    "id": "47775",
+    "group": "3",
+    "word": "風",
+    "phonetic": "かぜ",
+    "mean": "wind"
+  },
+  {
+    "id": "55806",
+    "group": "3",
+    "word": "風邪",
+    "phonetic": "かぜ",
+    "mean": "a cold"
+  },
+  {
+    "id": "17942",
+    "group": "3",
+    "word": "家族",
+    "phonetic": "かぞく",
+    "mean": "family"
+  },
+  {
+    "id": "49451",
+    "group": "3",
+    "word": "方",
+    "phonetic": "かた",
+    "mean": "person,way of doing"
+  },
+  {
+    "id": "19358",
+    "group": "3",
+    "word": "学校",
+    "phonetic": "がっこう",
+    "mean": "school"
+  },
+  {
+    "id": "17955",
+    "group": "3",
+    "word": "家庭",
+    "phonetic": "かてい",
+    "mean": "household"
+  },
+  {
+    "id": "19298",
+    "group": "3",
+    "word": "角",
+    "phonetic": "かど",
+    "mean": "a corner"
+  },
+  {
+    "id": "18206",
+    "group": "3",
+    "word": "花瓶",
+    "phonetic": "かびん",
+    "mean": "a vase"
+  },
+  {
+    "id": "29498",
+    "group": "3",
+    "word": "紙",
+    "phonetic": "かみ",
+    "mean": "paper"
+  },
+  {
+    "id": "18149",
+    "group": "3",
+    "word": "火曜日",
+    "phonetic": "かようび",
+    "mean": "Tuesday"
+  },
+  {
+    "id": "34788",
+    "group": "2",
+    "word": "辛い",
+    "phonetic": "からい",
+    "mean": "spicy"
+  },
+  {
+    "id": "38990",
+    "group": "3",
+    "word": "体",
+    "phonetic": "からだ",
+    "mean": "body"
+  },
+  {
+    "id": "30681",
+    "group": "1",
+    "word": "借りる",
+    "phonetic": "かりる",
+    "mean": "to borrow"
+  },
+  {
+    "id": "23795",
+    "group": "2",
+    "word": "軽い",
+    "phonetic": "かるい",
+    "mean": "light (not heavy)"
+  },
+  {
+    "id": "19974",
+    "group": "3",
+    "word": "漢字",
+    "phonetic": "かんじ",
+    "mean": "Chinese character"
+  },
+  {
+    "id": "51140",
+    "group": "3",
+    "word": "木",
+    "phonetic": "き",
+    "mean": "tree,wood"
+  },
+  {
+    "id": "55121",
+    "group": "3",
+    "word": "黄色",
+    "phonetic": "きいろ",
+    "mean": "yellow (noun)"
+  },
+  {
+    "id": "16963",
+    "group": "2",
+    "word": "黄色い",
+    "phonetic": "きいろい",
+    "mean": "yellow"
+  },
+  {
+    "id": "33247",
+    "group": "1",
+    "word": "消える",
+    "phonetic": "きえる",
+    "mean": "to disappear"
+  },
+  {
+    "id": "56517",
+    "group": "1",
+    "word": "聞く",
+    "phonetic": "きく",
+    "mean": "to hear,to listen to,to ask"
+  },
+  {
+    "id": "49812",
+    "group": "3",
+    "word": "北",
+    "phonetic": "きた",
+    "mean": "North"
+  },
+  {
+    "id": "16668",
+    "group": "2",
+    "word": "汚い",
+    "phonetic": "きたない",
+    "mean": "dirty"
+  },
+  {
+    "id": "21262",
+    "group": "3",
+    "word": "喫茶店",
+    "phonetic": "きっさてん",
+    "mean": "coffee lounge"
+  },
+  {
+    "id": "36638",
+    "group": "3",
+    "word": "切手",
+    "phonetic": "きって",
+    "mean": "postage stamp"
+  },
+  {
+    "id": "36647",
+    "group": "3",
+    "word": "切符",
+    "phonetic": "きっぷ",
+    "mean": "ticket"
+  },
+  {
+    "id": "55362",
+    "group": "3",
+    "word": "昨日",
+    "phonetic": "きのう",
+    "mean": "yesterday"
+  },
+  {
+    "id": "55253",
+    "group": "6",
+    "word": "九",
+    "phonetic": "きゅう/く",
+    "mean": "nine"
+  },
+  {
+    "id": "21768",
+    "group": "3",
+    "word": "牛肉",
+    "phonetic": "ぎゅうにく",
+    "mean": "beef"
+  },
+  {
+    "id": "21769",
+    "group": "3",
+    "word": "牛乳",
+    "phonetic": "ぎゅうにゅう",
+    "mean": "milk"
+  },
+  {
+    "id": "55348",
+    "group": "3",
+    "word": "今日",
+    "phonetic": "きょう",
+    "mean": "today"
+  },
+  {
+    "id": "22303",
+    "group": "3",
+    "word": "教室",
+    "phonetic": "きょうしつ",
+    "mean": "classroom"
+  },
+  {
+    "id": "23542",
+    "group": "3",
+    "word": "兄弟",
+    "phonetic": "きょうだい",
+    "mean": "(humble) siblings"
+  },
+  {
+    "id": "21779",
+    "group": "3",
+    "word": "去年",
+    "phonetic": "きょねん",
+    "mean": "last year"
+  },
+  {
+    "id": "24249",
+    "group": "3",
+    "word": "嫌い",
+    "phonetic": "きらい",
+    "mean": "hate"
+  },
+  {
+    "id": "36615",
+    "group": "1",
+    "word": "切る",
+    "phonetic": "きる",
+    "mean": "to cut"
+  },
+  {
+    "id": "40330",
+    "group": "1",
+    "word": "着る",
+    "phonetic": "きる",
+    "mean": "to put on from the shoulders down"
+  },
+  {
+    "id": "22914",
+    "group": "3",
+    "word": "銀行",
+    "phonetic": "ぎんこう",
+    "mean": "bank"
+  },
+  {
+    "id": "22898",
+    "group": "3",
+    "word": "金曜日",
+    "phonetic": "きんようび",
+    "mean": "Friday"
+  },
+  {
+    "id": "51493",
+    "group": "3",
+    "word": "薬",
+    "phonetic": "くすり",
+    "mean": "medicine"
+  },
+  {
+    "id": "18033",
+    "group": "3",
+    "word": "果物",
+    "phonetic": "くだもの",
+    "mean": "fruit"
+  },
+  {
+    "id": "26028",
+    "group": "3",
+    "word": "口",
+    "phonetic": "くち",
+    "mean": "mouth,opening"
+  },
+  {
+    "id": "23221",
+    "group": "3",
+    "word": "靴",
+    "phonetic": "くつ",
+    "mean": "shoes"
+  },
+  {
+    "id": "23225",
+    "group": "3",
+    "word": "靴下",
+    "phonetic": "くつした",
+    "mean": "socks"
+  },
+  {
+    "id": "56629",
+    "group": "3",
+    "word": "国",
+    "phonetic": "くに",
+    "mean": "country"
+  },
+  {
+    "id": "56638",
+    "group": "3",
+    "word": "曇り",
+    "phonetic": "くもり",
+    "mean": "cloudy weather"
+  },
+  {
+    "id": "43676",
+    "group": "1",
+    "word": "曇る",
+    "phonetic": "くもる",
+    "mean": "to become cloudy,to become dim"
+  },
+  {
+    "id": "14302",
+    "group": "2",
+    "word": "暗い",
+    "phonetic": "くらい",
+    "mean": "dark,gloomy"
+  },
+  {
+    "id": "52424",
+    "group": "1",
+    "word": "来る",
+    "phonetic": "くる",
+    "mean": "to come"
+  },
+  {
+    "id": "30634",
+    "group": "3",
+    "word": "車",
+    "phonetic": "くるま",
+    "mean": "car,vehicle"
+  },
+  {
+    "id": "27155",
+    "group": "3",
+    "word": "黒",
+    "phonetic": "くろ",
+    "mean": "black (noun)"
+  },
+  {
+    "id": "27156",
+    "group": "2",
+    "word": "黒い",
+    "phonetic": "くろい",
+    "mean": "black"
+  },
+  {
+    "id": "23772",
+    "group": "3",
+    "word": "警官",
+    "phonetic": "けいかん",
+    "mean": "policeman"
+  },
+  {
+    "id": "55347",
+    "group": "3",
+    "word": "今朝",
+    "phonetic": "けさ",
+    "mean": "this morning"
+  },
+  {
+    "id": "33254",
+    "group": "1",
+    "word": "消す",
+    "phonetic": "けす",
+    "mean": "to erase,to turn off power"
+  },
+  {
+    "id": "24008",
+    "group": "4",
+    "word": "結構",
+    "phonetic": "けっこう",
+    "mean": "splendid,enough"
+  },
+  {
+    "id": "24011",
+    "group": "3",
+    "word": "結婚",
+    "phonetic": "けっこん",
+    "mean": "marriage"
+  },
+  {
+    "id": "24120",
+    "group": "3",
+    "word": "月曜日",
+    "phonetic": "げつようび",
+    "mean": "Monday"
+  },
+  {
+    "id": "24847",
+    "group": "3",
+    "word": "玄関",
+    "phonetic": "げんかん",
+    "mean": "entry hall"
+  },
+  {
+    "id": "24584",
+    "group": "3",
+    "word": "元気",
+    "phonetic": "げんき",
+    "mean": "health,vitality"
+  },
+  {
+    "id": "25297",
+    "group": "6",
+    "word": "五",
+    "phonetic": "ご",
+    "mean": "five (Sino-Japanese)"
+  },
+  {
+    "id": "25796",
+    "group": "3",
+    "word": "公園",
+    "phonetic": "こうえん",
+    "mean": "park"
+  },
+  {
+    "id": "56696",
+    "group": "3",
+    "word": "交差点",
+    "phonetic": "こうさてん",
+    "mean": "intersection"
+  },
+  {
+    "id": "26520",
+    "group": "3",
+    "word": "紅茶",
+    "phonetic": "こうちゃ",
+    "mean": "black tea"
+  },
+  {
+    "id": "25724",
+    "group": "3",
+    "word": "交番",
+    "phonetic": "こうばん",
+    "mean": "police box"
+  },
+  {
+    "id": "36201",
+    "group": "3",
+    "word": "声",
+    "phonetic": "こえ",
+    "mean": "voice"
+  },
+  {
+    "id": "25386",
+    "group": "3",
+    "word": "午後",
+    "phonetic": "ごご",
+    "mean": "afternoon"
+  },
+  {
+    "id": "22949",
+    "group": "6",
+    "word": "九日",
+    "phonetic": "ここのか",
+    "mean": "nine days,ninth day"
+  },
+  {
+    "id": "22925",
+    "group": "6",
+    "word": "九つ",
+    "phonetic": "ここのつ",
+    "mean": "nine (native Japanese)"
+  },
+  {
+    "id": "25392",
+    "group": "3",
+    "word": "午前",
+    "phonetic": "ごぜん",
+    "mean": "morning"
+  },
+  {
+    "id": "42899",
+    "group": "1",
+    "word": "答える",
+    "phonetic": "こたえる",
+    "mean": "to answer"
+  },
+  {
+    "id": "55350",
+    "group": "3",
+    "word": "今年",
+    "phonetic": "ことし",
+    "mean": "this year"
+  },
+  {
+    "id": "24958",
+    "group": "3",
+    "word": "言葉",
+    "phonetic": "ことば",
+    "mean": "word,language"
+  },
+  {
+    "id": "29138",
+    "group": "3",
+    "word": "子供",
+    "phonetic": "こども",
+    "mean": "child"
+  },
+  {
+    "id": "25539",
+    "group": "3",
+    "word": "ご飯",
+    "phonetic": "ごはん",
+    "mean": "cooked rice,meal"
+  },
+  {
+    "id": "27369",
+    "group": "1",
+    "word": "困る",
+    "phonetic": "こまる",
+    "mean": "to be worried"
+  },
+  {
+    "id": "27320",
+    "group": "3",
+    "word": "今月",
+    "phonetic": "こんげつ",
+    "mean": "this month"
+  },
+  {
+    "id": "27332",
+    "group": "3",
+    "word": "今週",
+    "phonetic": "こんしゅう",
+    "mean": "this week"
+  },
+  {
+    "id": "27357",
+    "group": "3",
+    "word": "今晩",
+    "phonetic": "こんばん",
+    "mean": "this evening"
+  },
+  {
+    "id": "28087",
+    "group": "3",
+    "word": "財布",
+    "phonetic": "さいふ",
+    "mean": "wallet"
+  },
+  {
+    "id": "55238",
+    "group": "3",
+    "word": "魚",
+    "phonetic": "さかな",
+    "mean": "fish"
+  },
+  {
+    "id": "36847",
+    "group": "3",
+    "word": "先",
+    "phonetic": "さき",
+    "mean": "the future,previous"
+  },
+  {
+    "id": "28111",
+    "group": "1",
+    "word": "咲く",
+    "phonetic": "さく",
+    "mean": "to bloom"
+  },
+  {
+    "id": "28184",
+    "group": "3",
+    "word": "作文",
+    "phonetic": "さくぶん",
+    "mean": "composition,writing"
+  },
+  {
+    "id": "27535",
+    "group": "1",
+    "word": "差す",
+    "phonetic": "さす",
+    "mean": "to stretch out hands,to raise an umbrella"
+  },
+  {
+    "id": "28321",
+    "group": "3",
+    "word": "雑誌",
+    "phonetic": "ざっし",
+    "mean": "magazine"
+  },
+  {
+    "id": "27561",
+    "group": "3",
+    "word": "砂糖",
+    "phonetic": "さとう",
+    "mean": "sugar"
+  },
+  {
+    "id": "19711",
+    "group": "2",
+    "word": "寒い",
+    "phonetic": "さむい",
+    "mean": "cold"
+  },
+  {
+    "id": "55370",
+    "group": "6",
+    "word": "三",
+    "phonetic": "さん",
+    "mean": "three (Sino-Japanese)"
+  },
+  {
+    "id": "28728",
+    "group": "1",
+    "word": "散歩",
+    "phonetic": "さんぽする",
+    "mean": "to stroll"
+  },
+  {
+    "id": "55382",
+    "group": "6",
+    "word": "四",
+    "phonetic": "し/よん",
+    "mean": "four (Sino-Japanese)"
+  },
+  {
+    "id": "55109",
+    "group": "3",
+    "word": "塩",
+    "phonetic": "しお",
+    "mean": "salt"
+  },
+  {
+    "id": "29929",
+    "group": "3",
+    "word": "時間",
+    "phonetic": "じかん",
+    "mean": "time"
+  },
+  {
+    "id": "28858",
+    "group": "3",
+    "word": "仕事",
+    "phonetic": "しごと",
+    "mean": "job"
+  },
+  {
+    "id": "30228",
+    "group": "3",
+    "word": "辞書",
+    "phonetic": "じしょ",
+    "mean": "dictionary"
+  },
+  {
+    "id": "36330",
+    "group": "2",
+    "word": "静か",
+    "phonetic": "しずか",
+    "mean": "quiet"
+  },
+  {
+    "id": "17157",
+    "group": "3",
+    "word": "下",
+    "phonetic": "した",
+    "mean": "below"
+  },
+  {
+    "id": "30251",
+    "group": "6",
+    "word": "七",
+    "phonetic": "しち/なな",
+    "mean": "seven (Sino-Japanese)"
+  },
+  {
+    "id": "30404",
+    "group": "3",
+    "word": "質問",
+    "phonetic": "しつもん",
+    "mean": "question"
+  },
+  {
+    "id": "30164",
+    "group": "3",
+    "word": "自転車",
+    "phonetic": "じてんしゃ",
+    "mean": "bicycle"
+  },
+  {
+    "id": "30174",
+    "group": "3",
+    "word": "自動車",
+    "phonetic": "じどうしゃ",
+    "mean": "automobile"
+  },
+  {
+    "id": "29420",
+    "group": "1",
+    "word": "死ぬ",
+    "phonetic": "しぬ",
+    "mean": "to die"
+  },
+  {
+    "id": "30195",
+    "group": "3",
+    "word": "自分",
+    "phonetic": "じぶん",
+    "mean": "oneself"
+  },
+  {
+    "id": "41647",
+    "group": "1",
+    "word": "閉まる",
+    "phonetic": "しまる",
+    "mean": "to close,to be closed"
+  },
+  {
+    "id": "48641",
+    "group": "1",
+    "word": "閉める",
+    "phonetic": "しめる",
+    "mean": "to close something"
+  },
+  {
+    "id": "41648",
+    "group": "1",
+    "word": "締める",
+    "phonetic": "しめる",
+    "mean": "to tie"
+  },
+  {
+    "id": "30516",
+    "group": "3",
+    "word": "写真",
+    "phonetic": "しゃしん",
+    "mean": "photograph"
+  },
+  {
+    "id": "55415",
+    "group": "6",
+    "word": "十",
+    "phonetic": "じゅう /とお",
+    "mean": "ten"
+  },
+  {
+    "id": "31332",
+    "group": "3",
+    "word": "授業",
+    "phonetic": "じゅぎょう",
+    "mean": "lesson,class work"
+  },
+  {
+    "id": "32010",
+    "group": "3",
+    "word": "宿題",
+    "phonetic": "しゅくだい",
+    "mean": "homework"
+  },
+  {
+    "id": "33568",
+    "group": "2",
+    "word": "上手",
+    "phonetic": "じょうず",
+    "mean": "skillful"
+  },
+  {
+    "id": "55481",
+    "group": "2",
+    "word": "丈夫",
+    "phonetic": "じょうぶ",
+    "mean": "strong,durable"
+  },
+  {
+    "id": "34082",
+    "group": "3",
+    "word": "食堂",
+    "phonetic": "しょくどう",
+    "mean": "dining hall"
+  },
+  {
+    "id": "40085",
+    "group": "1",
+    "word": "知る",
+    "phonetic": "しる",
+    "mean": "to know"
+  },
+  {
+    "id": "45365",
+    "group": "3",
+    "word": "白",
+    "phonetic": "しろ",
+    "mean": "white (noun)"
+  },
+  {
+    "id": "45366",
+    "group": "2",
+    "word": "白い",
+    "phonetic": "しろい",
+    "mean": "white"
+  },
+  {
+    "id": "34453",
+    "group": "3",
+    "word": "新聞",
+    "phonetic": "しんぶん",
+    "mean": "newspaper"
+  },
+  {
+    "id": "35399",
+    "group": "3",
+    "word": "水曜日",
+    "phonetic": "すいようび",
+    "mean": "Wednesday"
+  },
+  {
+    "id": "21439",
+    "group": "1",
+    "word": "吸う",
+    "phonetic": "すう",
+    "mean": "to smoke,to suck"
+  },
+  {
+    "id": "26194",
+    "group": "2",
+    "word": "好き",
+    "phonetic": "すき",
+    "mean": "likeable"
+  },
+  {
+    "id": "33142",
+    "group": "4",
+    "word": "少ない",
+    "phonetic": "すくない",
+    "mean": "a few"
+  },
+  {
+    "id": "33138",
+    "group": "4",
+    "word": "少し",
+    "phonetic": "すこし",
+    "mean": "few"
+  },
+  {
+    "id": "53067",
+    "group": "2",
+    "word": "涼しい",
+    "phonetic": "すずしい",
+    "mean": "refreshing"
+  },
+  {
+    "id": "31703",
+    "group": "1",
+    "word": "住む",
+    "phonetic": "すむ",
+    "mean": "to live in"
+  },
+  {
+    "id": "27581",
+    "group": "1",
+    "word": "座る",
+    "phonetic": "すわる",
+    "mean": "to sit"
+  },
+  {
+    "id": "45146",
+    "group": "3",
+    "word": "背",
+    "phonetic": "せ",
+    "mean": "height,stature"
+  },
+  {
+    "id": "36097",
+    "group": "3",
+    "word": "生徒",
+    "phonetic": "せいと",
+    "mean": "pupil"
+  },
+  {
+    "id": "45155",
+    "group": "3",
+    "word": "背広",
+    "phonetic": "せびろ",
+    "mean": "business suit"
+  },
+  {
+    "id": "22356",
+    "group": "2",
+    "word": "狭い",
+    "phonetic": "せまい",
+    "mean": "narrow"
+  },
+  {
+    "id": "36998",
+    "group": "6",
+    "word": "千",
+    "phonetic": "せん",
+    "mean": "thousand"
+  },
+  {
+    "id": "36876",
+    "group": "3",
+    "word": "先月",
+    "phonetic": "せんげつ",
+    "mean": "last month"
+  },
+  {
+    "id": "36913",
+    "group": "3",
+    "word": "先週",
+    "phonetic": "せんしゅう",
+    "mean": "last week"
+  },
+  {
+    "id": "36925",
+    "group": "3",
+    "word": "先生",
+    "phonetic": "せんせい",
+    "mean": "teacher,doctor"
+  },
+  {
+    "id": "37211",
+    "group": "3",
+    "word": "洗濯",
+    "phonetic": "せんたく",
+    "mean": "washing"
+  },
+  {
+    "id": "37719",
+    "group": "4",
+    "word": "全部",
+    "phonetic": "ぜんぶ",
+    "mean": "all"
+  },
+  {
+    "id": "38074",
+    "group": "1",
+    "word": "掃除",
+    "phonetic": "そうじする",
+    "mean": "to clean,to sweep"
+  },
+  {
+    "id": "19020",
+    "group": "3",
+    "word": "外",
+    "phonetic": "そと",
+    "mean": "outside"
+  },
+  {
+    "id": "23084",
+    "group": "3",
+    "word": "空",
+    "phonetic": "そら",
+    "mean": "sky"
+  },
+  {
+    "id": "39388",
+    "group": "3",
+    "word": "大学",
+    "phonetic": "だいがく",
+    "mean": "university"
+  },
+  {
+    "id": "39447",
+    "group": "3",
+    "word": "大使館",
+    "phonetic": "たいしかん",
+    "mean": "embassy"
+  },
+  {
+    "id": "39472",
+    "group": "4",
+    "word": "大丈夫",
+    "phonetic": "だいじょうぶ",
+    "mean": "all right"
+  },
+  {
+    "id": "39428",
+    "group": "2",
+    "word": "大好き",
+    "phonetic": "だいすき",
+    "mean": "to be very likeable"
+  },
+  {
+    "id": "39491",
+    "group": "2",
+    "word": "大切",
+    "phonetic": "たいせつ",
+    "mean": "important"
+  },
+  {
+    "id": "39330",
+    "group": "3",
+    "word": "台所",
+    "phonetic": "だいどころ",
+    "mean": "kitchen"
+  },
+  {
+    "id": "26752",
+    "group": "2",
+    "word": "高い",
+    "phonetic": "たかい",
+    "mean": "tall,expensive"
+  },
+  {
+    "id": "32098",
+    "group": "1",
+    "word": "出す",
+    "phonetic": "だす",
+    "mean": "to put out"
+  },
+  {
+    "id": "57100",
+    "group": "1",
+    "word": "立つ",
+    "phonetic": "たつ",
+    "mean": "to stand"
+  },
+  {
+    "id": "24278",
+    "group": "3",
+    "word": "建物",
+    "phonetic": "たてもの",
+    "mean": "building"
+  },
+  {
+    "id": "19409",
+    "group": "2",
+    "word": "楽しい",
+    "phonetic": "たのしい",
+    "mean": "enjoyable"
+  },
+  {
+    "id": "52488",
+    "group": "1",
+    "word": "頼む",
+    "phonetic": "たのむ",
+    "mean": "to ask"
+  },
+  {
+    "id": "38882",
+    "group": "4",
+    "word": "多分",
+    "phonetic": "たぶん",
+    "mean": "perhaps,probably"
+  },
+  {
+    "id": "34061",
+    "group": "3",
+    "word": "食べ物",
+    "phonetic": "たべもの",
+    "mean": "food"
+  },
+  {
+    "id": "34055",
+    "group": "1",
+    "word": "食べる",
+    "phonetic": "たべる",
+    "mean": "to eat"
+  },
+  {
+    "id": "52564",
+    "group": "3",
+    "word": "卵",
+    "phonetic": "たまご",
+    "mean": "egg"
+  },
+  {
+    "id": "39726",
+    "group": "4",
+    "word": "誰",
+    "phonetic": "だれ",
+    "mean": "who"
+  },
+  {
+    "id": "39726",
+    "group": "3",
+    "word": "誰",
+    "phonetic": "だれか",
+    "mean": "somebody"
+  },
+  {
+    "id": "39954",
+    "group": "3",
+    "word": "誕生日",
+    "phonetic": "たんじょうび",
+    "mean": "birthday"
+  },
+  {
+    "id": "33032",
+    "group": "4",
+    "word": "小さい",
+    "phonetic": "ちいさい",
+    "mean": "little"
+  },
+  {
+    "id": "106324",
+    "group": "4",
+    "word": "小さな",
+    "phonetic": "ちいさな",
+    "mean": "little"
+  },
+  {
+    "id": "22785",
+    "group": "2",
+    "word": "近い",
+    "phonetic": "ちかい",
+    "mean": "near"
+  },
+  {
+    "id": "14737",
+    "group": "1",
+    "word": "違う",
+    "phonetic": "ちがう",
+    "mean": "to differ"
+  },
+  {
+    "id": "22788",
+    "group": "4",
+    "word": "近く",
+    "phonetic": "ちかく",
+    "mean": "near"
+  },
+  {
+    "id": "40127",
+    "group": "3",
+    "word": "地下鉄",
+    "phonetic": "ちかてつ",
+    "mean": "underground train"
+  },
+  {
+    "id": "40166",
+    "group": "3",
+    "word": "地図",
+    "phonetic": "ちず",
+    "mean": "map"
+  },
+  {
+    "id": "40304",
+    "group": "2",
+    "word": "茶色",
+    "phonetic": "ちゃいろ",
+    "mean": "brown"
+  },
+  {
+    "id": "55075",
+    "group": "6",
+    "word": "一日",
+    "phonetic": "ついたち",
+    "mean": "first of month"
+  },
+  {
+    "id": "28959",
+    "group": "1",
+    "word": "使う",
+    "phonetic": "つかう",
+    "mean": "to use"
+  },
+  {
+    "id": "46210",
+    "group": "1",
+    "word": "疲れる",
+    "phonetic": "つかれる",
+    "mean": "to get tired"
+  },
+  {
+    "id": "29974",
+    "group": "4",
+    "word": "次",
+    "phonetic": "つぎ",
+    "mean": "next"
+  },
+  {
+    "id": "40328",
+    "group": "1",
+    "word": "着く",
+    "phonetic": "つく",
+    "mean": "to arrive at"
+  },
+  {
+    "id": "20649",
+    "group": "3",
+    "word": "机",
+    "phonetic": "つくえ",
+    "mean": "desk"
+  },
+  {
+    "id": "57186",
+    "group": "1",
+    "word": "作る",
+    "phonetic": "つくる",
+    "mean": "to make"
+  },
+  {
+    "id": "22657",
+    "group": "1",
+    "word": "勤める",
+    "phonetic": "つとめる",
+    "mean": "to work for someone"
+  },
+  {
+    "id": "53289",
+    "group": "2",
+    "word": "冷たい",
+    "phonetic": "つめたい",
+    "mean": "cold to the touch"
+  },
+  {
+    "id": "22198",
+    "group": "2",
+    "word": "強い",
+    "phonetic": "つよい",
+    "mean": "powerful"
+  },
+  {
+    "id": "31034",
+    "group": "3",
+    "word": "手",
+    "phonetic": "て",
+    "mean": "hand"
+  },
+  {
+    "id": "57252",
+    "group": "1",
+    "word": "出かける",
+    "phonetic": "でかける",
+    "mean": "to go out"
+  },
+  {
+    "id": "31082",
+    "group": "3",
+    "word": "手紙",
+    "phonetic": "てがみ",
+    "mean": "letter"
+  },
+  {
+    "id": "32165",
+    "group": "1",
+    "word": "出口",
+    "phonetic": "でぐち",
+    "mean": "exit"
+  },
+  {
+    "id": "32104",
+    "group": "1",
+    "word": "出る",
+    "phonetic": "でる",
+    "mean": "to appear,to leave"
+  },
+  {
+    "id": "41856",
+    "group": "3",
+    "word": "天気",
+    "phonetic": "てんき",
+    "mean": "weather"
+  },
+  {
+    "id": "42276",
+    "group": "3",
+    "word": "電気",
+    "phonetic": "でんき",
+    "mean": "electricity,electric light"
+  },
+  {
+    "id": "42323",
+    "group": "3",
+    "word": "電車",
+    "phonetic": "でんしゃ",
+    "mean": "electric train"
+  },
+  {
+    "id": "42354",
+    "group": "3",
+    "word": "電話",
+    "phonetic": "でんわ",
+    "mean": "telephone"
+  },
+  {
+    "id": "25190",
+    "group": "3",
+    "word": "戸",
+    "phonetic": "と",
+    "mean": "Japanese style door"
+  },
+  {
+    "id": "43085",
+    "group": "3",
+    "word": "動物",
+    "phonetic": "どうぶつ",
+    "mean": "animal"
+  },
+  {
+    "id": "16558",
+    "group": "2",
+    "word": "遠い",
+    "phonetic": "とおい",
+    "mean": "far"
+  },
+  {
+    "id": "31796",
+    "group": "6",
+    "word": "十日",
+    "phonetic": "とおか",
+    "mean": "ten days,the tenth day"
+  },
+  {
+    "id": "57264",
+    "group": "4",
+    "word": "時々",
+    "phonetic": "ときどき",
+    "mean": "sometimes"
+  },
+  {
+    "id": "29950",
+    "group": "3",
+    "word": "時計",
+    "phonetic": "とけい",
+    "mean": "watch,clock"
+  },
+  {
+    "id": "32582",
+    "group": "3",
+    "word": "所",
+    "phonetic": "ところ",
+    "mean": "place"
+  },
+  {
+    "id": "44697",
+    "group": "3",
+    "word": "年",
+    "phonetic": "とし",
+    "mean": "year"
+  },
+  {
+    "id": "35224",
+    "group": "3",
+    "word": "図書館",
+    "phonetic": "としょかん",
+    "mean": "library"
+  },
+  {
+    "id": "53201",
+    "group": "3",
+    "word": "隣",
+    "phonetic": "となり",
+    "mean": "next door to"
+  },
+  {
+    "id": "40978",
+    "group": "1",
+    "word": "飛ぶ",
+    "phonetic": "とぶ",
+    "mean": "to fly,to hop"
+  },
+  {
+    "id": "29410",
+    "group": "1",
+    "word": "止まる",
+    "phonetic": "とまる",
+    "mean": "to come to a halt"
+  },
+  {
+    "id": "51692",
+    "group": "3",
+    "word": "友達",
+    "phonetic": "ともだち",
+    "mean": "friend"
+  },
+  {
+    "id": "42524",
+    "group": "3",
+    "word": "土曜日",
+    "phonetic": "どようび",
+    "mean": "Saturday"
+  },
+  {
+    "id": "41033",
+    "group": "3",
+    "word": "鳥",
+    "phonetic": "とり",
+    "mean": "bird"
+  },
+  {
+    "id": "31013",
+    "group": "1",
+    "word": "取る",
+    "phonetic": "とる",
+    "mean": "to take something"
+  },
+  {
+    "id": "28265",
+    "group": "1",
+    "word": "撮る",
+    "phonetic": "とる",
+    "mean": "to take a photo or record a film"
+  },
+  {
+    "id": "40360",
+    "group": "3",
+    "word": "中",
+    "phonetic": "なか",
+    "mean": "middle"
+  },
+  {
+    "id": "40983",
+    "group": "2",
+    "word": "長い",
+    "phonetic": "ながい",
+    "mean": "long"
+  },
+  {
+    "id": "50981",
+    "group": "1",
+    "word": "鳴く",
+    "phonetic": "なく",
+    "mean": "animal noise - to chirp,roar or croak etc."
+  },
+  {
+    "id": "50660",
+    "group": "1",
+    "word": "無くす",
+    "phonetic": "なくす",
+    "mean": "to lose something"
+  },
+  {
+    "id": "17859",
+    "group": "3",
+    "word": "夏",
+    "phonetic": "なつ",
+    "mean": "summer"
+  },
+  {
+    "id": "17869",
+    "group": "3",
+    "word": "夏休み",
+    "phonetic": "なつやすみ",
+    "mean": "summer holiday"
+  },
+  {
+    "id": "30252",
+    "group": "6",
+    "word": "七つ",
+    "phonetic": "ななつ",
+    "mean": "seven (native Japanese)"
+  },
+  {
+    "id": "55397",
+    "group": "6",
+    "word": "七日",
+    "phonetic": "なのか",
+    "mean": "seven days,the seventh day"
+  },
+  {
+    "id": "50872",
+    "group": "3",
+    "word": "名前",
+    "phonetic": "なまえ",
+    "mean": "name"
+  },
+  {
+    "id": "31608",
+    "group": "1",
+    "word": "習う",
+    "phonetic": "ならう",
+    "mean": "to learn"
+  },
+  {
+    "id": "48622",
+    "group": "1",
+    "word": "並ぶ",
+    "phonetic": "ならぶ",
+    "mean": "to line up,to stand in a line"
+  },
+  {
+    "id": "48623",
+    "group": "1",
+    "word": "並べる",
+    "phonetic": "ならべる",
+    "mean": "to line up,to set up"
+  },
+  {
+    "id": "35729",
+    "group": "1",
+    "word": "成る",
+    "phonetic": "なる",
+    "mean": "to become"
+  },
+  {
+    "id": "55152",
+    "group": "4",
+    "word": "何",
+    "phonetic": "なん/なに",
+    "mean": "what"
+  },
+  {
+    "id": "44022",
+    "group": "6",
+    "word": "二",
+    "phonetic": "に",
+    "mean": "two (Sino-Japanese)"
+  },
+  {
+    "id": "44250",
+    "group": "2",
+    "word": "賑やか",
+    "phonetic": "にぎやか",
+    "mean": "bustling,busy"
+  },
+  {
+    "id": "44255",
+    "group": "3",
+    "word": "肉",
+    "phonetic": "にく",
+    "mean": "meat"
+  },
+  {
+    "id": "36241",
+    "group": "3",
+    "word": "西",
+    "phonetic": "にし",
+    "mean": "West"
+  },
+  {
+    "id": "44388",
+    "group": "3",
+    "word": "日曜日",
+    "phonetic": "にちようび",
+    "mean": "Sunday"
+  },
+  {
+    "id": "18259",
+    "group": "3",
+    "word": "荷物",
+    "phonetic": "にもつ",
+    "mean": "luggage"
+  },
+  {
+    "id": "41604",
+    "group": "3",
+    "word": "庭",
+    "phonetic": "にわ",
+    "mean": "garden"
+  },
+  {
+    "id": "39685",
+    "group": "1",
+    "word": "脱ぐ",
+    "phonetic": "ぬぐ",
+    "mean": "to take off clothes"
+  },
+  {
+    "id": "17076",
+    "group": "2",
+    "word": "温い",
+    "phonetic": "ぬるい",
+    "mean": "luke warm"
+  },
+  {
+    "id": "44655",
+    "group": "3",
+    "word": "猫",
+    "phonetic": "ねこ",
+    "mean": "cat"
+  },
+  {
+    "id": "34226",
+    "group": "1",
+    "word": "寝る",
+    "phonetic": "ねる",
+    "mean": "to go to bed,to sleep"
+  },
+  {
+    "id": "57437",
+    "group": "3",
+    "word": "飲み物",
+    "phonetic": "のみもの",
+    "mean": "a drink"
+  },
+  {
+    "id": "15800",
+    "group": "1",
+    "word": "飲む",
+    "phonetic": "のむ",
+    "mean": "to drink"
+  },
+  {
+    "id": "33743",
+    "group": "1",
+    "word": "乗る",
+    "phonetic": "のる",
+    "mean": "to get on,to ride"
+  },
+  {
+    "id": "29642",
+    "group": "3",
+    "word": "歯",
+    "phonetic": "は",
+    "mean": "tooth"
+  },
+  {
+    "id": "18895",
+    "group": "3",
+    "word": "灰皿",
+    "phonetic": "はいざら",
+    "mean": "ashtray"
+  },
+  {
+    "id": "44454",
+    "group": "1",
+    "word": "入る",
+    "phonetic": "はいる",
+    "mean": "to enter,to contain"
+  },
+  {
+    "id": "52315",
+    "group": "3",
+    "word": "葉書",
+    "phonetic": "はがき",
+    "mean": "postcard"
+  },
+  {
+    "id": "58106",
+    "group": "1",
+    "word": "履く",
+    "phonetic": "はく",
+    "mean": "to wear,to put on (lower body)"
+  },
+  {
+    "id": "55988",
+    "group": "3",
+    "word": "箱",
+    "phonetic": "はこ",
+    "mean": "box"
+  },
+  {
+    "id": "22329",
+    "group": "3",
+    "word": "橋",
+    "phonetic": "はし",
+    "mean": "bridge"
+  },
+  {
+    "id": "29104",
+    "group": "1",
+    "word": "始まる",
+    "phonetic": "はじまる",
+    "mean": "to begin"
+  },
+  {
+    "id": "32527",
+    "group": "4",
+    "word": "初めて",
+    "phonetic": "はじめて",
+    "mean": "for the first time"
+  },
+  {
+    "id": "38347",
+    "group": "1",
+    "word": "走る",
+    "phonetic": "はしる",
+    "mean": "to run"
+  },
+  {
+    "id": "57472",
+    "group": "6",
+    "word": "二十歳",
+    "phonetic": "はたち",
+    "mean": "20 years old,20th year"
+  },
+  {
+    "id": "43054",
+    "group": "1",
+    "word": "働く",
+    "phonetic": "はたらく",
+    "mean": "to work"
+  },
+  {
+    "id": "55744",
+    "group": "6",
+    "word": "八",
+    "phonetic": "はち",
+    "mean": "eight (Sino-Japanese)"
+  },
+  {
+    "id": "57478",
+    "group": "6",
+    "word": "二十日",
+    "phonetic": "はつか",
+    "mean": "twenty days,twentieth"
+  },
+  {
+    "id": "18170",
+    "group": "3",
+    "word": "花",
+    "phonetic": "はな",
+    "mean": "flower"
+  },
+  {
+    "id": "46504",
+    "group": "3",
+    "word": "鼻",
+    "phonetic": "はな",
+    "mean": "nose"
+  },
+  {
+    "id": "57483",
+    "group": "3",
+    "word": "話",
+    "phonetic": "はなし",
+    "mean": "talk,story"
+  },
+  {
+    "id": "53839",
+    "group": "1",
+    "word": "話す",
+    "phonetic": "はなす",
+    "mean": "to speak"
+  },
+  {
+    "id": "38587",
+    "group": "2",
+    "word": "早い",
+    "phonetic": "はやい",
+    "mean": "early"
+  },
+  {
+    "id": "32376",
+    "group": "3",
+    "word": "春",
+    "phonetic": "はる",
+    "mean": "spring"
+  },
+  {
+    "id": "35812",
+    "group": "3",
+    "word": "晴れ",
+    "phonetic": "はれ",
+    "mean": "clear weather"
+  },
+  {
+    "id": "35813",
+    "group": "1",
+    "word": "晴れる",
+    "phonetic": "はれる",
+    "mean": "to be sunny"
+  },
+  {
+    "id": "45730",
+    "group": "3",
+    "word": "半",
+    "phonetic": "はん",
+    "mean": "half"
+  },
+  {
+    "id": "46055",
+    "group": "3",
+    "word": "晩",
+    "phonetic": "ばん",
+    "mean": "evening"
+  },
+  {
+    "id": "46073",
+    "group": "3",
+    "word": "番号",
+    "phonetic": "ばんごう",
+    "mean": "number"
+  },
+  {
+    "id": "45841",
+    "group": "3",
+    "word": "半分",
+    "phonetic": "はんぶん",
+    "mean": "half minute"
+  },
+  {
+    "id": "42702",
+    "group": "3",
+    "word": "東",
+    "phonetic": "ひがし",
+    "mean": "east"
+  },
+  {
+    "id": "15741",
+    "group": "1",
+    "word": "引く",
+    "phonetic": "ひく",
+    "mean": "to pull"
+  },
+  {
+    "id": "39977",
+    "group": "1",
+    "word": "弾く",
+    "phonetic": "ひく",
+    "mean": "to play an instrument with strings (including piano)"
+  },
+  {
+    "id": "41415",
+    "group": "2",
+    "word": "低い",
+    "phonetic": "ひくい",
+    "mean": "short,low"
+  },
+  {
+    "id": "46382",
+    "group": "3",
+    "word": "飛行機",
+    "phonetic": "ひこうき",
+    "mean": "aeroplane"
+  },
+  {
+    "id": "27482",
+    "group": "3",
+    "word": "左",
+    "phonetic": "ひだり",
+    "mean": "left hand side"
+  },
+  {
+    "id": "34842",
+    "group": "3",
+    "word": "人",
+    "phonetic": "ひと",
+    "mean": "person"
+  },
+  {
+    "id": "14928",
+    "group": "6",
+    "word": "一つ",
+    "phonetic": "ひとつ",
+    "mean": "one (native Japanese)"
+  },
+  {
+    "id": "15055",
+    "group": "6",
+    "word": "一月",
+    "phonetic": "ひとつき",
+    "mean": "one month"
+  },
+  {
+    "id": "55065",
+    "group": "3",
+    "word": "一人",
+    "phonetic": "ひとり",
+    "mean": "one person"
+  },
+  {
+    "id": "55169",
+    "group": "3",
+    "word": "暇",
+    "phonetic": "ひま",
+    "mean": "free time"
+  },
+  {
+    "id": "46627",
+    "group": "6",
+    "word": "百",
+    "phonetic": "ひゃく",
+    "mean": "hundred"
+  },
+  {
+    "id": "46846",
+    "group": "3",
+    "word": "病院",
+    "phonetic": "びょういん",
+    "mean": "hospital"
+  },
+  {
+    "id": "46847",
+    "group": "3",
+    "word": "病気",
+    "phonetic": "びょうき",
+    "mean": "illness"
+  },
+  {
+    "id": "40640",
+    "group": "3",
+    "word": "昼",
+    "phonetic": "ひる",
+    "mean": "noon,daytime"
+  },
+  {
+    "id": "57625",
+    "group": "3",
+    "word": "昼ご飯",
+    "phonetic": "ひるごはん",
+    "mean": "midday meal"
+  },
+  {
+    "id": "26288",
+    "group": "2",
+    "word": "広い",
+    "phonetic": "ひろい",
+    "mean": "spacious,wide"
+  },
+  {
+    "id": "47772",
+    "group": "3",
+    "word": "封筒",
+    "phonetic": "ふうとう",
+    "mean": "envelope"
+  },
+  {
+    "id": "35258",
+    "group": "1",
+    "word": "吹く",
+    "phonetic": "ふく",
+    "mean": "to blow"
+  },
+  {
+    "id": "47893",
+    "group": "3",
+    "word": "服",
+    "phonetic": "ふく",
+    "mean": "clothes"
+  },
+  {
+    "id": "44023",
+    "group": "6",
+    "word": "二つ",
+    "phonetic": "ふたつ",
+    "mean": "two (native Japanese)"
+  },
+  {
+    "id": "43665",
+    "group": "3",
+    "word": "豚肉",
+    "phonetic": "ぶたにく",
+    "mean": "pork"
+  },
+  {
+    "id": "55706",
+    "group": "3",
+    "word": "二人",
+    "phonetic": "ふたり",
+    "mean": "two people"
+  },
+  {
+    "id": "44193",
+    "group": "6",
+    "word": "二日",
+    "phonetic": "ふつか",
+    "mean": "two days,second day of the month"
+  },
+  {
+    "id": "38901",
+    "group": "2",
+    "word": "太い",
+    "phonetic": "ふとい",
+    "mean": "fat"
+  },
+  {
+    "id": "42569",
+    "group": "3",
+    "word": "冬",
+    "phonetic": "ふゆ",
+    "mean": "winter"
+  },
+  {
+    "id": "26713",
+    "group": "1",
+    "word": "降る",
+    "phonetic": "ふる",
+    "mean": "to fall e.g. rain or snow"
+  },
+  {
+    "id": "25006",
+    "group": "2",
+    "word": "古い",
+    "phonetic": "ふるい",
+    "mean": "old (not used for people)"
+  },
+  {
+    "id": "47812",
+    "group": "3",
+    "word": "風呂",
+    "phonetic": "ふろ",
+    "mean": "bath"
+  },
+  {
+    "id": "48341",
+    "group": "3",
+    "word": "文章",
+    "phonetic": "ぶんしょう",
+    "mean": "sentence,text"
+  },
+  {
+    "id": "17260",
+    "group": "2",
+    "word": "下手",
+    "phonetic": "へた",
+    "mean": "unskillful"
+  },
+  {
+    "id": "47735",
+    "group": "3",
+    "word": "部屋",
+    "phonetic": "へや",
+    "mean": "room"
+  },
+  {
+    "id": "48977",
+    "group": "3",
+    "word": "辺",
+    "phonetic": "へん",
+    "mean": "area"
+  },
+  {
+    "id": "49035",
+    "group": "1",
+    "word": "勉強",
+    "phonetic": "べんきょうする",
+    "mean": "to study"
+  },
+  {
+    "id": "49029",
+    "group": "2",
+    "word": "便利",
+    "phonetic": "べんり",
+    "mean": "useful,convenient"
+  },
+  {
+    "id": "49664",
+    "group": "3",
+    "word": "帽子",
+    "phonetic": "ぼうし",
+    "mean": "hat"
+  },
+  {
+    "id": "19020",
+    "group": "3",
+    "word": "外",
+    "phonetic": "ほか",
+    "mean": "other place,the rest"
+  },
+  {
+    "id": "52386",
+    "group": "2",
+    "word": "欲しい",
+    "phonetic": "ほしい",
+    "mean": "want"
+  },
+  {
+    "id": "27942",
+    "group": "2",
+    "word": "細い",
+    "phonetic": "ほそい",
+    "mean": "thin"
+  },
+  {
+    "id": "49953",
+    "group": "3",
+    "word": "本",
+    "phonetic": "ほん",
+    "mean": "book"
+  },
+  {
+    "id": "50035",
+    "group": "3",
+    "word": "本棚",
+    "phonetic": "ほんだな",
+    "mean": "bookshelf"
+  },
+  {
+    "id": "50202",
+    "group": "4",
+    "word": "毎朝",
+    "phonetic": "まいあさ",
+    "mean": "every morning"
+  },
+  {
+    "id": "55867",
+    "group": "4",
+    "word": "毎月",
+    "phonetic": "まいげつ/まいつき",
+    "mean": "every month"
+  },
+  {
+    "id": "50201",
+    "group": "4",
+    "word": "毎週",
+    "phonetic": "まいしゅう",
+    "mean": "every week"
+  },
+  {
+    "id": "50204",
+    "group": "4",
+    "word": "毎日",
+    "phonetic": "まいにち",
+    "mean": "every day"
+  },
+  {
+    "id": "55868",
+    "group": "4",
+    "word": "毎年",
+    "phonetic": "まいねん/まいとし",
+    "mean": "every year"
+  },
+  {
+    "id": "50205",
+    "group": "4",
+    "word": "毎晩",
+    "phonetic": "まいばん",
+    "mean": "every night"
+  },
+  {
+    "id": "37366",
+    "group": "3",
+    "word": "前",
+    "phonetic": "まえ",
+    "mean": "before"
+  },
+  {
+    "id": "57787",
+    "group": "3",
+    "word": "町",
+    "phonetic": "まち",
+    "mean": "town,city"
+  },
+  {
+    "id": "39131",
+    "group": "1",
+    "word": "待つ",
+    "phonetic": "まつ",
+    "mean": "to wait"
+  },
+  {
+    "id": "38234",
+    "group": "3",
+    "word": "窓",
+    "phonetic": "まど",
+    "mean": "window"
+  },
+  {
+    "id": "50297",
+    "group": "6",
+    "word": "万",
+    "phonetic": "まん",
+    "mean": "ten thousand"
+  },
+  {
+    "id": "50357",
+    "group": "3",
+    "word": "万年筆",
+    "phonetic": "まんねんひつ",
+    "mean": "fountain pen"
+  },
+  {
+    "id": "50128",
+    "group": "1",
+    "word": "磨く",
+    "phonetic": "みがく",
+    "mean": "to brush teeth,to polish"
+  },
+  {
+    "id": "15910",
+    "group": "3",
+    "word": "右",
+    "phonetic": "みぎ",
+    "mean": "right side"
+  },
+  {
+    "id": "39905",
+    "group": "2",
+    "word": "短い",
+    "phonetic": "みじかい",
+    "mean": "short"
+  },
+  {
+    "id": "35307",
+    "group": "3",
+    "word": "水",
+    "phonetic": "みず",
+    "mean": "water"
+  },
+  {
+    "id": "55649",
+    "group": "3",
+    "word": "店",
+    "phonetic": "みせ",
+    "mean": "shop"
+  },
+  {
+    "id": "24437",
+    "group": "1",
+    "word": "見せる",
+    "phonetic": "みせる",
+    "mean": "to show"
+  },
+  {
+    "id": "43342",
+    "group": "3",
+    "word": "道",
+    "phonetic": "みち",
+    "mean": "street"
+  },
+  {
+    "id": "28505",
+    "group": "6",
+    "word": "三日",
+    "phonetic": "みっか",
+    "mean": "three days,third day of the month"
+  },
+  {
+    "id": "28354",
+    "group": "6",
+    "word": "三つ",
+    "phonetic": "みっつ",
+    "mean": "three (native Japanese)"
+  },
+  {
+    "id": "53151",
+    "group": "2",
+    "word": "緑",
+    "phonetic": "みどり",
+    "mean": "green"
+  },
+  {
+    "id": "18917",
+    "group": "3",
+    "word": "皆さん",
+    "phonetic": "みなさん",
+    "mean": "everyone"
+  },
+  {
+    "id": "43902",
+    "group": "3",
+    "word": "南",
+    "phonetic": "みなみ",
+    "mean": "south"
+  },
+  {
+    "id": "30053",
+    "group": "3",
+    "word": "耳",
+    "phonetic": "みみ",
+    "mean": "ear"
+  },
+  {
+    "id": "24444",
+    "group": "1",
+    "word": "見る",
+    "phonetic": "みる",
+    "mean": "to see,to watch"
+  },
+  {
+    "id": "18916",
+    "group": "3",
+    "word": "皆",
+    "phonetic": "みんな",
+    "mean": "all,everyone,everybody"
+  },
+  {
+    "id": "53751",
+    "group": "6",
+    "word": "六日",
+    "phonetic": "むいか",
+    "mean": "six days,sixth day of the month"
+  },
+  {
+    "id": "26165",
+    "group": "4",
+    "word": "向こう",
+    "phonetic": "むこう",
+    "mean": "over there"
+  },
+  {
+    "id": "43993",
+    "group": "2",
+    "word": "難しい",
+    "phonetic": "むずかしい",
+    "mean": "difficult"
+  },
+  {
+    "id": "55967",
+    "group": "6",
+    "word": "六つ",
+    "phonetic": "むっつ",
+    "mean": "six (native Japanese)"
+  },
+  {
+    "id": "38768",
+    "group": "3",
+    "word": "村",
+    "phonetic": "むら",
+    "mean": "village"
+  },
+  {
+    "id": "57877",
+    "group": "3",
+    "word": "目",
+    "phonetic": "め",
+    "mean": "eye"
+  },
+  {
+    "id": "55206",
+    "group": "3",
+    "word": "眼鏡",
+    "phonetic": "めがね",
+    "mean": "glasses"
+  },
+  {
+    "id": "94004",
+    "group": "4",
+    "word": "もう一度",
+    "phonetic": "もういちど",
+    "mean": "again"
+  },
+  {
+    "id": "51175",
+    "group": "3",
+    "word": "木曜日",
+    "phonetic": "もくようび",
+    "mean": "Thursday"
+  },
+  {
+    "id": "29909",
+    "group": "1",
+    "word": "持つ",
+    "phonetic": "もつ",
+    "mean": "to hold"
+  },
+  {
+    "id": "48035",
+    "group": "3",
+    "word": "物",
+    "phonetic": "もの",
+    "mean": "thing"
+  },
+  {
+    "id": "55912",
+    "group": "3",
+    "word": "門",
+    "phonetic": "もん",
+    "mean": "gate"
+  },
+  {
+    "id": "51282",
+    "group": "3",
+    "word": "問題",
+    "phonetic": "もんだい",
+    "mean": "problem"
+  },
+  {
+    "id": "45559",
+    "group": "3",
+    "word": "八百屋",
+    "phonetic": "やおや",
+    "mean": "greengrocer"
+  },
+  {
+    "id": "51416",
+    "group": "3",
+    "word": "野菜",
+    "phonetic": "やさい",
+    "mean": "vegetable"
+  },
+  {
+    "id": "14556",
+    "group": "2",
+    "word": "易しい",
+    "phonetic": "やさしい",
+    "mean": "easy,simple"
+  },
+  {
+    "id": "14236",
+    "group": "2",
+    "word": "安い",
+    "phonetic": "やすい",
+    "mean": "cheap"
+  },
+  {
+    "id": "21364",
+    "group": "3",
+    "word": "休み",
+    "phonetic": "やすみ",
+    "mean": "rest,holiday"
+  },
+  {
+    "id": "21370",
+    "group": "1",
+    "word": "休む",
+    "phonetic": "やすむ",
+    "mean": "to rest"
+  },
+  {
+    "id": "55745",
+    "group": "6",
+    "word": "八つ",
+    "phonetic": "やっつ",
+    "mean": "eight (native Japanese)"
+  },
+  {
+    "id": "28635",
+    "group": "3",
+    "word": "山",
+    "phonetic": "やま",
+    "mean": "mountain"
+  },
+  {
+    "id": "51947",
+    "group": "3",
+    "word": "夕方",
+    "phonetic": "ゆうがた",
+    "mean": "evening"
+  },
+  {
+    "id": "55922",
+    "group": "3",
+    "word": "夕飯",
+    "phonetic": "ゆうはん",
+    "mean": "dinner"
+  },
+  {
+    "id": "51914",
+    "group": "3",
+    "word": "郵便局",
+    "phonetic": "ゆうびんきょく",
+    "mean": "post office"
+  },
+  {
+    "id": "51835",
+    "group": "2",
+    "word": "有名",
+    "phonetic": "ゆうめい",
+    "mean": "famous"
+  },
+  {
+    "id": "36778",
+    "group": "3",
+    "word": "雪",
+    "phonetic": "ゆき",
+    "mean": "snow"
+  },
+  {
+    "id": "55322",
+    "group": "1",
+    "word": "行く",
+    "phonetic": "ゆく",
+    "mean": "to go"
+  },
+  {
+    "id": "45555",
+    "group": "6",
+    "word": "八日",
+    "phonetic": "ようか",
+    "mean": "eight days,eighth day of the month"
+  },
+  {
+    "id": "52260",
+    "group": "3",
+    "word": "洋服",
+    "phonetic": "ようふく",
+    "mean": "western-style clothes"
+  },
+  {
+    "id": "16823",
+    "group": "3",
+    "word": "横",
+    "phonetic": "よこ",
+    "mean": "beside,side,width"
+  },
+  {
+    "id": "29086",
+    "group": "6",
+    "word": "四日",
+    "phonetic": "よっか",
+    "mean": "four days,fourth day of the month"
+  },
+  {
+    "id": "29059",
+    "group": "6",
+    "word": "四つ",
+    "phonetic": "よっつ",
+    "mean": "four (native Japanese)"
+  },
+  {
+    "id": "25140",
+    "group": "1",
+    "word": "呼ぶ",
+    "phonetic": "よぶ",
+    "mean": "to call out,to invite"
+  },
+  {
+    "id": "43561",
+    "group": "1",
+    "word": "読む",
+    "phonetic": "よむ",
+    "mean": "to read"
+  },
+  {
+    "id": "51315",
+    "group": "3",
+    "word": "夜",
+    "phonetic": "よる",
+    "mean": "evening,night"
+  },
+  {
+    "id": "30774",
+    "group": "2",
+    "word": "弱い",
+    "phonetic": "よわい",
+    "mean": "weak"
+  },
+  {
+    "id": "52442",
+    "group": "3",
+    "word": "来月",
+    "phonetic": "らいげつ",
+    "mean": "next month"
+  },
+  {
+    "id": "52453",
+    "group": "3",
+    "word": "来週",
+    "phonetic": "らいしゅう",
+    "mean": "next week"
+  },
+  {
+    "id": "52473",
+    "group": "3",
+    "word": "来年",
+    "phonetic": "らいねん",
+    "mean": "next year"
+  },
+  {
+    "id": "52910",
+    "group": "3",
+    "word": "留学生",
+    "phonetic": "りゅうがくせい",
+    "mean": "overseas student"
+  },
+  {
+    "id": "57661",
+    "group": "3",
+    "word": "両親",
+    "phonetic": "りょうしん",
+    "mean": "both parents"
+  },
+  {
+    "id": "53061",
+    "group": "3",
+    "word": "料理",
+    "phonetic": "りょうり",
+    "mean": "cuisine"
+  },
+  {
+    "id": "52951",
+    "group": "3",
+    "word": "旅行",
+    "phonetic": "りょこう",
+    "mean": "travel"
+  },
+  {
+    "id": "53377",
+    "group": "6",
+    "word": "零",
+    "phonetic": "れい",
+    "mean": "zero"
+  },
+  {
+    "id": "53327",
+    "group": "3",
+    "word": "冷蔵庫",
+    "phonetic": "れいぞうこ",
+    "mean": "refrigerator"
+  },
+  {
+    "id": "53524",
+    "group": "1",
+    "word": "練習",
+    "phonetic": "れんしゅうする",
+    "mean": "to practice"
+  },
+  {
+    "id": "53672",
+    "group": "3",
+    "word": "廊下",
+    "phonetic": "ろうか",
+    "mean": "corridor"
+  },
+  {
+    "id": "55966",
+    "group": "6",
+    "word": "六",
+    "phonetic": "ろく",
+    "mean": "six (Sino-Japanese)"
+  },
+  {
+    "id": "30754",
+    "group": "2",
+    "word": "若い",
+    "phonetic": "わかい",
+    "mean": "young"
+  },
+  {
+    "id": "58041",
+    "group": "1",
+    "word": "分かる",
+    "phonetic": "わかる",
+    "mean": "to be understood"
+  },
+  {
+    "id": "49668",
+    "group": "1",
+    "word": "忘れる",
+    "phonetic": "わすれる",
+    "mean": "to forget"
+  },
+  {
+    "id": "29458",
+    "group": "3",
+    "word": "私",
+    "phonetic": "わたくし",
+    "mean": "(humble) I,myself"
+  },
+  {
+    "id": "29458",
+    "group": "3",
+    "word": "私",
+    "phonetic": "わたし",
+    "mean": "I,myself"
+  },
+  {
+    "id": "42427",
+    "group": "1",
+    "word": "渡す",
+    "phonetic": "わたす",
+    "mean": "to hand over"
+  },
+  {
+    "id": "42434",
+    "group": "1",
+    "word": "渡る",
+    "phonetic": "わたる",
+    "mean": "to go across"
+  },
+  {
+    "id": "14007",
+    "group": "2",
+    "word": "悪い",
+    "phonetic": "わるい",
+    "mean": "bad"
+  }
+]
